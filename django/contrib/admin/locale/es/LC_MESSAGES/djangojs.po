@@ -13,18 +13,19 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-17 23:12+0200\n"
 "PO-Revision-Date: 2017-09-19 16:41+0000\n"
-"Last-Translator: Ernesto Avilés Vázquez <whippiii@gmail.com>\n"
-"Language-Team: Spanish (http://www.transifex.com/django/django/language/"
-"es/)\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
+"Language-Team: Spanish (http://www.transifex.com/django/django/language/es/)"
+"\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-09-27 16:51+0000\n"
 
 #, javascript-format
 msgid "Available %s"
-msgstr "%s Disponibles"
+msgstr "%s disponibles"
 
 #, javascript-format
 msgid ""
@@ -37,17 +38,17 @@ msgstr ""
 
 #, javascript-format
 msgid "Type into this box to filter down the list of available %s."
-msgstr "Escriba en este cuadro para filtrar la lista de %s disponibles"
+msgstr "Escriba en este cuadro para filtrar la lista de %s disponibles."
 
 msgid "Filter"
 msgstr "Filtro"
 
 msgid "Choose all"
-msgstr "Selecciona todos"
+msgstr "Seleccionar todos"
 
 #, javascript-format
 msgid "Click to choose all %s at once."
-msgstr "Haga clic para seleccionar todos los %s de una vez"
+msgstr "Haga clic para seleccionar todos los %s de una vez."
 
 msgid "Choose"
 msgstr "Elegir"
@@ -64,21 +65,20 @@ msgid ""
 "This is the list of chosen %s. You may remove some by selecting them in the "
 "box below and then clicking the \"Remove\" arrow between the two boxes."
 msgstr ""
-"Esta es la lista de los %s elegidos. Puede elmininar algunos "
-"seleccionándolos en la caja inferior y luego haciendo click en la flecha "
-"\"Eliminar\" que hay entre las dos cajas."
+"Esta es la lista de %s elegidos. Puede eliminar algunos seleccionándolos en "
+"la caja inferior y luego haciendo clic en la flecha \"Eliminar\" que hay "
+"entre las dos cajas."
 
 msgid "Remove all"
 msgstr "Eliminar todos"
 
 #, javascript-format
 msgid "Click to remove all chosen %s at once."
-msgstr "Haz clic para eliminar todos los %s elegidos"
+msgstr "Haga clic para eliminar todos los %s elegidos de una vez."
 
 msgid "%(sel)s of %(cnt)s selected"
 msgid_plural "%(sel)s of %(cnt)s selected"
-msgstr[0] "%(sel)s de %(cnt)s seleccionado"
-msgstr[1] "%(sel)s de  %(cnt)s seleccionados"
+msgstr[0] "%(sel)s de %(cnt)s seleccionados"
 
 msgid ""
 "You have unsaved changes on individual editable fields. If you run an "
@@ -93,29 +93,27 @@ msgid ""
 "action."
 msgstr ""
 "Ha seleccionado una acción, pero no ha guardado los cambios en los campos "
-"individuales todavía. Pulse OK para guardar. Tendrá que volver a ejecutar la "
-"acción."
+"individuales aún. Por favor, haga clic en OK para guardar. Tendrá que volver "
+"a ejecutar la acción."
 
 msgid ""
 "You have selected an action, and you haven't made any changes on individual "
 "fields. You're probably looking for the Go button rather than the Save "
 "button."
 msgstr ""
-"Ha seleccionado una acción y no hs hecho ningún cambio en campos "
+"Ha seleccionado una acción y no ha hecho ningún cambio en los campos "
 "individuales. Probablemente esté buscando el botón Ejecutar en lugar del "
 "botón Guardar."
 
 #, javascript-format
 msgid "Note: You are %s hour ahead of server time."
 msgid_plural "Note: You are %s hours ahead of server time."
-msgstr[0] "Nota: Usted esta a %s horas por delante de la hora del servidor."
-msgstr[1] "Nota: Usted va %s horas por delante de la hora del servidor."
+msgstr[0] "Nota: Estás a %s horas por delante de la hora del servidor."
 
 #, javascript-format
 msgid "Note: You are %s hour behind server time."
 msgid_plural "Note: You are %s hours behind server time."
-msgstr[0] "Nota: Usted esta a %s hora de retraso de tiempo de servidor."
-msgstr[1] "Nota: Usted va %s horas por detrás de la hora del servidor."
+msgstr[0] "Nota: Estás a %s hora de retraso con respecto a la hora del servidor."
 
 msgid "Now"
 msgstr "Ahora"
