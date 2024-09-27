@@ -15,14 +15,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-16 20:42+0100\n"
 "PO-Revision-Date: 2019-02-19 08:55+0000\n"
-"Last-Translator: Ignacio José Lizarán Rus <ilizaran@gmail.com>\n"
-"Language-Team: Spanish (http://www.transifex.com/django/django/language/"
-"es/)\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
+"Language-Team: Spanish (http://www.transifex.com/django/django/language/es/)"
+"\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-09-27 18:04+0000\n"
 
 msgid "Humanize"
 msgstr "Humanizar"
@@ -193,26 +194,22 @@ msgstr[1] "%(value)s quintillones"
 #, python-format
 msgid "%(value).1f decillion"
 msgid_plural "%(value).1f decillion"
-msgstr[0] "%(value).1f quintillardo"
-msgstr[1] "%(value).1f quintillardos"
+msgstr[0] "%(value).1f decillion"
 
 #, python-format
 msgid "%(value)s decillion"
 msgid_plural "%(value)s decillion"
-msgstr[0] "%(value)s quintillardo"
-msgstr[1] "%(value)s quintillardos"
+msgstr[0] "%(value)s decillion"
 
 #, python-format
 msgid "%(value).1f googol"
 msgid_plural "%(value).1f googol"
 msgstr[0] "%(value).1f googol"
-msgstr[1] "%(value).1f googol"
 
 #, python-format
 msgid "%(value)s googol"
 msgid_plural "%(value)s googol"
-msgstr[0] " %(value)s  googol"
-msgstr[1] " %(value)s  googol"
+msgstr[0] "%(value)s googol"
 
 msgid "one"
 msgstr "uno"
@@ -262,7 +259,6 @@ msgstr "hace %(delta)s"
 msgid "an hour ago"
 msgid_plural "%(count)s hours ago"
 msgstr[0] "hace una hora"
-msgstr[1] "hace %(count)s horas"
 
 #. Translators: please keep a non-breaking space (U+00A0) between count
 #. and time unit.
@@ -270,7 +266,6 @@ msgstr[1] "hace %(count)s horas"
 msgid "a minute ago"
 msgid_plural "%(count)s minutes ago"
 msgstr[0] "hace un minuto"
-msgstr[1] "hace %(count)s minutos"
 
 #. Translators: please keep a non-breaking space (U+00A0) between count
 #. and time unit.
@@ -278,7 +273,6 @@ msgstr[1] "hace %(count)s minutos"
 msgid "a second ago"
 msgid_plural "%(count)s seconds ago"
 msgstr[0] "hace un segundo"
-msgstr[1] "hace %(count)s segundos"
 
 msgid "now"
 msgstr "ahora"
@@ -289,7 +283,6 @@ msgstr "ahora"
 msgid "a second from now"
 msgid_plural "%(count)s seconds from now"
 msgstr[0] "un segundo a partir de ahora"
-msgstr[1] "%(count)s segundos a partir de ahora"
 
 #. Translators: please keep a non-breaking space (U+00A0) between count
 #. and time unit.
@@ -297,7 +290,6 @@ msgstr[1] "%(count)s segundos a partir de ahora"
 msgid "a minute from now"
 msgid_plural "%(count)s minutes from now"
 msgstr[0] "un minuto a partir de ahora"
-msgstr[1] "%(count)s minutos a partir de ahora"
 
 #. Translators: please keep a non-breaking space (U+00A0) between count
 #. and time unit.
@@ -305,7 +297,6 @@ msgstr[1] "%(count)s minutos a partir de ahora"
 msgid "an hour from now"
 msgid_plural "%(count)s hours from now"
 msgstr[0] "una hora a partir de ahora"
-msgstr[1] "%(count)s horas a partir de ahora"
 
 #. Translators: delta will contain a string like '2 months' or '1 month, 2
 #. weeks'
