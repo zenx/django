@@ -14,14 +14,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-15 16:15+0100\n"
 "PO-Revision-Date: 2017-11-17 09:05+0000\n"
-"Last-Translator: Venelin Stoykov <vkstoykov@gmail.com>\n"
-"Language-Team: Bulgarian (http://www.transifex.com/django/django/language/"
-"bg/)\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/django/django/language/bg/"
+")\n"
+"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: bg\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-09-30 17:51+0000\n"
 
 msgid "Afrikaans"
 msgstr "Африкански"
@@ -66,7 +67,7 @@ msgid "German"
 msgstr "немски език"
 
 msgid "Lower Sorbian"
-msgstr ""
+msgstr "Долни сорбски"
 
 msgid "Greek"
 msgstr "гръцки език"
@@ -123,7 +124,7 @@ msgid "Irish"
 msgstr "ирландски език"
 
 msgid "Scottish Gaelic"
-msgstr ""
+msgstr "Шотландски галицки"
 
 msgid "Galician"
 msgstr "галицейски език"
@@ -138,7 +139,7 @@ msgid "Croatian"
 msgstr "хърватски език"
 
 msgid "Upper Sorbian"
-msgstr ""
+msgstr "Горни сорбски"
 
 msgid "Hungarian"
 msgstr "унгарски език"
@@ -201,7 +202,7 @@ msgid "Burmese"
 msgstr "Бурмесе"
 
 msgid "Norwegian Bokmål"
-msgstr ""
+msgstr "Норвегия Бокмал"
 
 msgid "Nepali"
 msgstr "Непалски"
@@ -418,7 +419,7 @@ msgstr ""
 "са:  '%(allowed_extensions)s'."
 
 msgid "Null characters are not allowed."
-msgstr ""
+msgstr "Не са разрешени нулеви символи."
 
 msgid "and"
 msgstr "и"
@@ -624,11 +625,11 @@ msgstr "словенски език"
 
 #, python-format
 msgid "%(from)s-%(to)s relationship"
-msgstr ""
+msgstr "Връзка %(from)s-%(to)s"
 
 #, python-format
 msgid "%(from)s-%(to)s relationships"
-msgstr ""
+msgstr "Връзки %(from)s-%(to)s"
 
 msgid "Many-to-many relationship"
 msgstr "Много-към-много връзка"
@@ -753,14 +754,14 @@ msgid "Please correct the duplicate values below."
 msgstr "Моля, коригирайте повтарящите се стойности по-долу."
 
 msgid "The inline value did not match the parent instance."
-msgstr ""
+msgstr "Вградената стойност не съвпада с родителския екземпляр."
 
 msgid "Select a valid choice. That choice is not one of the available choices."
 msgstr "Направете валиден избор. Този не е един от възможните избори.  "
 
 #, python-format
 msgid "\"%(pk)s\" is not a valid value."
-msgstr ""
+msgstr "\\%(pk)s\\\" не е валидна стойност.\""
 
 #, python-format
 msgid ""
@@ -1157,7 +1158,7 @@ msgid "No year specified"
 msgstr "Не е посочена година"
 
 msgid "Date out of range"
-msgstr ""
+msgstr "Дата извън обхвата"
 
 msgid "No month specified"
 msgstr "Не е посочен месец"
@@ -1218,9 +1219,12 @@ msgid ""
 "View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
 "target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
 msgstr ""
+"Прегледайте <a href=\\https://docs.djangoproject.com/en/%(version)s/releases/"
+"\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">бележките за версията</a> на "
+"Django %(version)s\""
 
 msgid "The install worked successfully! Congratulations!"
-msgstr ""
+msgstr "Инсталацията беше успешна! Поздравления!"
 
 #, python-format
 msgid ""
@@ -1238,16 +1242,16 @@ msgid "Django Documentation"
 msgstr "Django Документация"
 
 msgid "Topics, references, &amp; how-to's"
-msgstr ""
+msgstr "Теми, референции и ръководства"
 
 msgid "Tutorial: A Polling App"
-msgstr ""
+msgstr "Учебник: Приложение за анкети"
 
 msgid "Get started with Django"
 msgstr "Започнете с Django"
 
 msgid "Django Community"
-msgstr ""
+msgstr "Общество на Django"
 
 msgid "Connect, get help, or contribute"
-msgstr ""
+msgstr "Свържете се, получете помощ или допринесете"
