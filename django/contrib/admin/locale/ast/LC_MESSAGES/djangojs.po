@@ -8,14 +8,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-17 23:12+0200\n"
 "PO-Revision-Date: 2017-09-20 02:41+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
-"Language-Team: Asturian (http://www.transifex.com/django/django/language/"
-"ast/)\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
+"Language-Team: Asturian (http://www.transifex.com/django/django/language/ast/"
+")\n"
+"Language: ast\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ast\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-09-30 17:46+0000\n"
 
 #, javascript-format
 msgid "Available %s"
@@ -26,10 +27,13 @@ msgid ""
 "This is the list of available %s. You may choose some by selecting them in "
 "the box below and then clicking the \"Choose\" arrow between the two boxes."
 msgstr ""
+"Esta ye la llista de %s disponibles. Pue escoyer algunos seleccionándolos na "
+"caja de abajo y luego dando clic na flecha de \"Escoyer\" ente les dos "
+"caixes."
 
 #, javascript-format
 msgid "Type into this box to filter down the list of available %s."
-msgstr ""
+msgstr "Escribe nel estu caixa pa filtrar la llista de %s disponibles."
 
 msgid "Filter"
 msgstr "Filtrar"
@@ -56,6 +60,8 @@ msgid ""
 "This is the list of chosen %s. You may remove some by selecting them in the "
 "box below and then clicking the \"Remove\" arrow between the two boxes."
 msgstr ""
+"Esta ye la llista de %s escoyíos. Pue quitar algunos seleccionándolos na "
+"caja de abajo y luego dando clic na flecha de \"Quitar\" ente les dos caixes."
 
 msgid "Remove all"
 msgstr "Desaniciar too"
@@ -73,6 +79,8 @@ msgid ""
 "You have unsaved changes on individual editable fields. If you run an "
 "action, your unsaved changes will be lost."
 msgstr ""
+"Tienes cambiu sin guardar en los campos editables individuales. Si realizas "
+"una acción, los cambius sin guardar se perderán."
 
 msgid ""
 "You have selected an action, but you haven't saved your changes to "
@@ -95,20 +103,18 @@ msgstr ""
 #, javascript-format
 msgid "Note: You are %s hour ahead of server time."
 msgid_plural "Note: You are %s hours ahead of server time."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Nota: Tienes %s hora d'adelanto con la hora del servidor."
 
 #, javascript-format
 msgid "Note: You are %s hour behind server time."
 msgid_plural "Note: You are %s hours behind server time."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Nota: Tienes %s hora de retrasu con la hora del servidor."
 
 msgid "Now"
 msgstr "Agora"
 
 msgid "Choose a Time"
-msgstr ""
+msgstr "Escoyer una Hora"
 
 msgid "Choose a time"
 msgstr "Escueyi una hora"
@@ -117,13 +123,13 @@ msgid "Midnight"
 msgstr "Media nueche"
 
 msgid "6 a.m."
-msgstr ""
+msgstr "6 a.m."
 
 msgid "Noon"
 msgstr "Meudía"
 
 msgid "6 p.m."
-msgstr ""
+msgstr "6 p.m."
 
 msgid "Cancel"
 msgstr "Encaboxar"
@@ -132,7 +138,7 @@ msgid "Today"
 msgstr "Güei"
 
 msgid "Choose a Date"
-msgstr ""
+msgstr "Escoyer una Fecha"
 
 msgid "Yesterday"
 msgstr "Ayeri"
@@ -141,68 +147,68 @@ msgid "Tomorrow"
 msgstr "Mañana"
 
 msgid "January"
-msgstr ""
+msgstr "Xineru"
 
 msgid "February"
-msgstr ""
+msgstr "Febreru"
 
 msgid "March"
-msgstr ""
+msgstr "Marzu"
 
 msgid "April"
-msgstr ""
+msgstr "Abril"
 
 msgid "May"
-msgstr ""
+msgstr "Mayu"
 
 msgid "June"
-msgstr ""
+msgstr "Xunu"
 
 msgid "July"
-msgstr ""
+msgstr "Xunu"
 
 msgid "August"
-msgstr ""
+msgstr "Agostu"
 
 msgid "September"
-msgstr ""
+msgstr "Setiembre"
 
 msgid "October"
-msgstr ""
+msgstr "Obtubre"
 
 msgid "November"
-msgstr ""
+msgstr "Noviembre"
 
 msgid "December"
-msgstr ""
+msgstr "Diciembre"
 
 msgctxt "one letter Sunday"
 msgid "S"
-msgstr ""
+msgstr "D"
 
 msgctxt "one letter Monday"
 msgid "M"
-msgstr ""
+msgstr "L"
 
 msgctxt "one letter Tuesday"
 msgid "T"
-msgstr ""
+msgstr "M"
 
 msgctxt "one letter Wednesday"
 msgid "W"
-msgstr ""
+msgstr "X"
 
 msgctxt "one letter Thursday"
 msgid "T"
-msgstr ""
+msgstr "J"
 
 msgctxt "one letter Friday"
 msgid "F"
-msgstr ""
+msgstr "V"
 
 msgctxt "one letter Saturday"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 msgid "Show"
 msgstr "Amosar"

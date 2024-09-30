@@ -8,14 +8,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-24 13:46+0200\n"
 "PO-Revision-Date: 2017-09-24 14:24+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
-"Language-Team: Asturian (http://www.transifex.com/django/django/language/"
-"ast/)\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
+"Language-Team: Asturian (http://www.transifex.com/django/django/language/ast/"
+")\n"
+"Language: ast\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ast\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-09-30 17:47+0000\n"
 
 msgid "Personal info"
 msgstr "Información personal"
@@ -38,7 +39,7 @@ msgid "Change password: %s"
 msgstr "Camudar contraseña: %s"
 
 msgid "Authentication and Authorization"
-msgstr ""
+msgstr "Autentificación y Autorització"
 
 msgid "password"
 msgstr "contraseña"
@@ -74,6 +75,8 @@ msgid ""
 "Please enter a correct %(username)s and password. Note that both fields may "
 "be case-sensitive."
 msgstr ""
+"Por favor, introduce un %(username)s y una contraseña correctos. Ten en "
+"cuenta que ambos campos pueden ser sensibles a mayúsculas y minúsculas."
 
 msgid "This account is inactive."
 msgstr "Esta cuenta ta inactiva"
@@ -85,46 +88,48 @@ msgid "New password"
 msgstr "Contraseña nueva"
 
 msgid "New password confirmation"
-msgstr ""
+msgstr "Confirmación del nuevu password"
 
 msgid "Your old password was entered incorrectly. Please enter it again."
 msgstr ""
+"La tu vieja contraseña foi introducida incorrectamente. Por favor, "
+"introdúcela de nuevu."
 
 msgid "Old password"
-msgstr ""
+msgstr "Contraseña antiga"
 
 msgid "Password (again)"
-msgstr ""
+msgstr "Contraseña (de nuevo)"
 
 msgid "algorithm"
 msgstr "algoritmu"
 
 msgid "iterations"
-msgstr ""
+msgstr "iteracións"
 
 msgid "salt"
-msgstr ""
+msgstr "sal"
 
 msgid "hash"
-msgstr ""
+msgstr "hash"
 
 msgid "variety"
-msgstr ""
+msgstr "variedá"
 
 msgid "version"
-msgstr ""
+msgstr "versión"
 
 msgid "memory cost"
-msgstr ""
+msgstr "costu de memoria"
 
 msgid "time cost"
-msgstr ""
+msgstr "costo de tiempo"
 
 msgid "parallelism"
-msgstr ""
+msgstr "paralelismu"
 
 msgid "work factor"
-msgstr ""
+msgstr "factor de trabayu"
 
 msgid "checksum"
 msgstr "suma de comprobación"
@@ -133,10 +138,10 @@ msgid "name"
 msgstr "nome"
 
 msgid "content type"
-msgstr ""
+msgstr "tipu de conteníu"
 
 msgid "codename"
-msgstr ""
+msgstr "codename"
 
 msgid "permission"
 msgstr "permisu"
@@ -157,17 +162,21 @@ msgid ""
 "Designates that this user has all permissions without explicitly assigning "
 "them."
 msgstr ""
+"Designa que este xente tien tolos permisos sin asignalos explícitamente."
 
 msgid ""
 "The groups this user belongs to. A user will get all permissions granted to "
 "each of their groups."
 msgstr ""
+"Les grupos a los que pertenece este usuario. Un usuario recibirá todos los "
+"permisos concedidos a cada uno de sus grupos."
 
 msgid "user permissions"
 msgstr "permisos d'usuariu"
 
+# ''
 msgid "Specific permissions for this user."
-msgstr ""
+msgstr "Permisos específicos para este usuariu."
 
 msgid "username"
 msgstr "nome d'usuariu"
@@ -188,10 +197,11 @@ msgid "email address"
 msgstr "direición de corréu"
 
 msgid "staff status"
-msgstr ""
+msgstr "estado del personal"
 
 msgid "Designates whether the user can log into this admin site."
 msgstr ""
+"Designa si el usuario puede iniciar sesión en este sitio de administración."
 
 msgid "active"
 msgstr "activu"
@@ -200,9 +210,11 @@ msgid ""
 "Designates whether this user should be treated as active. Unselect this "
 "instead of deleting accounts."
 msgstr ""
+"Designa si este usuariu debe ser tratáu como activu. Deselecte esto en vez "
+"de borrar comptes."
 
 msgid "date joined"
-msgstr ""
+msgstr "data d'unión"
 
 msgid "user"
 msgstr "usuariu"
@@ -218,36 +230,38 @@ msgid_plural ""
 "This password is too short. It must contain at least %(min_length)d "
 "characters."
 msgstr[0] ""
-msgstr[1] ""
+"Esta contraseña ye too corta. Tiene que contener al menos %(min_length)d "
+"caráxer."
 
 #, python-format
 msgid "Your password must contain at least %(min_length)d character."
 msgid_plural "Your password must contain at least %(min_length)d characters."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "La túa constraseña ha de conténer al menos %(min_length)d caráters."
 
 #, python-format
 msgid "The password is too similar to the %(verbose_name)s."
-msgstr ""
+msgstr "La contraseña ye demasiado similar a la %(verbose_name)s."
 
 msgid "Your password can't be too similar to your other personal information."
 msgstr ""
+"La to contraseña non puede ser demasiado similar a la to otra información "
+"personal."
 
 msgid "This password is too common."
-msgstr ""
+msgstr "Esta contraseña ye demasiado común."
 
 msgid "Your password can't be a commonly used password."
-msgstr ""
+msgstr "La tu contraseña no puede ser una contraseña comúnmente utilizada."
 
 msgid "This password is entirely numeric."
-msgstr ""
+msgstr "Esta contraseya ye enteramente numérica."
 
 msgid "Your password can't be entirely numeric."
-msgstr ""
+msgstr "La so contraseña nun puede ser entera y numérica."
 
 #, python-format
 msgid "Password reset on %(site_name)s"
-msgstr ""
+msgstr "Restablecimiento de contraseña en %(site_name)s"
 
 msgid ""
 "Enter a valid username. This value may contain only English letters, "
@@ -260,25 +274,25 @@ msgid ""
 msgstr ""
 
 msgid "Logged out"
-msgstr ""
+msgstr "Desconectado"
 
 msgid "Password reset"
-msgstr ""
+msgstr "Restablecimientu de la contraseña"
 
 msgid "Password reset sent"
-msgstr ""
+msgstr "Restablecimiento de contrasinal enviáu"
 
 msgid "Enter new password"
-msgstr ""
+msgstr "Entrar nueva contraseña"
 
 msgid "Password reset unsuccessful"
-msgstr ""
+msgstr "Reinicio de contraseña fallido"
 
 msgid "Password reset complete"
-msgstr ""
+msgstr "Restauración de la contraseña completa"
 
 msgid "Password change"
 msgstr ""
 
 msgid "Password change successful"
-msgstr ""
+msgstr "Cambiou de contrasinal cun éxito"

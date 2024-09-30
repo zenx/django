@@ -8,14 +8,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-15 16:15+0100\n"
 "PO-Revision-Date: 2017-11-16 01:13+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
-"Language-Team: Asturian (http://www.transifex.com/django/django/language/"
-"ast/)\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
+"Language-Team: Asturian (http://www.transifex.com/django/django/language/ast/"
+")\n"
+"Language: ast\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ast\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-09-30 17:43+0000\n"
 
 msgid "Afrikaans"
 msgstr "Afrikáans"
@@ -24,7 +25,7 @@ msgid "Arabic"
 msgstr "Árabe"
 
 msgid "Asturian"
-msgstr ""
+msgstr "Asturianu"
 
 msgid "Azerbaijani"
 msgstr "Azerbaixanu"
@@ -60,7 +61,7 @@ msgid "German"
 msgstr "Alemán"
 
 msgid "Lower Sorbian"
-msgstr ""
+msgstr "Bajo Sorbio"
 
 msgid "Greek"
 msgstr "Griegu"
@@ -69,7 +70,7 @@ msgid "English"
 msgstr "Inglés"
 
 msgid "Australian English"
-msgstr ""
+msgstr "Inglés australianu"
 
 msgid "British English"
 msgstr "Inglés británicu"
@@ -84,7 +85,7 @@ msgid "Argentinian Spanish"
 msgstr "Español arxentín"
 
 msgid "Colombian Spanish"
-msgstr ""
+msgstr "Español colombiano"
 
 msgid "Mexican Spanish"
 msgstr "Español mexicanu"
@@ -117,7 +118,7 @@ msgid "Irish"
 msgstr "Irlandés"
 
 msgid "Scottish Gaelic"
-msgstr ""
+msgstr "Gàidhlig na h-Alba"
 
 msgid "Galician"
 msgstr "Gallegu"
@@ -132,7 +133,7 @@ msgid "Croatian"
 msgstr "Croata"
 
 msgid "Upper Sorbian"
-msgstr ""
+msgstr "Hornjoserbšćina"
 
 msgid "Hungarian"
 msgstr "Húngaru"
@@ -144,7 +145,7 @@ msgid "Indonesian"
 msgstr "Indonesiu"
 
 msgid "Ido"
-msgstr ""
+msgstr "Ido"
 
 msgid "Icelandic"
 msgstr "Islandés"
@@ -189,13 +190,13 @@ msgid "Mongolian"
 msgstr "Mongol"
 
 msgid "Marathi"
-msgstr ""
+msgstr "Marathi"
 
 msgid "Burmese"
 msgstr "Birmanu"
 
 msgid "Norwegian Bokmål"
-msgstr ""
+msgstr "Noruegu Bokmål"
 
 msgid "Nepali"
 msgstr "Nepalí"
@@ -282,25 +283,25 @@ msgid "Traditional Chinese"
 msgstr "Chinu tradicional"
 
 msgid "Messages"
-msgstr ""
+msgstr "Mensaxes"
 
 msgid "Site Maps"
-msgstr ""
+msgstr "Mapes del Sitio"
 
 msgid "Static Files"
-msgstr ""
+msgstr "Ficheros Estáticos"
 
 msgid "Syndication"
-msgstr ""
+msgstr "Sindicación"
 
 msgid "That page number is not an integer"
-msgstr ""
+msgstr "Esa número de páxina no ye un enteru"
 
 msgid "That page number is less than 1"
-msgstr ""
+msgstr "Esa númberu de páxina ye menor que 1"
 
 msgid "That page contains no results"
-msgstr ""
+msgstr "Esa páxina nun contién resultaos"
 
 msgid "Enter a valid value."
 msgstr "Introduz un valor válidu."
@@ -309,7 +310,7 @@ msgid "Enter a valid URL."
 msgstr "Introduz una URL válida."
 
 msgid "Enter a valid integer."
-msgstr ""
+msgstr "Ingrese un integer válido."
 
 msgid "Enter a valid email address."
 msgstr "Introduz una direición de corréu válida."
@@ -405,9 +406,11 @@ msgid ""
 "File extension '%(extension)s' is not allowed. Allowed extensions are: "
 "'%(allowed_extensions)s'."
 msgstr ""
+"La extensión del archivo '%(extension)s' no ye permesa. Les extensiones "
+"permeses son: '%(allowed_extensions)s'."
 
 msgid "Null characters are not allowed."
-msgstr ""
+msgstr "Los carauteres nulos nun son permitíos."
 
 msgid "and"
 msgstr "y"
@@ -418,7 +421,7 @@ msgstr ""
 
 #, python-format
 msgid "Value %(value)r is not a valid choice."
-msgstr ""
+msgstr "El valor %(value)r no ye una opción válida."
 
 msgid "This field cannot be null."
 msgstr "Esti campu nun pue ser nulu."
@@ -446,7 +449,7 @@ msgstr "Enteru"
 
 #, python-format
 msgid "'%(value)s' value must be an integer."
-msgstr ""
+msgstr "El valor de '%(value)s' debe ser un enteru."
 
 msgid "Big (8 byte) integer"
 msgstr "Enteru big (8 byte)"
@@ -476,6 +479,8 @@ msgid ""
 "'%(value)s' value has the correct format (YYYY-MM-DD) but it is an invalid "
 "date."
 msgstr ""
+"El valor '%(value)s' tien el formatu correctu (YYYY-MM-DD) pero ye una fecha "
+"inválida."
 
 msgid "Date (without time)"
 msgstr "Data (ensin hora)"
@@ -509,7 +514,7 @@ msgid ""
 msgstr ""
 
 msgid "Duration"
-msgstr ""
+msgstr "Duración"
 
 msgid "Email address"
 msgstr "Direición de corréu"
@@ -600,7 +605,7 @@ msgstr ""
 
 #, python-format
 msgid "%(from)s-%(to)s relationships"
-msgstr ""
+msgstr "relaciones de %(from)s a %(to)s"
 
 msgid "Many-to-many relationship"
 msgstr "Rellación a munchos"
@@ -630,7 +635,7 @@ msgid "Enter a valid date/time."
 msgstr "Introduz una data/hora válida."
 
 msgid "Enter a valid duration."
-msgstr ""
+msgstr "Introduza una duración válida."
 
 msgid "No file was submitted. Check the encoding type on the form."
 msgstr "Nun s'unvió'l ficheru. Comprueba la triba de cifráu nel formulariu."
@@ -672,10 +677,10 @@ msgid "Enter a list of values."
 msgstr "Introduz una llista valores."
 
 msgid "Enter a complete value."
-msgstr ""
+msgstr "Introduz un valor completo."
 
 msgid "Enter a valid UUID."
-msgstr ""
+msgstr "Introduz un UUID válidu."
 
 #. Translators: This is the default suffix added to form field labels
 msgid ":"
@@ -686,7 +691,7 @@ msgid "(Hidden field %(name)s) %(error)s"
 msgstr "(Campu anubríu %(name)s) %(error)s"
 
 msgid "ManagementForm data is missing or has been tampered with"
-msgstr ""
+msgstr "Los datos del ManagementForm están missing o han sido manipulados"
 
 #, python-format
 msgid "Please submit %d or fewer forms."
@@ -697,8 +702,7 @@ msgstr[1] "Por favor, dunvia %d o menos formularios."
 #, python-format
 msgid "Please submit %d or more forms."
 msgid_plural "Please submit %d or more forms."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Por favor, presenta %d o más formularios."
 
 msgid "Order"
 msgstr "Orde"
@@ -727,7 +731,7 @@ msgid "Please correct the duplicate values below."
 msgstr "Por favor, igua los valores duplicaos embaxo"
 
 msgid "The inline value did not match the parent instance."
-msgstr ""
+msgstr "El valor en línea nun coincidia col instanciua parez."
 
 msgid "Select a valid choice. That choice is not one of the available choices."
 msgstr ""
@@ -1022,7 +1026,7 @@ msgid "December"
 msgstr "Avientu"
 
 msgid "This is not a valid IPv6 address."
-msgstr ""
+msgstr "Este nun ye un dirección IPv6 válida."
 
 #, python-format
 msgctxt "String to return when truncating text"
@@ -1076,10 +1080,10 @@ msgid "0 minutes"
 msgstr "0 minutos"
 
 msgid "Forbidden"
-msgstr ""
+msgstr "Prohibido"
 
 msgid "CSRF verification failed. Request aborted."
-msgstr ""
+msgstr "A verificación CSRF falló. Solicitud abortada."
 
 msgid ""
 "You are seeing this message because this HTTPS site requires a 'Referer "
@@ -1087,12 +1091,19 @@ msgid ""
 "required for security reasons, to ensure that your browser is not being "
 "hijacked by third parties."
 msgstr ""
+"Estás viendo este mensaje porque este sitio HTTPS requiere que se envíe un ' "
+"encabezado Referer' por tu navegador web, pero no se envió ninguno. Este "
+"encabezado se requiere por razones de seguridad, para garantizar que tu "
+"navegador no esté siendo secuestrado por terceros."
 
 msgid ""
 "If you have configured your browser to disable 'Referer' headers, please re-"
 "enable them, at least for this site, or for HTTPS connections, or for 'same-"
 "origin' requests."
 msgstr ""
+"Si configuraste el navegador pa deshabilitar los encabezados 'Referer', por "
+"favor re-habilítalos, al menos pa este sitio, o pa conexiones HTTPS, o pa "
+"peticiones 'same-origin'."
 
 msgid ""
 "If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
@@ -1101,26 +1112,37 @@ msgid ""
 "If you're concerned about privacy, use alternatives like <a rel=\"noreferrer"
 "\" ...> for links to third-party sites."
 msgstr ""
+"Si estás utilizando la etiqueta <meta name=\"referrer\" content=\"no-"
+"referrer\"> o incluyendo el encabezado 'Referrer-Policy: no-referrer', por "
+"favor elimínalos. La protección CSRF requiere el encabezado 'Referer' para "
+"hacer una comprobación estricta del referer. Si te preocupa la privacidad, "
+"utiliza alternativas como <a rel=\"noreferrer\" ...> para enlaces a sitios "
+"de terceros."
 
 msgid ""
 "You are seeing this message because this site requires a CSRF cookie when "
 "submitting forms. This cookie is required for security reasons, to ensure "
 "that your browser is not being hijacked by third parties."
 msgstr ""
+"Estás viendo este mensaje porque este sitio requiere una cookie CSRF al "
+"enviar formularios. Esta cookie es necesaria por razones de seguridad, para "
+"asegurarte de que tu navegador no esté siendo secuestrado por terceros."
 
 msgid ""
 "If you have configured your browser to disable cookies, please re-enable "
 "them, at least for this site, or for 'same-origin' requests."
 msgstr ""
+"Si configuraste el teu navegador pa desactivar les cookies, por favor re-"
+"habilitales, al ménu pa este website, o pa peticiones 'same-origin'."
 
 msgid "More information is available with DEBUG=True."
-msgstr ""
+msgstr "Más información está disponible con DEBUG=True."
 
 msgid "No year specified"
 msgstr "Nun s'especificó l'añu"
 
 msgid "Date out of range"
-msgstr ""
+msgstr "Data fóra de rang"
 
 msgid "No month specified"
 msgstr "Nun s'especificó'l mes"
@@ -1183,7 +1205,7 @@ msgid ""
 msgstr ""
 
 msgid "The install worked successfully! Congratulations!"
-msgstr ""
+msgstr "¡La instalación se realizó con éxito! ¡Felicidades!"
 
 #, python-format
 msgid ""
@@ -1192,21 +1214,25 @@ msgid ""
 "\">DEBUG=True</a> is in your settings file and you have not configured any "
 "URLs."
 msgstr ""
+"Estás viendo esta páxina porque <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" rel=\"noopener\""
+">DEBUG=True</a> ta en el tiexu de configu de la tos opciones y no "
+"configuraste ningun URL."
 
 msgid "Django Documentation"
-msgstr ""
+msgstr "Documentación de Django"
 
 msgid "Topics, references, &amp; how-to's"
-msgstr ""
+msgstr "Temes, referencias, y cmo faer"
 
 msgid "Tutorial: A Polling App"
-msgstr ""
+msgstr "Tutorial: UNA APLICACIÓN DE ENCUESTA"
 
 msgid "Get started with Django"
-msgstr ""
+msgstr "Empeciar con Django"
 
 msgid "Django Community"
-msgstr ""
+msgstr "Comunidad Django"
 
 msgid "Connect, get help, or contribute"
 msgstr ""
