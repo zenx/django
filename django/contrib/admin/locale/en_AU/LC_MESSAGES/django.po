@@ -8,14 +8,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-19 16:49+0100\n"
 "PO-Revision-Date: 2017-09-19 21:09+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
 "Language-Team: English (Australia) (http://www.transifex.com/django/django/"
 "language/en_AU/)\n"
+"Language: en_AU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_AU\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-10-03 15:10+0000\n"
 
 #, python-format
 msgid "Successfully deleted %(count)d %(items)s."
@@ -33,7 +34,7 @@ msgid "Delete selected %(verbose_name_plural)s"
 msgstr "Delete selected %(verbose_name_plural)s"
 
 msgid "Administration"
-msgstr ""
+msgstr "Administration"
 
 msgid "All"
 msgstr "All"
@@ -66,7 +67,7 @@ msgid "No date"
 msgstr ""
 
 msgid "Has date"
-msgstr ""
+msgstr "Has date"
 
 #, python-format
 msgid ""
@@ -81,7 +82,7 @@ msgstr "Action:"
 
 #, python-format
 msgid "Add another %(verbose_name)s"
-msgstr ""
+msgstr "Add another %(verbose_name)s"
 
 msgid "Remove"
 msgstr ""
@@ -90,7 +91,7 @@ msgid "action time"
 msgstr "action time"
 
 msgid "user"
-msgstr ""
+msgstr "user"
 
 msgid "content type"
 msgstr ""
@@ -252,25 +253,27 @@ msgid ""
 "Deleting %(class_name)s %(instance)s would require deleting the following "
 "protected related objects: %(related_objects)s"
 msgstr ""
+"Deleting %(class_name)s %(instance)s would require deleting the following "
+"protected related objects: %(related_objects)s"
 
 msgid "Django site admin"
 msgstr ""
 
 msgid "Django administration"
-msgstr ""
+msgstr "Django administration"
 
 msgid "Site administration"
 msgstr ""
 
 msgid "Log in"
-msgstr ""
+msgstr "Log in"
 
 #, python-format
 msgid "%(app)s administration"
 msgstr ""
 
 msgid "Page not found"
-msgstr ""
+msgstr "Page not found"
 
 msgid "We're sorry, but the requested page could not be found."
 msgstr ""
