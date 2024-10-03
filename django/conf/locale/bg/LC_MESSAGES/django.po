@@ -14,14 +14,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-15 16:15+0100\n"
 "PO-Revision-Date: 2017-11-17 09:05+0000\n"
-"Last-Translator: Venelin Stoykov <vkstoykov@gmail.com>\n"
-"Language-Team: Bulgarian (http://www.transifex.com/django/django/language/"
-"bg/)\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/django/django/language/bg/"
+")\n"
+"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: bg\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-10-03 16:24+0000\n"
 
 msgid "Afrikaans"
 msgstr "Африкански"
@@ -66,7 +67,7 @@ msgid "German"
 msgstr "немски език"
 
 msgid "Lower Sorbian"
-msgstr ""
+msgstr "Долносянски"
 
 msgid "Greek"
 msgstr "гръцки език"
@@ -123,7 +124,7 @@ msgid "Irish"
 msgstr "ирландски език"
 
 msgid "Scottish Gaelic"
-msgstr ""
+msgstr "Шотландски гаелски"
 
 msgid "Galician"
 msgstr "галицейски език"
@@ -138,7 +139,7 @@ msgid "Croatian"
 msgstr "хърватски език"
 
 msgid "Upper Sorbian"
-msgstr ""
+msgstr "Горносянски"
 
 msgid "Hungarian"
 msgstr "унгарски език"
@@ -201,7 +202,7 @@ msgid "Burmese"
 msgstr "Бурмесе"
 
 msgid "Norwegian Bokmål"
-msgstr ""
+msgstr "Норвегски бокмол"
 
 msgid "Nepali"
 msgstr "Непалски"
@@ -418,7 +419,7 @@ msgstr ""
 "са:  '%(allowed_extensions)s'."
 
 msgid "Null characters are not allowed."
-msgstr ""
+msgstr "Недопустими нулеви символи."
 
 msgid "and"
 msgstr "и"
@@ -624,11 +625,11 @@ msgstr "словенски език"
 
 #, python-format
 msgid "%(from)s-%(to)s relationship"
-msgstr ""
+msgstr "Отношение между %(from)s и %(to)s"
 
 #, python-format
 msgid "%(from)s-%(to)s relationships"
-msgstr ""
+msgstr "Отношения между %(from)s и %(to)s"
 
 msgid "Many-to-many relationship"
 msgstr "Много-към-много връзка"
@@ -753,14 +754,14 @@ msgid "Please correct the duplicate values below."
 msgstr "Моля, коригирайте повтарящите се стойности по-долу."
 
 msgid "The inline value did not match the parent instance."
-msgstr ""
+msgstr "Инлайн стойността не съвпадна с родителския инстанс."
 
 msgid "Select a valid choice. That choice is not one of the available choices."
 msgstr "Направете валиден избор. Този не е един от възможните избори.  "
 
 #, python-format
 msgid "\"%(pk)s\" is not a valid value."
-msgstr ""
+msgstr "\"%(pk)s\" не е валидна стойност."
 
 #, python-format
 msgid ""
@@ -1132,6 +1133,11 @@ msgid ""
 "If you're concerned about privacy, use alternatives like <a rel=\"noreferrer"
 "\" ...> for links to third-party sites."
 msgstr ""
+"Ако използвате таг <meta name=\"referrer\" content=\"no-referrer\"> или "
+"включвате заглавка 'Referrer-Policy: no-referrer', моля, премахнете ги. "
+"Защитата от CSRF изисква заглавката 'Referer' за строго проверяване на "
+"реферерите. Ако ви интересува личната ви неприкосновеност, използвайте "
+"алтернативи като <a rel=\"noreferrer\" ...> за линкове към трети страни."
 
 msgid ""
 "You are seeing this message because this site requires a CSRF cookie when "
@@ -1157,7 +1163,7 @@ msgid "No year specified"
 msgstr "Не е посочена година"
 
 msgid "Date out of range"
-msgstr ""
+msgstr "Дата извън обхвата"
 
 msgid "No month specified"
 msgstr "Не е посочен месец"
@@ -1218,9 +1224,12 @@ msgid ""
 "View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
 "target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
 msgstr ""
+"Прегледайте <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/"
+"\" target=\"_blank\" rel=\"noopener\">забележките за версията</a> на Django "
+"%(version)s"
 
 msgid "The install worked successfully! Congratulations!"
-msgstr ""
+msgstr "Инсталацията беше успешна! Честито!"
 
 #, python-format
 msgid ""
@@ -1238,16 +1247,16 @@ msgid "Django Documentation"
 msgstr "Django Документация"
 
 msgid "Topics, references, &amp; how-to's"
-msgstr ""
+msgstr "Темите, справките и ръководствата"
 
 msgid "Tutorial: A Polling App"
-msgstr ""
+msgstr "Урок: Приложение за проучване"
 
 msgid "Get started with Django"
 msgstr "Започнете с Django"
 
 msgid "Django Community"
-msgstr ""
+msgstr "Общността на Django"
 
 msgid "Connect, get help, or contribute"
-msgstr ""
+msgstr "Свържете се, получете помощ или се включете"
