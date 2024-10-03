@@ -8,14 +8,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-15 16:15+0100\n"
 "PO-Revision-Date: 2017-11-16 01:13+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
 "Language-Team: Spanish (Colombia) (http://www.transifex.com/django/django/"
 "language/es_CO/)\n"
+"Language: es_CO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es_CO\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-10-03 15:14+0000\n"
 
 msgid "Afrikaans"
 msgstr "Afrikáans"
@@ -60,7 +61,7 @@ msgid "German"
 msgstr "Alemán"
 
 msgid "Lower Sorbian"
-msgstr ""
+msgstr "Bajo Sorabo"
 
 msgid "Greek"
 msgstr "Griego"
@@ -84,7 +85,7 @@ msgid "Argentinian Spanish"
 msgstr "Español de Argentina"
 
 msgid "Colombian Spanish"
-msgstr ""
+msgstr "Español Colombiano"
 
 msgid "Mexican Spanish"
 msgstr "Español de México"
@@ -117,7 +118,7 @@ msgid "Irish"
 msgstr "Irlandés"
 
 msgid "Scottish Gaelic"
-msgstr ""
+msgstr "Gaélico Escocés"
 
 msgid "Galician"
 msgstr "Gallego"
@@ -132,7 +133,7 @@ msgid "Croatian"
 msgstr "Croata"
 
 msgid "Upper Sorbian"
-msgstr ""
+msgstr "Alto Sorabo"
 
 msgid "Hungarian"
 msgstr "Húngaro"
@@ -195,7 +196,7 @@ msgid "Burmese"
 msgstr "Birmano"
 
 msgid "Norwegian Bokmål"
-msgstr ""
+msgstr "Bokmål Noruego"
 
 msgid "Nepali"
 msgstr "Nepalí"
@@ -294,13 +295,13 @@ msgid "Syndication"
 msgstr "Sindicación"
 
 msgid "That page number is not an integer"
-msgstr ""
+msgstr "Ese número de página no es un entero"
 
 msgid "That page number is less than 1"
-msgstr ""
+msgstr "Ese número de página es menor que 1"
 
 msgid "That page contains no results"
-msgstr ""
+msgstr "Esa página no contiene resultados"
 
 msgid "Enter a valid value."
 msgstr "Ingrese un valor válido."
@@ -407,9 +408,11 @@ msgid ""
 "File extension '%(extension)s' is not allowed. Allowed extensions are: "
 "'%(allowed_extensions)s'."
 msgstr ""
+"La extensión de archivo '%(extension)s' no está permitida. Las extensiones "
+"permitidas son: '%(allowed_extensions)s'."
 
 msgid "Null characters are not allowed."
-msgstr ""
+msgstr "Los caracteres nulos no están permitidos."
 
 msgid "and"
 msgstr "y"
@@ -613,11 +616,11 @@ msgstr "Relación uno-a-uno"
 
 #, python-format
 msgid "%(from)s-%(to)s relationship"
-msgstr ""
+msgstr "relación %(from)s-%(to)s"
 
 #, python-format
 msgid "%(from)s-%(to)s relationships"
-msgstr ""
+msgstr "relaciones %(from)s-%(to)s"
 
 msgid "Many-to-many relationship"
 msgstr "Relación muchos-a-muchos"
@@ -746,7 +749,7 @@ msgid "Please correct the duplicate values below."
 msgstr "Por favor, corrija los valores duplicados abajo."
 
 msgid "The inline value did not match the parent instance."
-msgstr ""
+msgstr "El valor en línea no coincido con la instancia padre."
 
 msgid "Select a valid choice. That choice is not one of the available choices."
 msgstr "Escoja una opción válida. Esa opción no está entre las disponibles."
@@ -1149,7 +1152,7 @@ msgid "No year specified"
 msgstr "No se ha indicado el año"
 
 msgid "Date out of range"
-msgstr ""
+msgstr "Fecha fuera de rango"
 
 msgid "No month specified"
 msgstr "No se ha indicado el mes"
@@ -1203,16 +1206,19 @@ msgid "Index of %(directory)s"
 msgstr "Índice de %(directory)s"
 
 msgid "Django: the Web framework for perfectionists with deadlines."
-msgstr ""
+msgstr "Django: el framework web para perfeccionistas con plazos."
 
 #, python-format
 msgid ""
 "View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
 "target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
 msgstr ""
+"Vea las <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">notas de la versión</a> para Django "
+"%(version)s"
 
 msgid "The install worked successfully! Congratulations!"
-msgstr ""
+msgstr "¡La instalación se realizó con éxito! ¡Felicidades!"
 
 #, python-format
 msgid ""
@@ -1221,21 +1227,25 @@ msgid ""
 "\">DEBUG=True</a> is in your settings file and you have not configured any "
 "URLs."
 msgstr ""
+"Está viendo esta página porque <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" rel=\"noopener\""
+">DEBUG=True</a> está en su archivo de configuración y no ha configurado "
+"ninguna URL."
 
 msgid "Django Documentation"
-msgstr ""
+msgstr "Documentación de Django"
 
 msgid "Topics, references, &amp; how-to's"
-msgstr ""
+msgstr "Temas, referencias y guías"
 
 msgid "Tutorial: A Polling App"
-msgstr ""
+msgstr "Tutorial: Una Aplicación de Encuestas"
 
 msgid "Get started with Django"
-msgstr ""
+msgstr "Comience con Django"
 
 msgid "Django Community"
-msgstr ""
+msgstr "Comunidad de Django"
 
 msgid "Connect, get help, or contribute"
-msgstr ""
+msgstr "Conéctese, obtenga ayuda o contribuya"
