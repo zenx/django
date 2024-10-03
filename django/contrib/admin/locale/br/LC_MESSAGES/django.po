@@ -9,25 +9,27 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-16 20:42+0100\n"
 "PO-Revision-Date: 2019-01-18 00:36+0000\n"
-"Last-Translator: Ramiro Morales\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
 "Language-Team: Breton (http://www.transifex.com/django/django/language/br/)\n"
+"Language: br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: br\n"
-"Plural-Forms: nplurals=5; plural=((n%10 == 1) && (n%100 != 11) && (n%100 !"
-"=71) && (n%100 !=91) ? 0 :(n%10 == 2) && (n%100 != 12) && (n%100 !=72) && (n"
-"%100 !=92) ? 1 :(n%10 ==3 || n%10==4 || n%10==9) && (n%100 < 10 || n% 100 > "
+"Plural-Forms: nplurals=5; plural=((n%10 == 1) && (n%100 != 11) && (n%100 "
+"!=71) && (n%100 !=91) ? 0 :(n%10 == 2) && (n%100 != 12) && (n%100 !=72) && ("
+"n%100 !=92) ? 1 :(n%10 ==3 || n%10==4 || n%10==9) && (n%100 < 10 || n% 100 > "
 "19) && (n%100 < 70 || n%100 > 79) && (n%100 < 90 || n%100 > 99) ? 2 :(n != 0 "
 "&& n % 1000000 == 0) ? 3 : 4);\n"
+"Revisiondate: 2024-10-03 16:27+0000\n"
 
 #, python-format
 msgid "Successfully deleted %(count)d %(items)s."
-msgstr ""
+msgstr "Skoazell a dalc'het %(count)d %(items)s."
 
+# Fuzzy translation, content is fine but may need adjustment.
 #, python-format
 msgid "Cannot delete %(name)s"
-msgstr ""
+msgstr "Cannot delete %(name)s"
 
 msgid "Are you sure?"
 msgstr "Ha sur oc'h?"
@@ -77,6 +79,8 @@ msgid ""
 "Please enter the correct %(username)s and password for a staff account. Note "
 "that both fields may be case-sensitive."
 msgstr ""
+"Bitte enter an correct %(username)s hañd password evit ur c’hont eus ar "
+"staff. Dizhuni ez eo ar c’harnadoù a-berzh an nazioù."
 
 msgid "Action:"
 msgstr "Ober:"
@@ -121,10 +125,10 @@ msgid "change message"
 msgstr "Kemennadenn cheñchamant"
 
 msgid "log entry"
-msgstr ""
+msgstr "log entry"
 
 msgid "log entries"
-msgstr ""
+msgstr "dizhierioù log"
 
 #, python-format
 msgid "Added \"%(object)s\"."
@@ -139,7 +143,7 @@ msgid "Deleted \"%(object)s.\""
 msgstr "Dilamet \"%(object)s.\""
 
 msgid "LogEntry Object"
-msgstr ""
+msgstr "Object LogEntry"
 
 #, python-brace-format
 msgid "Added {name} \"{object}\"."
@@ -172,10 +176,11 @@ msgstr "Hini ebet"
 msgid ""
 "Hold down \"Control\", or \"Command\" on a Mac, to select more than one."
 msgstr ""
+"Beudañ \"Control\", pe \"Command\" war ur Mac, evit dibab muioc'h eget unan."
 
 #, python-brace-format
 msgid "The {name} \"{obj}\" was added successfully."
-msgstr ""
+msgstr "Ar {name} \"{obj}\" a zo bet ouzhpennañ gant succes."
 
 msgid "You may edit it again below."
 msgstr "Rankout a rit ec'h aozañ adarre dindan."
@@ -190,11 +195,15 @@ msgstr ""
 msgid ""
 "The {name} \"{obj}\" was changed successfully. You may edit it again below."
 msgstr ""
+"An {name} \"{obj}\" zo bet kemmet gant succes. Gallout a rit a-bennad e-"
+"leizh amañ."
 
 #, python-brace-format
 msgid ""
 "The {name} \"{obj}\" was added successfully. You may edit it again below."
 msgstr ""
+"Ar {name} \"{obj}\" zo bet enrollet gant arzhioù. Gallout a rit dit e zedit "
+"c'hoazh e-raok."
 
 #, python-brace-format
 msgid ""
@@ -204,19 +213,20 @@ msgstr ""
 
 #, python-brace-format
 msgid "The {name} \"{obj}\" was changed successfully."
-msgstr ""
+msgstr "An {name} \"{obj}\" a zo bet chanjet gant siwazh."
 
 msgid ""
 "Items must be selected in order to perform actions on them. No items have "
 "been changed."
 msgstr ""
+"Dibabet e vez kollet evit ober n'eo ebet warno. N'eus ket kollet a c'hwezhet."
 
 msgid "No action selected."
 msgstr "Ober ebet diuzet."
 
 #, python-format
 msgid "The %(name)s \"%(obj)s\" was deleted successfully."
-msgstr ""
+msgstr "Ar %(name)s \"%(obj)s\" zo bet dishuet gant ar sikour."
 
 #, python-format
 msgid "%(name)s with ID \"%(key)s\" doesn't exist. Perhaps it was deleted?"
@@ -274,6 +284,8 @@ msgid ""
 "Deleting %(class_name)s %(instance)s would require deleting the following "
 "protected related objects: %(related_objects)s"
 msgstr ""
+"Deleting %(class_name)s %(instance)s a c'hort brezhoneg a c'houlenn sellet "
+"ouzh ar re gartet a zare da  \"%\" (related_objects)s"
 
 msgid "Django site admin"
 msgstr "Lec'hienn verañ Django"
@@ -289,13 +301,13 @@ msgstr "Kevreañ"
 
 #, python-format
 msgid "%(app)s administration"
-msgstr ""
+msgstr "administration %(app)s"
 
 msgid "Page not found"
 msgstr "N'eo ket bet kavet ar bajenn"
 
 msgid "We're sorry, but the requested page could not be found."
-msgstr ""
+msgstr "Goulennomp, met n'eo ket bet kavet ar bajenn goulennet."
 
 msgid "Home"
 msgstr "Degemer"
@@ -313,19 +325,22 @@ msgid ""
 "There's been an error. It's been reported to the site administrators via "
 "email and should be fixed shortly. Thanks for your patience."
 msgstr ""
+"Emañ ur fazi. Dalc'het eo bet d'ar renerien a sit daoust ha goulennet ar "
+"bazh da vond. Degenniñ a raio en un amzer sklaer. Trugarekaat a ran evit ho "
+"dalc'h."
 
 msgid "Run the selected action"
-msgstr ""
+msgstr "Roudañ an action dibabet"
 
 msgid "Go"
 msgstr "Mont"
 
 msgid "Click here to select the objects across all pages"
-msgstr ""
+msgstr "Klikit amañ evit dibab ar meziantoù war holl frouezhioù"
 
 #, python-format
 msgid "Select all %(total_count)s %(module_name)s"
-msgstr ""
+msgstr "Sélectionnez tous les %(total_count)s %(module_name)s"
 
 msgid "Clear selection"
 msgstr "Riñsañ an diuzadenn"
@@ -334,6 +349,8 @@ msgid ""
 "First, enter a username and password. Then, you'll be able to edit more user "
 "options."
 msgstr ""
+"Gwir, kinnig un anv implijer ha un gerzoù. Goude-se, e c'hallot dilun ar "
+"muiañ a chañs."
 
 msgid "Enter a username and password."
 msgstr "Merkit un anv implijer hag ur ger-tremen."
@@ -342,20 +359,20 @@ msgid "Change password"
 msgstr "Cheñch ger-tremen"
 
 msgid "Please correct the error below."
-msgstr ""
+msgstr "Veuillez corriger l'erreur ci-dessous."
 
 msgid "Please correct the errors below."
-msgstr ""
+msgstr "Veuillez corriger les erreurs ci-dessous."
 
 #, python-format
 msgid "Enter a new password for the user <strong>%(username)s</strong>."
-msgstr ""
+msgstr "Enterit ur ger zifro evit an implijer <strong>%(username)s</strong>."
 
 msgid "Welcome,"
 msgstr "Degemer mat,"
 
 msgid "View site"
-msgstr ""
+msgstr "Kemer site"
 
 msgid "Documentation"
 msgstr "Teulioù"
@@ -377,11 +394,11 @@ msgid "Filter"
 msgstr "Sil"
 
 msgid "Remove from sorting"
-msgstr ""
+msgstr "Dibabit er pezh a gont"
 
 #, python-format
 msgid "Sorting priority: %(priority_number)s"
-msgstr ""
+msgstr "Priorité de tri : %(priority_number)s"
 
 msgid "Toggle sorting"
 msgstr "Eilpennañ an diuzadenn"
@@ -395,30 +412,37 @@ msgid ""
 "related objects, but your account doesn't have permission to delete the "
 "following types of objects:"
 msgstr ""
+"Widet alies %(object_name)s '%(escaped_object)s a c’houzout a ra evit kas "
+"kuit an obererezhioù liammet, met n'oa ket goust do azas etre implij a ro da "
+"c'houlenn d'an obererezhioù par-aoze:"
 
 #, python-format
 msgid ""
 "Deleting the %(object_name)s '%(escaped_object)s' would require deleting the "
 "following protected related objects:"
 msgstr ""
+"Distroiñ %(object_name)s '%(escaped_object)s' a c'houlenn distroiñ ar re "
+"diogell krouet a-fet :"
 
 #, python-format
 msgid ""
 "Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
 "All of the following related items will be deleted:"
 msgstr ""
+"Ete oc'h sur d'ober ar repr ar %(object_name)s \"%(escaped_object)s\"? "
+"Bez'es a vo distrujet an eil tra a ouezh ar c'hontrol:"
 
 msgid "Objects"
-msgstr ""
+msgstr "Objadoù"
 
 msgid "Yes, I'm sure"
 msgstr "Ya, sur on"
 
 msgid "No, take me back"
-msgstr ""
+msgstr "Non, adarz din"
 
 msgid "Delete multiple objects"
-msgstr ""
+msgstr "Dibabit objektoù kenel"
 
 #, python-format
 msgid ""
@@ -426,21 +450,27 @@ msgid ""
 "objects, but your account doesn't have permission to delete the following "
 "types of objects:"
 msgstr ""
+"Dibabit ar %(objects_name)s dibabet a raio an dibabit burzhud sammet, met "
+"n'eo ket ho konto mynegez da dibabit ar skeudennoù-mañ:"
 
 #, python-format
 msgid ""
 "Deleting the selected %(objects_name)s would require deleting the following "
 "protected related objects:"
 msgstr ""
+"Deleting an ober a-selected %(objects_name)s a ranko an diblo a darvo a-meaz "
+"pezhioù a-berzh protected:"
 
 #, python-format
 msgid ""
 "Are you sure you want to delete the selected %(objects_name)s? All of the "
 "following objects and their related items will be deleted:"
 msgstr ""
+"Ech sretout deoc'h prenañ ar %(objects_name)s dibabet? Bep seurt will be "
+"deleted:"
 
 msgid "View"
-msgstr ""
+msgstr "Weladenn"
 
 msgid "Delete?"
 msgstr "Diverkañ ?"
@@ -450,26 +480,26 @@ msgid " By %(filter_title)s "
 msgstr " dre %(filter_title)s "
 
 msgid "Summary"
-msgstr ""
+msgstr "Saozhed"
 
 #, python-format
 msgid "Models in the %(name)s application"
-msgstr ""
+msgstr "Modelioù er jez %(name)s"
 
 msgid "Add"
 msgstr "Ouzhpennañ"
 
 msgid "You don't have permission to view or edit anything."
-msgstr ""
+msgstr "N'oc'h ket emren da welout pe da aozañ netra."
 
 msgid "Recent actions"
-msgstr ""
+msgstr "Aozadurioù récent"
 
 msgid "My actions"
-msgstr ""
+msgstr "Ma oberoù"
 
 msgid "None available"
-msgstr ""
+msgstr "None disponible"
 
 msgid "Unknown content"
 msgstr "Endalc'had dianav"
@@ -479,12 +509,18 @@ msgid ""
 "database tables have been created, and make sure the database is readable by "
 "the appropriate user."
 msgstr ""
+"Digor brezhoneg ho peus an ti database. Asemblañ an tabezhioù database "
+"talvoudus, ha d’en em gentañ ez eus gwir an ti database da ober gant an "
+"implijour talvoudus."
 
 #, python-format
 msgid ""
 "You are authenticated as %(username)s, but are not authorized to access this "
 "page. Would you like to login to a different account?"
 msgstr ""
+"Z'êtres autentichet e-krec'h %(username)s, met n'emañ ket e-zoare da "
+"c'halvout war an trajenn-mañ. D'ar c'houlenn a ra ez eo bret da logiñ en ur "
+"gont all ?"
 
 msgid "Forgotten your password or username?"
 msgstr "Disoñjet ho ker-tremen pe hoc'h anv implijer ganeoc'h ?"
@@ -502,6 +538,8 @@ msgid ""
 "This object doesn't have a change history. It probably wasn't added via this "
 "admin site."
 msgstr ""
+"Ar sistem administrativ-mañ ne c'hall ket bezañ adkaozet an dachenn-mañ. "
+"Gwelet e c'heller bezhañ, n'eo ket bet envoet anezhi dre an urzhiataer-se."
 
 msgid "Show all"
 msgstr "Diskouez pep tra"
@@ -510,7 +548,7 @@ msgid "Save"
 msgstr "Enrollañ"
 
 msgid "Popup closing…"
-msgstr ""
+msgstr "Diverzhout an arventiñ…"
 
 msgid "Search"
 msgstr "Klask"
@@ -518,15 +556,11 @@ msgstr "Klask"
 #, python-format
 msgid "%(counter)s result"
 msgid_plural "%(counter)s results"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
+msgstr[0] "%(counter)s rezultad"
 
 #, python-format
 msgid "%(full_result_count)s total"
-msgstr ""
+msgstr "%(full_result_count)s holl"
 
 msgid "Save as new"
 msgstr "Enrollañ evel nevez"
@@ -538,25 +572,25 @@ msgid "Save and continue editing"
 msgstr "Enrollañ ha derc'hel da gemmañ"
 
 msgid "Save and view"
-msgstr ""
+msgstr "Savin ha gwelet"
 
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #, python-format
 msgid "Change selected %(model)s"
-msgstr ""
+msgstr "Madiñet an %-model-ñs"
 
 #, python-format
 msgid "Add another %(model)s"
-msgstr ""
+msgstr "Add another %(model)s"
 
 #, python-format
 msgid "Delete selected %(model)s"
-msgstr ""
+msgstr "Delete selected %(model)s"
 
 msgid "Thanks for spending some quality time with the Web site today."
-msgstr ""
+msgstr "Merci de daelout un dael gwellañ gant ar bajenn web hiziv."
 
 msgid "Log in again"
 msgstr "Kevreañ en-dro"
@@ -571,6 +605,9 @@ msgid ""
 "Please enter your old password, for security's sake, and then enter your new "
 "password twice so we can verify you typed it in correctly."
 msgstr ""
+"Veuillez entrer votre ancien mot de passe, pour des raisons de sécurité, "
+"puis entrez votre nouveau mot de passe deux fois afin que nous puissions "
+"vérifier que vous l'avez correctement saisi."
 
 msgid "Change my password"
 msgstr "Cheñch ma ger-tremen"
@@ -579,7 +616,7 @@ msgid "Password reset"
 msgstr "Adderaouekaat ar ger-tremen"
 
 msgid "Your password has been set.  You may go ahead and log in now."
-msgstr ""
+msgstr "Evit hoñ d'ober, eo vos ho peus ivez deizet ar goulenn."
 
 msgid "Password reset confirmation"
 msgstr "Kadarnaat eo bet cheñchet ar ger-tremen"
@@ -588,6 +625,8 @@ msgid ""
 "Please enter your new password twice so we can verify you typed it in "
 "correctly."
 msgstr ""
+"Pleazit setu ho kod neves daou zevezh evit ma c'hallomp selaou ma seblant-"
+"tre ho toa en ur benveziñ."
 
 msgid "New password:"
 msgstr "Ger-tremen nevez :"
@@ -599,46 +638,57 @@ msgid ""
 "The password reset link was invalid, possibly because it has already been "
 "used.  Please request a new password reset."
 msgstr ""
+"Ar c'hinnig adstumm an gerioù a zo fall, peogwir e c'hall bezañ douset "
+"c'hoazh. Grit pleustr ho c'hinnig adstumm gerioù nevez."
 
 msgid ""
 "We've emailed you instructions for setting your password, if an account "
 "exists with the email you entered. You should receive them shortly."
 msgstr ""
+"Savet ompraouenn e-bost deoc'h avaoañ ar wirioù evit sevel ho password, ma "
+"'z eus ur compte gant an e-bost zo tont. Ret eo deoc'h resevout anezho buan."
 
 msgid ""
 "If you don't receive an email, please make sure you've entered the address "
 "you registered with, and check your spam folder."
 msgstr ""
+"Mar plijot ebet ur postel, selaouit ao keseled arzañ arroudis, ha skoulm eñ "
+"eus ho ficher spam."
 
 #, python-format
 msgid ""
 "You're receiving this email because you requested a password reset for your "
 "user account at %(site_name)s."
 msgstr ""
+"Hér ezhomm chas ar postel-mañ evit ma te a goulennet un adtaperezh pask evit "
+"ho compte implijer e %(site_name)s."
 
 msgid "Please go to the following page and choose a new password:"
 msgstr ""
+"Veuillez vous rendre à la page suivante et choisir un nouveau mot de passe :"
 
 msgid "Your username, in case you've forgotten:"
-msgstr ""
+msgstr "E váš l'enn de használat, ma n'eus ket sonjal :"
 
 msgid "Thanks for using our site!"
 msgstr "Ho trugarekaat da ober gant hol lec'hienn !"
 
 #, python-format
 msgid "The %(site_name)s team"
-msgstr ""
+msgstr "Toucheg ar skiptezhioù %(site_name)s"
 
 msgid ""
 "Forgotten your password? Enter your email address below, and we'll email "
 "instructions for setting a new one."
 msgstr ""
+"Pezhioù ho tadoù? Roid da c'hellout lakaat ho c'hiz a-dreuz, ha bez' ez omp "
+"a-bell da adraok da-benn a-zoare bezañs neves."
 
 msgid "Email address:"
-msgstr ""
+msgstr "«Addr eus ar post»"
 
 msgid "Reset my password"
-msgstr ""
+msgstr "Resetez ma mot de passe"
 
 msgid "All dates"
 msgstr "An holl zeiziadoù"
@@ -649,11 +699,11 @@ msgstr "Diuzañ %s"
 
 #, python-format
 msgid "Select %s to change"
-msgstr ""
+msgstr "Dibabit %s evit kenderc'hel"
 
 #, python-format
 msgid "Select %s to view"
-msgstr ""
+msgstr "Dibabit %s evit selliñ"
 
 msgid "Date:"
 msgstr "Deiziad :"
@@ -665,7 +715,7 @@ msgid "Lookup"
 msgstr "Klask"
 
 msgid "Currently:"
-msgstr ""
+msgstr "Ar bau ma ez eus"
 
 msgid "Change:"
-msgstr ""
+msgstr "Changes:"

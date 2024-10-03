@@ -8,17 +8,18 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-17 11:49+0200\n"
 "PO-Revision-Date: 2018-05-18 00:21+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
 "Language-Team: Breton (http://www.transifex.com/django/django/language/br/)\n"
+"Language: br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: br\n"
-"Plural-Forms: nplurals=5; plural=((n%10 == 1) && (n%100 != 11) && (n%100 !"
-"=71) && (n%100 !=91) ? 0 :(n%10 == 2) && (n%100 != 12) && (n%100 !=72) && (n"
-"%100 !=92) ? 1 :(n%10 ==3 || n%10==4 || n%10==9) && (n%100 < 10 || n% 100 > "
+"Plural-Forms: nplurals=5; plural=((n%10 == 1) && (n%100 != 11) && (n%100 "
+"!=71) && (n%100 !=91) ? 0 :(n%10 == 2) && (n%100 != 12) && (n%100 !=72) && ("
+"n%100 !=92) ? 1 :(n%10 ==3 || n%10==4 || n%10==9) && (n%100 < 10 || n% 100 > "
 "19) && (n%100 < 70 || n%100 > 79) && (n%100 < 90 || n%100 > 99) ? 2 :(n != 0 "
 "&& n % 1000000 == 0) ? 3 : 4);\n"
+"Revisiondate: 2024-10-03 16:27+0000\n"
 
 msgid "Afrikaans"
 msgstr "Afrikaneg"
@@ -63,7 +64,7 @@ msgid "German"
 msgstr "Alamaneg"
 
 msgid "Lower Sorbian"
-msgstr ""
+msgstr "Dolnošluski"
 
 msgid "Greek"
 msgstr "Gresianeg"
@@ -87,7 +88,7 @@ msgid "Argentinian Spanish"
 msgstr "Spagnoleg Arc'hantina"
 
 msgid "Colombian Spanish"
-msgstr ""
+msgstr "Espagnol colombien"
 
 msgid "Mexican Spanish"
 msgstr "Spagnoleg Mec'hiko"
@@ -120,7 +121,7 @@ msgid "Irish"
 msgstr "Iwerzhoneg"
 
 msgid "Scottish Gaelic"
-msgstr ""
+msgstr "Gàidhlig na h-Alba"
 
 msgid "Galician"
 msgstr "Galizeg"
@@ -135,7 +136,7 @@ msgid "Croatian"
 msgstr "Kroateg"
 
 msgid "Upper Sorbian"
-msgstr ""
+msgstr "Hornjoserbšćina"
 
 msgid "Hungarian"
 msgstr "Hungareg"
@@ -161,8 +162,9 @@ msgstr "Japaneg"
 msgid "Georgian"
 msgstr "Jorjianeg"
 
+# Not sure if it is correct
 msgid "Kabyle"
-msgstr ""
+msgstr "Kabyle"
 
 msgid "Kazakh"
 msgstr "kazak"
@@ -201,7 +203,7 @@ msgid "Burmese"
 msgstr "Burmeg"
 
 msgid "Norwegian Bokmål"
-msgstr ""
+msgstr "Norsk bokmål"
 
 msgid "Nepali"
 msgstr "nepaleg"
@@ -288,7 +290,7 @@ msgid "Traditional Chinese"
 msgstr "Sinaeg hengounel"
 
 msgid "Messages"
-msgstr ""
+msgstr "Keleier"
 
 msgid "Site Maps"
 msgstr "Tresoù al lec'hienn"
@@ -300,13 +302,13 @@ msgid "Syndication"
 msgstr "Sindikadur"
 
 msgid "That page number is not an integer"
-msgstr ""
+msgstr "N'eo ket integer an niver-mañ"
 
 msgid "That page number is less than 1"
-msgstr ""
+msgstr "Keit ar strad meg<<(1)"
 
 msgid "That page contains no results"
-msgstr ""
+msgstr "An na pagina-mañ n'eus netra"
 
 msgid "Enter a valid value."
 msgstr "Merkit un talvoud reizh"
@@ -315,7 +317,7 @@ msgid "Enter a valid URL."
 msgstr "Merkit un URL reizh"
 
 msgid "Enter a valid integer."
-msgstr ""
+msgstr "Entrez un entier valide."
 
 msgid "Enter a valid email address."
 msgstr "Merkit ur chomlec'h postel reizh"
@@ -331,6 +333,7 @@ msgid ""
 "Enter a valid 'slug' consisting of Unicode letters, numbers, underscores, or "
 "hyphens."
 msgstr ""
+"Enter un 'slug' valabl hañv urzhioù Unicode, nambro, aostro, pe diwezhennoù."
 
 msgid "Enter a valid IPv4 address."
 msgstr "Merkit ur chomlec'h IPv4 reizh."
@@ -366,10 +369,8 @@ msgid_plural ""
 "Ensure this value has at least %(limit_value)d characters (it has "
 "%(show_value)d)."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
+"Ensured ezse a zamm d'helloutan at least %(limit_value)d caracter (seto "
+"%(show_value)d)."
 
 #, python-format
 msgid ""
@@ -379,10 +380,8 @@ msgid_plural ""
 "Ensure this value has at most %(limit_value)d characters (it has "
 "%(show_value)d)."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
+"Mer ezh a c'houlenn bezañ a-raok %(limit_value)d karakter (gwelet "
+"%(show_value)d)."
 
 msgid "Enter a number."
 msgstr "Merkit un niver."
@@ -390,40 +389,30 @@ msgstr "Merkit un niver."
 #, python-format
 msgid "Ensure that there are no more than %(max)s digit in total."
 msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
+msgstr[0] "Sikourit en deus nemet %(max)s niver en tolpad."
 
 #, python-format
 msgid "Ensure that there are no more than %(max)s decimal place."
 msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
+msgstr[0] "Sigurati nebezo anave a %(max)s ton erc'h."
 
 #, python-format
 msgid ""
 "Ensure that there are no more than %(max)s digit before the decimal point."
 msgid_plural ""
 "Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
+msgstr[0] "Imerit nemet %(max)s digarez a-raok an niverenn."
 
 #, python-format
 msgid ""
 "File extension '%(extension)s' is not allowed. Allowed extensions are: "
 "'%(allowed_extensions)s'."
 msgstr ""
+"An droug ritañ '%(extension)s' ne c'hall ket. Ar ritañ a zo azant: "
+"'%(allowed_extensions)s'."
 
 msgid "Null characters are not allowed."
-msgstr ""
+msgstr "N'eo ket leis maen."
 
 msgid "and"
 msgstr "ha"
@@ -434,7 +423,7 @@ msgstr ""
 
 #, python-format
 msgid "Value %(value)r is not a valid choice."
-msgstr ""
+msgstr "An dud %(value)r n'eo ket ur diviz valid."
 
 msgid "This field cannot be null."
 msgstr "N'hall ket ar vaezienn chom goullo"
@@ -462,18 +451,18 @@ msgstr "Anterin"
 
 #, python-format
 msgid "'%(value)s' value must be an integer."
-msgstr ""
+msgstr "'%(value)s' a ranko doit bezañ un niver."
 
 msgid "Big (8 byte) integer"
 msgstr "Anterin bras (8 okted)"
 
 #, python-format
 msgid "'%(value)s' value must be either True or False."
-msgstr ""
+msgstr "La valeur de '%(value)s' doit être soit True, soit False."
 
 #, python-format
 msgid "'%(value)s' value must be either True, False, or None."
-msgstr ""
+msgstr "'% (value)s' a ranko da must be zo gwir, faus pe netra."
 
 msgid "Boolean (Either True or False)"
 msgstr "Boulean (gwir pe gaou)"
@@ -490,12 +479,15 @@ msgid ""
 "'%(value)s' value has an invalid date format. It must be in YYYY-MM-DD "
 "format."
 msgstr ""
+"'% (value)s' a zo ur prenad fall evit an diaraoger. D需要 etre an drazhYYYY-"
+"MM-DD."
 
 #, python-format
 msgid ""
 "'%(value)s' value has the correct format (YYYY-MM-DD) but it is an invalid "
 "date."
 msgstr ""
+"'%(value)s' a zo en ur furmas mat (YYYY-MM-DD) met n'eo ket ur z date valid."
 
 msgid "Date (without time)"
 msgstr "Deizad (hep eur)"
@@ -505,19 +497,23 @@ msgid ""
 "'%(value)s' value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
 "uuuuuu]][TZ] format."
 msgstr ""
+"'%(value)s' a zo ur varr kudennañ. Emañ da lavarout e rank bezañ en formato "
+"YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ] ."
 
 #, python-format
 msgid ""
 "'%(value)s' value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
 "[TZ]) but it is an invalid date/time."
 msgstr ""
+"'%(value)s' a zo en ur format gwir (YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ]) met "
+"n'eo ket un devezh/gant amzer valid."
 
 msgid "Date (with time)"
 msgstr "Deizad (gant an eur)"
 
 #, python-format
 msgid "'%(value)s' value must be a decimal number."
-msgstr ""
+msgstr "'%(value)s' a rank a doit bezañ ur niver decimal."
 
 msgid "Decimal number"
 msgstr "Niver dekvedennel"
@@ -527,9 +523,11 @@ msgid ""
 "'%(value)s' value has an invalid format. It must be in [DD] [HH:[MM:]]ss[."
 "uuuuuu] format."
 msgstr ""
+"%(value)s' ar value n'eo ket mat. Meneger a rae bezañ en [DD] [HH:[MM:]]ss[."
+"uuuuuu] format."
 
 msgid "Duration"
-msgstr ""
+msgstr "Pellgoad"
 
 msgid "Email address"
 msgstr "Chomlec'h postel"
@@ -539,7 +537,7 @@ msgstr "Treug war-du ar restr"
 
 #, python-format
 msgid "'%(value)s' value must be a float."
-msgstr ""
+msgstr "'%(value)s' a ra doit bezañ ur float."
 
 msgid "Floating point number"
 msgstr "Niver gant skej nij"
@@ -584,6 +582,8 @@ msgid ""
 "'%(value)s' value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
 "invalid time."
 msgstr ""
+"Gwerzhañ a ra ar yüzde (value)s eo en ur c'hemm (HH:MM[:ss[.uuuuuu]]) met "
+"n'eo ket ur gant da amzer."
 
 msgid "Time"
 msgstr "Eur"
@@ -592,11 +592,11 @@ msgid "URL"
 msgstr "URL"
 
 msgid "Raw binary data"
-msgstr ""
+msgstr "Ddata binair live"
 
 #, python-format
 msgid "'%(value)s' is not a valid UUID."
-msgstr ""
+msgstr "'%(value)s' n'est pas un UUID valid."
 
 msgid "File"
 msgstr "Restr"
@@ -616,11 +616,11 @@ msgstr "Darempred unan-ouzh-unan"
 
 #, python-format
 msgid "%(from)s-%(to)s relationship"
-msgstr ""
+msgstr "%(from)s-%(to)s relazhion"
 
 #, python-format
 msgid "%(from)s-%(to)s relationships"
-msgstr ""
+msgstr "%(from)s-%(to)s relatiñsoù"
 
 msgid "Many-to-many relationship"
 msgstr "Darempred lies-ouzh-lies"
@@ -629,7 +629,7 @@ msgstr "Darempred lies-ouzh-lies"
 #. characters will prevent the default label_suffix to be appended to the
 #. label
 msgid ":?.!"
-msgstr ""
+msgstr ":?.!"
 
 msgid "This field is required."
 msgstr "Rekis eo leuniañ ar vaezienn."
@@ -647,11 +647,12 @@ msgid "Enter a valid date/time."
 msgstr "Merkit un eur/deiziad reizh"
 
 msgid "Enter a valid duration."
-msgstr ""
+msgstr "Derañ un amzer valid."
 
 #, python-brace-format
 msgid "The number of days must be between {min_days} and {max_days}."
 msgstr ""
+"An niver a zo d'an devezhioù a rank bezañ etre {min_days} ha {max_days}."
 
 msgid "No file was submitted. Check the encoding type on the form."
 msgstr "N'eus ket kaset restr ebet. Gwiriit ar seurt enkodañ evit ar restr"
@@ -667,10 +668,7 @@ msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
 msgid_plural ""
 "Ensure this filename has at most %(max)d characters (it has %(length)d)."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
+"Sikourit an teuliad-mañ da zinveziñ %(max)d karactar (heñ chañch %(length)d)."
 
 msgid "Please either submit a file or check the clear checkbox, not both."
 msgstr "Kasit ur restr pe askit al log riñsañ; an eil pe egile"
@@ -693,36 +691,29 @@ msgid "Enter a complete value."
 msgstr "Merkañ un talvoud klok"
 
 msgid "Enter a valid UUID."
-msgstr ""
+msgstr "Entr un UUID valid."
 
 #. Translators: This is the default suffix added to form field labels
 msgid ":"
-msgstr ""
+msgstr "Suffix default a zo krouet da gelennadeg ar framm"
 
 #, python-format
 msgid "(Hidden field %(name)s) %(error)s"
-msgstr ""
+msgstr "(Skrid ha miken %(name)s) %(error)s"
 
 msgid "ManagementForm data is missing or has been tampered with"
-msgstr ""
+msgstr "Emañ data ManagementForm ha disheñvel pe bezañ tampered"
 
 #, python-format
 msgid "Please submit %d or fewer forms."
 msgid_plural "Please submit %d or fewer forms."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
+msgstr[0] "Pleite %d pezhioù pe menos."
 
+# Translation might need improvement.
 #, python-format
 msgid "Please submit %d or more forms."
 msgid_plural "Please submit %d or more forms."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
+msgstr[0] "Bitte geben Sie %d oder mehr Formulare ein."
 
 msgid "Order"
 msgstr "Urzh"
@@ -752,7 +743,7 @@ msgid "Please correct the duplicate values below."
 msgstr "Reizhañ ar roadennoù e doubl zo a-is"
 
 msgid "The inline value did not match the parent instance."
-msgstr ""
+msgstr "An inline aotren na reolennoù an doare-babañ."
 
 msgid "Select a valid choice. That choice is not one of the available choices."
 msgstr "Diuzit un dibab reizh. N'emañ ket an dibab-mañ e-touez ar re bosupl."
@@ -1048,7 +1039,7 @@ msgid "December"
 msgstr "Kerzu"
 
 msgid "This is not a valid IPv6 address."
-msgstr ""
+msgstr "N'eo ket ur c'hog IPv6 valid."
 
 #, python-format
 msgctxt "String to return when truncating text"
@@ -1123,7 +1114,7 @@ msgid "Forbidden"
 msgstr "Difennet"
 
 msgid "CSRF verification failed. Request aborted."
-msgstr ""
+msgstr "Krennoù CSRF a zo bet adtapet. Abeg ar gont."
 
 msgid ""
 "You are seeing this message because this HTTPS site requires a 'Referer "
@@ -1131,12 +1122,19 @@ msgid ""
 "required for security reasons, to ensure that your browser is not being "
 "hijacked by third parties."
 msgstr ""
+"Te gwelet mat e to mesaj-mañ, rak an dachenn HTTPS-mañ a red da vo sentet ur "
+"'Referer header' gant ho pleustrek web, met ne voe sentet ebet. An hedren-"
+"mañ a red evit ar merkanoù, evit sellet ouzh penaos ne vo ket ho pleustrek o "
+"c’halz adalek trede lod."
 
 msgid ""
 "If you have configured your browser to disable 'Referer' headers, please re-"
 "enable them, at least for this site, or for HTTPS connections, or for 'same-"
 "origin' requests."
 msgstr ""
+"Ma'z oc'h bet kemmet ho kag, evit dierc'h 'Referer' dezho, mar plij, "
+"adkempennit anezho, en ur furm da vezañ anvet evit ar raktres-mañ, pe evit "
+"ar c'honnidigezhioù HTTPS, pe evit an 'same-origin' goulennioù."
 
 msgid ""
 "If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
@@ -1145,26 +1143,37 @@ msgid ""
 "If you're concerned about privacy, use alternatives like <a rel=\"noreferrer"
 "\" ...> for links to third-party sites."
 msgstr ""
+"Ma naet 'out aozañ an neudenn <meta name=\"referrer\" content=\"no-referrer\""
+"> pe m'en em soñj ouzh ar 'Referrer-Policy: no-referrer' header, goulennit "
+"da derc'hel anezho. Goulenn ar CSRF un 'Referer' header evit ober gwir da "
+"c'hontrol. Ma vez sekreet ac’hanoc'h diwar-benn ar prevezded, usez stummoù "
+"all evel <a rel=\"noreferrer\" ...> evit lenuioù da sitennoù treuzkland."
 
 msgid ""
 "You are seeing this message because this site requires a CSRF cookie when "
 "submitting forms. This cookie is required for security reasons, to ensure "
 "that your browser is not being hijacked by third parties."
 msgstr ""
+"Hweiss oc'h gwelet an mesaj-se abalamour ma necesitar an dough CSRF pa'z eus "
+"goulennet d'ober formulennoù. An dough-mañ a zo ezhomm evit ar sec'urite, da "
+"wiriekaat n'eo ket ho teul dek'se kargadurezh hegarat dre an trede num."
 
 msgid ""
 "If you have configured your browser to disable cookies, please re-enable "
 "them, at least for this site, or for 'same-origin' requests."
 msgstr ""
+"Ma'z oc'h bet da rannañ ho merdeer da gont dezho an cookie, mar plij deuit "
+"da rannañ anezho en-dro, en ur miliata a-leizh evit ar bajenn-mañ pe evit "
+"'miliata a-hed' an aozadur."
 
 msgid "More information is available with DEBUG=True."
-msgstr ""
+msgstr "Marge zo azas gant DEBUG=True."
 
 msgid "No year specified"
 msgstr "N'eus bet resisaet bloavezh ebet"
 
 msgid "Date out of range"
-msgstr ""
+msgstr "Daelenn e nul"
 
 msgid "No month specified"
 msgstr "N'eus bet resisaet miz ebet"
@@ -1203,7 +1212,7 @@ msgstr ""
 
 #, python-format
 msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr ""
+msgstr "Pajenn invalid (%(page_number)s): %(message)s"
 
 #, python-format
 msgid "Empty list and '%(class_name)s.allow_empty' is False."
@@ -1221,13 +1230,16 @@ msgid "Index of %(directory)s"
 msgstr "Meneger %(directory)s"
 
 msgid "Django: the Web framework for perfectionists with deadlines."
-msgstr ""
+msgstr "Django: ar raktres web evit ar re a zo pinvidik gant termennoù."
 
 #, python-format
 msgid ""
 "View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
 "target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
 msgstr ""
+"Gwelet <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">notennoù emdroadel</a> evit Django "
+"%(version)s"
 
 msgid "The install worked successfully! Congratulations!"
 msgstr ""
@@ -1239,21 +1251,24 @@ msgid ""
 "\">DEBUG=True</a> is in your settings file and you have not configured any "
 "URLs."
 msgstr ""
+"Ete meh an dud-mañ abalamour da <a href=\"\"https://docs.djangoproject.com/"
+"en/%(version)s/ref/settings/#debug\"\" target=\"\"_blank\"\" rel=\"\"noopener"
+"\"\">DEBUG=True</a>\" er ho file madoù ha ne c'halvezit terzhadoù ebet.\""
 
 msgid "Django Documentation"
-msgstr ""
+msgstr "Dokumentation Django"
 
 msgid "Topics, references, &amp; how-to's"
-msgstr ""
+msgstr "Danvez, d'evel, ha penaos e c'hall bezañ graet"
 
 msgid "Tutorial: A Polling App"
-msgstr ""
+msgstr "Ulwen: Ur Raktres Polliñ"
 
 msgid "Get started with Django"
-msgstr ""
+msgstr "Kregiñ gant Django"
 
 msgid "Django Community"
-msgstr ""
+msgstr "Gwirionez Django"
 
 msgid "Connect, get help, or contribute"
 msgstr ""

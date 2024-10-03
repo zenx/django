@@ -8,40 +8,41 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-24 13:46+0200\n"
 "PO-Revision-Date: 2017-09-24 14:24+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
 "Language-Team: Breton (http://www.transifex.com/django/django/language/br/)\n"
+"Language: br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: br\n"
-"Plural-Forms: nplurals=5; plural=((n%10 == 1) && (n%100 != 11) && (n%100 !"
-"=71) && (n%100 !=91) ? 0 :(n%10 == 2) && (n%100 != 12) && (n%100 !=72) && (n"
-"%100 !=92) ? 1 :(n%10 ==3 || n%10==4 || n%10==9) && (n%100 < 10 || n% 100 > "
+"Plural-Forms: nplurals=5; plural=((n%10 == 1) && (n%100 != 11) && (n%100 "
+"!=71) && (n%100 !=91) ? 0 :(n%10 == 2) && (n%100 != 12) && (n%100 !=72) && ("
+"n%100 !=92) ? 1 :(n%10 ==3 || n%10==4 || n%10==9) && (n%100 < 10 || n% 100 > "
 "19) && (n%100 < 70 || n%100 > 79) && (n%100 < 90 || n%100 > 99) ? 2 :(n != 0 "
 "&& n % 1000000 == 0) ? 3 : 4);\n"
+"Revisiondate: 2024-10-03 16:27+0000\n"
 
 msgid "Personal info"
-msgstr ""
+msgstr "DInfor personel"
 
 msgid "Permissions"
-msgstr ""
+msgstr "Dibabusioù"
 
 msgid "Important dates"
-msgstr ""
+msgstr "Dinoù pouezus"
 
 #, python-format
 msgid "%(name)s object with primary key %(key)r does not exist."
-msgstr ""
+msgstr "N'eo ket bet kavet %(name)s gant ar key pennañ %(key)r."
 
 msgid "Password changed successfully."
-msgstr ""
+msgstr "Miz-dezre zo bet lennet gant surzh."
 
 #, python-format
 msgid "Change password: %s"
-msgstr ""
+msgstr "Kemmañ ar ger: %s"
 
 msgid "Authentication and Authorization"
-msgstr ""
+msgstr "Aotrenner ha Berzhonegoù"
 
 msgid "password"
 msgstr "ger-tremen"
@@ -50,39 +51,44 @@ msgid "last login"
 msgstr "kevreet da ziwezhañ"
 
 msgid "No password set."
-msgstr ""
+msgstr "Pasword nemet-set."
 
 msgid "Invalid password format or unknown hashing algorithm."
-msgstr ""
+msgstr "Format ger PASSWORD diouzh an argerzhañ pe un argerzhañ anvet."
 
 msgid "The two password fields didn't match."
-msgstr ""
+msgstr "Ar chomprennadoù two n'int ket liammet."
 
 msgid "Password"
 msgstr "Ger-tremen"
 
 msgid "Password confirmation"
-msgstr ""
+msgstr "Confirmation de mot de passe"
 
 msgid "Enter the same password as before, for verification."
-msgstr ""
+msgstr "Entrez le même mot de passe qu'auparavant, pour vérification."
 
 msgid ""
 "Raw passwords are not stored, so there is no way to see this user's "
 "password, but you can change the password using <a href=\"{}\">this form</a>."
 msgstr ""
+"Ar c'hammoù sklaer n'int ket stokeet, ne c'hall ket gwelet ger c'hammoù an "
+"implijer-mañ, met gallet ch'ch'embroudañ ar c'hammoù ganti <a href"
+"=\"{}\">arforms-mañ</a>."
 
 #, python-format
 msgid ""
 "Please enter a correct %(username)s and password. Note that both fields may "
 "be case-sensitive."
 msgstr ""
+"Meur a-ratoo ur %(username)s hag ur mignoner. Katout a-walc'h e c'hell bezañ "
+"penn da-benn."
 
 msgid "This account is inactive."
-msgstr ""
+msgstr "Kont gant an den-se n'eo ket aktiv."
 
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 msgid "New password"
 msgstr "Ger-tremen nevez"
@@ -92,6 +98,8 @@ msgstr "Kadarnaat ar ger-tremen nevez"
 
 msgid "Your old password was entered incorrectly. Please enter it again."
 msgstr ""
+"An dresin ho password kozh a zo bet skrivadegoù er sadd. Plemmit dezhañ en-"
+"dro."
 
 msgid "Old password"
 msgstr "Ger-tremen kozh"
@@ -100,52 +108,52 @@ msgid "Password (again)"
 msgstr "Ger-tremen (adarre)"
 
 msgid "algorithm"
-msgstr ""
+msgstr "algoritm"
 
 msgid "iterations"
-msgstr ""
+msgstr "iteradoù"
 
 msgid "salt"
-msgstr ""
+msgstr "sel"
 
 msgid "hash"
-msgstr ""
+msgstr "hashtag"
 
 msgid "variety"
-msgstr ""
+msgstr "diversité"
 
 msgid "version"
-msgstr ""
+msgstr "vèrsion"
 
 msgid "memory cost"
-msgstr ""
+msgstr "kost ar c'houlennoù"
 
 msgid "time cost"
-msgstr ""
+msgstr "cost a-dare"
 
 msgid "parallelism"
-msgstr ""
+msgstr "paralelazhañ"
 
 msgid "work factor"
-msgstr ""
+msgstr "facteur labour"
 
 msgid "checksum"
-msgstr ""
+msgstr "selañs"
 
 msgid "name"
 msgstr "anv"
 
 msgid "content type"
-msgstr ""
+msgstr "kાળ.content type"
 
 msgid "codename"
-msgstr ""
+msgstr "kodenn"
 
 msgid "permission"
-msgstr ""
+msgstr "aotrevadenn"
 
 msgid "permissions"
-msgstr ""
+msgstr "permisioù"
 
 msgid "group"
 msgstr "strollad"
@@ -154,32 +162,34 @@ msgid "groups"
 msgstr "strolladoù"
 
 msgid "superuser status"
-msgstr ""
+msgstr "status superuser"
 
 msgid ""
 "Designates that this user has all permissions without explicitly assigning "
 "them."
-msgstr ""
+msgstr "Digezh e bet e vefe an dud-se holl ar permisiou hep reiñ dezho a-greiz."
 
 msgid ""
 "The groups this user belongs to. A user will get all permissions granted to "
 "each of their groups."
 msgstr ""
+"Ar grouspen ma en emgefre. Bez'ez a vo kemeret an holl a drennoù roet d'an "
+"holl grouspen ma en emgefre."
 
 msgid "user permissions"
-msgstr ""
+msgstr "permisioù implijadour"
 
 msgid "Specific permissions for this user."
-msgstr ""
+msgstr "Perzhioù spesifik evit an implijour-mañ."
 
 msgid "username"
-msgstr ""
+msgstr "username"
 
 msgid "Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only."
 msgstr ""
 
 msgid "A user with that username already exists."
-msgstr ""
+msgstr "Un anvinner gantez-se zo er-maez."
 
 msgid "first name"
 msgstr "anv-bihan"
@@ -188,24 +198,26 @@ msgid "last name"
 msgstr "anv-familh"
 
 msgid "email address"
-msgstr ""
+msgstr "eilennadenn"
 
 msgid "staff status"
-msgstr ""
+msgstr "statut ar staff"
 
 msgid "Designates whether the user can log into this admin site."
-msgstr ""
+msgstr "Troidigezhioù pe c'hall an implijour s'engage da gentañ er web."
 
 msgid "active"
-msgstr ""
+msgstr "active"
 
 msgid ""
 "Designates whether this user should be treated as active. Unselect this "
 "instead of deleting accounts."
 msgstr ""
+"Dizozit peogwir eo an implijer-mañ da vezañ traité evel un implijer actel. "
+"Diwerc'hit an dra-se en em lazhañ kontoù."
 
 msgid "date joined"
-msgstr ""
+msgstr "deiziad en emglev"
 
 msgid "user"
 msgstr "implijer"
@@ -221,73 +233,71 @@ msgid_plural ""
 "This password is too short. It must contain at least %(min_length)d "
 "characters."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
+"Ar c'heskenn-mañ a zo re vihan. Ret eo dezhañ bezañ leun a ruasenn "
+"%(min_length)d."
 
 #, python-format
 msgid "Your password must contain at least %(min_length)d character."
 msgid_plural "Your password must contain at least %(min_length)d characters."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
+msgstr[0] "Dibarhit hoant da c'hit ma'z eus en un nebeud a %[d_length] caractere."
 
 #, python-format
 msgid "The password is too similar to the %(verbose_name)s."
-msgstr ""
+msgstr "Armerzhañ a ra an kod bedel anezhañ da %(verbose_name)s."
 
 msgid "Your password can't be too similar to your other personal information."
-msgstr ""
+msgstr "Ne c'hellit ket bezañ ken similar da ho tivadurioù personel all."
 
 msgid "This password is too common."
-msgstr ""
+msgstr "Ar c'hallaoued-mañ zo reovereet."
 
 msgid "Your password can't be a commonly used password."
-msgstr ""
+msgstr "N'eo ket posubl da vezañ ur ger dresus penaos e vez implijet."
 
 msgid "This password is entirely numeric."
-msgstr ""
+msgstr "Ar c'hod-se zo numerel en tu d'an hini."
 
 msgid "Your password can't be entirely numeric."
-msgstr ""
+msgstr "Na d'ê adt aotrouñs dreistpennañ."
 
 #, python-format
 msgid "Password reset on %(site_name)s"
-msgstr ""
+msgstr "Adrenvouez an neuz ar gerioù pash war %(site_name)s"
 
 msgid ""
 "Enter a valid username. This value may contain only English letters, "
 "numbers, and @/./+/-/_ characters."
 msgstr ""
+"Entrez un nom d'utilisateur valide. Ar pezh-mañ a c'hall bezañ digor "
+"exclusivement d'al lizherennoù saoz, ar niveroù, ha karakterioù @/./+/-/_"
 
 msgid ""
 "Enter a valid username. This value may contain only letters, numbers, and "
 "@/./+/-/_ characters."
 msgstr ""
+"Skrivit ulioù a ra d'ober. D'arberzh-mañ e c'hello d'ober kevel a-raok "
+"ouzhpenn meiziadoù, niverioù, ha karakterioù @/./+/-/_"
 
 msgid "Logged out"
 msgstr "Digevreet"
 
 msgid "Password reset"
-msgstr ""
+msgstr "Coligezh ar gerenn"
 
 msgid "Password reset sent"
-msgstr ""
+msgstr "Keleier an ar c'hentañ a-wel"
 
 msgid "Enter new password"
-msgstr ""
+msgstr "Skrivañ ur ger-treset nevez"
 
 msgid "Password reset unsuccessful"
-msgstr ""
+msgstr "Reset ar gerioù ha nemetpoellit"
 
 msgid "Password reset complete"
-msgstr ""
+msgstr "Resetadeg ar ger sañset"
 
 msgid "Password change"
-msgstr ""
+msgstr "Kemper urzhiat"
 
 msgid "Password change successful"
-msgstr ""
+msgstr "Pezh-mañ a oa gwelet ha gwell ha sur"
