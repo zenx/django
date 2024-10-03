@@ -9,14 +9,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-19 16:49+0100\n"
 "PO-Revision-Date: 2017-09-23 18:54+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
 "Language-Team: Welsh (http://www.transifex.com/django/django/language/cy/)\n"
+"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cy\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != "
 "11) ? 2 : 3;\n"
+"Revisiondate: 2024-10-03 15:00+0000\n"
 
 msgid "Administrative Documentation"
 msgstr "Dogfennaeth Gweinyddol"
@@ -38,6 +39,9 @@ msgid ""
 "click the link and add it to your bookmarks. Now you can select the "
 "bookmarklet from any page in the site."
 msgstr ""
+"I osod y bookmarklets, tynnwch y ddolen i'ch bar aelodau, neu de-gliciwch ar "
+"y ddolen a'i hychwanegu i'ch aelodau. Nawr gallwch ddewis y bookmarklet o "
+"unrhyw dudalen yn y safle."
 
 msgid "Documentation for this page"
 msgstr "Dogfennaeth y dudalen hon"
@@ -114,7 +118,7 @@ msgid "Model: %(name)s"
 msgstr "Model: %(name)s"
 
 msgid "Fields"
-msgstr ""
+msgstr "Meysydd"
 
 msgid "Field"
 msgstr "Maes"
@@ -126,16 +130,16 @@ msgid "Description"
 msgstr "Disgrifiad"
 
 msgid "Methods with arguments"
-msgstr ""
+msgstr "Dulliau gyda pheryg"
 
 msgid "Method"
-msgstr ""
+msgstr "Dull"
 
 msgid "Arguments"
-msgstr ""
+msgstr "Peryg"
 
 msgid "Back to Model documentation"
-msgstr ""
+msgstr "Yn ôl i ddogfennaeth y Model"
 
 msgid "Model documentation"
 msgstr "Dogfennaeth model"
@@ -210,23 +214,23 @@ msgid "Templates:"
 msgstr "Templadau:"
 
 msgid "Back to View documentation"
-msgstr ""
+msgstr "Yn ôl i ddogfennaeth y Golygfa"
 
 msgid "View documentation"
 msgstr "Dogfennaeth golygon"
 
 msgid "Jump to namespace"
-msgstr ""
+msgstr "Neidio i'r namespace"
 
 msgid "Empty namespace"
-msgstr ""
+msgstr "Namespace gwag"
 
 #, python-format
 msgid "Views by namespace %(name)s"
-msgstr ""
+msgstr "Golygfeydd gan namespace %(name)s"
 
 msgid "Views by empty namespace"
-msgstr ""
+msgstr "Golygfeydd gan namespace gwag"
 
 #, python-format
 msgid ""

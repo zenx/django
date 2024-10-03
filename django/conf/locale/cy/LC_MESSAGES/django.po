@@ -9,14 +9,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-15 16:15+0100\n"
 "PO-Revision-Date: 2017-11-16 01:13+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
 "Language-Team: Welsh (http://www.transifex.com/django/django/language/cy/)\n"
+"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cy\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != "
 "11) ? 2 : 3;\n"
+"Revisiondate: 2024-10-03 15:01+0000\n"
 
 msgid "Afrikaans"
 msgstr "Affricaneg"
@@ -295,13 +296,13 @@ msgid "Syndication"
 msgstr "Syndicetiad"
 
 msgid "That page number is not an integer"
-msgstr ""
+msgstr "Nid yw'r rhif tudalen hwnnw'n integer"
 
 msgid "That page number is less than 1"
-msgstr ""
+msgstr "Mae'r rhif tudalen hwnnw'n llai na 1"
 
 msgid "That page contains no results"
-msgstr ""
+msgstr "Mae'r dudalen hon yn cynnwys dim canlyniadau"
 
 msgid "Enter a valid value."
 msgstr "Rhowch werth dilys."
@@ -448,6 +449,7 @@ msgstr "Ni all y maes hwn fod yn wag."
 msgid "%(model_name)s with this %(field_label)s already exists."
 msgstr "Mae %(model_name)s gyda'r %(field_label)s hwn yn bodoli'n barod."
 
+# Translators: The 'lookup_type' is one of 'date', 'year' or 'month'. Eg: \Title must be unique for pub_date year\""
 #. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
 #. Eg: "Title must be unique for pub_date year"
 #, python-format
@@ -1236,16 +1238,19 @@ msgid "Index of %(directory)s"
 msgstr "Mynegai %(directory)s"
 
 msgid "Django: the Web framework for perfectionists with deadlines."
-msgstr ""
+msgstr "Django: y fframwaith gwe ar gyfer perfeisionwyr â therfynau amser."
 
 #, python-format
 msgid ""
 "View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
 "target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
 msgstr ""
+"Edrychwch ar <a href=\"https://docs.djangoproject.com/en/%(version)s/"
+"releases/\" target=\"_blank\" rel=\"noopener\">nodiadau rhyddhau</a> ar "
+"gyfer Django %(version)s"
 
 msgid "The install worked successfully! Congratulations!"
-msgstr ""
+msgstr "Llwythwyd y gosod yn llwyddiannus! Llongyfarchiadau!"
 
 #, python-format
 msgid ""
@@ -1254,21 +1259,25 @@ msgid ""
 "\">DEBUG=True</a> is in your settings file and you have not configured any "
 "URLs."
 msgstr ""
+"Rydych yn gweld y dudalen hon oherwydd bod <a href=\"https://docs."
+"djangoproject.com/en/%(version)s/ref/settings/#debug\" target=\"_blank\" rel="
+"\"noopener\">DEBUG=True</a> yn eich ffeil gosodiadau ac nad ydych wedi "
+"cyflunio unrhyw URLs."
 
 msgid "Django Documentation"
-msgstr ""
+msgstr "Dogfennaeth Django"
 
 msgid "Topics, references, &amp; how-to's"
-msgstr ""
+msgstr "Pynciau, cyfeiriadau, a phynciau briffio"
 
 msgid "Tutorial: A Polling App"
-msgstr ""
+msgstr "Tiwtorial: Ap Pleidleisio"
 
 msgid "Get started with Django"
-msgstr ""
+msgstr "Dechrau gyda Django"
 
 msgid "Django Community"
-msgstr ""
+msgstr "Cymuned Django"
 
 msgid "Connect, get help, or contribute"
-msgstr ""
+msgstr "Cyswllt, caiff cymorth, neu gyfrannu"

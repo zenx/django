@@ -10,14 +10,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-19 16:49+0100\n"
 "PO-Revision-Date: 2017-09-23 18:54+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
 "Language-Team: Welsh (http://www.transifex.com/django/django/language/cy/)\n"
+"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cy\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != "
 "11) ? 2 : 3;\n"
+"Revisiondate: 2024-10-03 15:01+0000\n"
 
 #, python-format
 msgid "Successfully deleted %(count)d %(items)s."
@@ -65,10 +66,10 @@ msgid "This year"
 msgstr "Eleni"
 
 msgid "No date"
-msgstr ""
+msgstr "Dim dyddiad"
 
 msgid "Has date"
-msgstr ""
+msgstr "Mae dyddiad"
 
 #, python-format
 msgid ""
@@ -92,10 +93,10 @@ msgid "action time"
 msgstr "amser y weithred"
 
 msgid "user"
-msgstr ""
+msgstr "defnyddiwr"
 
 msgid "content type"
-msgstr ""
+msgstr "math o gynnwys"
 
 msgid "object id"
 msgstr "id gwrthrych"
@@ -134,25 +135,25 @@ msgstr "Gwrthrych LogEntry"
 
 #, python-brace-format
 msgid "Added {name} \"{object}\"."
-msgstr ""
+msgstr "Ychwanegwyd {name} \"{object}\"."
 
 msgid "Added."
-msgstr ""
+msgstr "Ychwanegwyd."
 
 msgid "and"
 msgstr "a"
 
 #, python-brace-format
 msgid "Changed {fields} for {name} \"{object}\"."
-msgstr ""
+msgstr "Newid {fields} ar gyfer {name} \"{object}\"."
 
 #, python-brace-format
 msgid "Changed {fields}."
-msgstr ""
+msgstr "Newidwyd {fields}."
 
 #, python-brace-format
 msgid "Deleted {name} \"{object}\"."
-msgstr ""
+msgstr "Dilewyd {name} \"{object}\"."
 
 msgid "No fields changed."
 msgstr "Ni newidwyd unrhwy feysydd."
@@ -345,7 +346,7 @@ msgid "Welcome,"
 msgstr "Croeso,"
 
 msgid "View site"
-msgstr ""
+msgstr "Gweld y safle"
 
 msgid "Documentation"
 msgstr "Dogfennaeth"
@@ -402,18 +403,20 @@ msgid ""
 "Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
 "All of the following related items will be deleted:"
 msgstr ""
+"Ydych chi'n siŵr eich bod am ddileu'r %(object_name)s \"%(escaped_object)s\""
+"? Bydd yr holl eitemau perthnasol a ganlyn yn cael eu dileu:"
 
 msgid "Objects"
-msgstr ""
+msgstr "Eitemau"
 
 msgid "Yes, I'm sure"
 msgstr "Ydw, rwy'n sicr"
 
 msgid "No, take me back"
-msgstr ""
+msgstr "Na, dychwelwch fi yn ôl"
 
 msgid "Delete multiple objects"
-msgstr ""
+msgstr "Dileu eitemau lluosog"
 
 #, python-format
 msgid ""
@@ -421,6 +424,9 @@ msgid ""
 "objects, but your account doesn't have permission to delete the following "
 "types of objects:"
 msgstr ""
+"Bydd dileu'r %(objects_name)s a ddewiswyd yn arwain at ddileu eitemau "
+"cysylltiedig, ond nid oes gan eich cyfrif awdurdod i ddileu'r mathau "
+"canlynol o eitemau:"
 
 #, python-format
 msgid ""
@@ -449,7 +455,7 @@ msgid " By %(filter_title)s "
 msgstr "Wrth %(filter_title)s"
 
 msgid "Summary"
-msgstr ""
+msgstr "Crynodeb"
 
 #, python-format
 msgid "Models in the %(name)s application"
@@ -462,10 +468,10 @@ msgid "You don't have permission to edit anything."
 msgstr "Does gennych ddim hawl i olygu unrhywbeth."
 
 msgid "Recent actions"
-msgstr ""
+msgstr "Gweithredoedd diweddar"
 
 msgid "My actions"
-msgstr ""
+msgstr "Fy ngweithredoedd"
 
 msgid "None available"
 msgstr "Dim ar gael"
@@ -487,6 +493,8 @@ msgid ""
 "You are authenticated as %(username)s, but are not authorized to access this "
 "page. Would you like to login to a different account?"
 msgstr ""
+"Mae'ch bod wedi'ch dilysu fel %(username)s, ond nid ydych wedi'ch hawdurdodi "
+"i gyrchu'r dudalen hon. A ydych am fewngofnodi i gyfrif gwahanol?"
 
 msgid "Forgotten your password or username?"
 msgstr "Anghofioch eich cyfrinair neu enw defnyddiwr?"
@@ -514,19 +522,19 @@ msgid "Save"
 msgstr "Cadw"
 
 msgid "Popup closing..."
-msgstr ""
+msgstr "Papurog yn cau..."
 
 #, python-format
 msgid "Change selected %(model)s"
-msgstr ""
+msgstr "Newid %(model)s a ddewiswyd"
 
 #, python-format
 msgid "Add another %(model)s"
-msgstr ""
+msgstr "Ychwanegu %(model)s arall"
 
 #, python-format
 msgid "Delete selected %(model)s"
-msgstr ""
+msgstr "Dileu %(model)s a ddewiswyd"
 
 msgid "Search"
 msgstr "Chwilio"
@@ -606,6 +614,9 @@ msgid ""
 "We've emailed you instructions for setting your password, if an account "
 "exists with the email you entered. You should receive them shortly."
 msgstr ""
+"Rydym wedi anfon e-bost atoch gydag arweiniad ar gyfer gosod eich cyfrinair, "
+"os yw cyfrif yn bodoli gyda'r e-bost a roddwyd gennych. Dylech dderbyn y "
+"rhain yn fuan."
 
 msgid ""
 "If you don't receive an email, please make sure you've entered the address "
