@@ -12,14 +12,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-16 20:42+0100\n"
 "PO-Revision-Date: 2019-01-18 16:24+0000\n"
-"Last-Translator: Martin Pajuste <martinpajuste@gmail.com>\n"
-"Language-Team: Estonian (http://www.transifex.com/django/django/language/"
-"et/)\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
+"Language-Team: Estonian (http://www.transifex.com/django/django/language/et/)"
+"\n"
+"Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: et\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-10-03 15:21+0000\n"
 
 msgid "Humanize"
 msgstr "Inimlikustamine"
@@ -251,7 +252,7 @@ msgstr "eile"
 #. weeks'
 #, python-format
 msgid "%(delta)s ago"
-msgstr ""
+msgstr "%(delta)s tagasi"
 
 #. Translators: please keep a non-breaking space (U+00A0) between count
 #. and time unit.
@@ -308,50 +309,44 @@ msgstr[1] "%(count)s tundi praegusest hetkest"
 #. weeks'
 #, python-format
 msgid "%(delta)s from now"
-msgstr ""
+msgstr "%(delta)s pärast"
 
 #. Translators: 'naturaltime-past' strings will be included in '%(delta)s ago'
 #, python-format
 msgctxt "naturaltime-past"
 msgid "%d year"
 msgid_plural "%d years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d aastat"
 
 #, python-format
 msgctxt "naturaltime-past"
 msgid "%d month"
 msgid_plural "%d months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d kuud"
 
 #, python-format
 msgctxt "naturaltime-past"
 msgid "%d week"
 msgid_plural "%d weeks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d nädalat"
 
 #, python-format
 msgctxt "naturaltime-past"
 msgid "%d day"
 msgid_plural "%d days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d päeva"
 
 #, python-format
 msgctxt "naturaltime-past"
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d tundi"
 
 #, python-format
 msgctxt "naturaltime-past"
 msgid "%d minute"
 msgid_plural "%d minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d minutit"
 
 #. Translators: 'naturaltime-future' strings will be included in '%(delta)s
 #. from now'
@@ -359,40 +354,34 @@ msgstr[1] ""
 msgctxt "naturaltime-future"
 msgid "%d year"
 msgid_plural "%d years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d aastat"
 
 #, python-format
 msgctxt "naturaltime-future"
 msgid "%d month"
 msgid_plural "%d months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d kuud"
 
 #, python-format
 msgctxt "naturaltime-future"
 msgid "%d week"
 msgid_plural "%d weeks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d nädalat"
 
 #, python-format
 msgctxt "naturaltime-future"
 msgid "%d day"
 msgid_plural "%d days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d päeva"
 
 #, python-format
 msgctxt "naturaltime-future"
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d tundi"
 
 #, python-format
 msgctxt "naturaltime-future"
 msgid "%d minute"
 msgid_plural "%d minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d minutit"

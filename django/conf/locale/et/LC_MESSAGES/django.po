@@ -14,14 +14,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-16 20:42+0100\n"
 "PO-Revision-Date: 2019-01-18 16:27+0000\n"
-"Last-Translator: Martin Pajuste <martinpajuste@gmail.com>\n"
-"Language-Team: Estonian (http://www.transifex.com/django/django/language/"
-"et/)\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
+"Language-Team: Estonian (http://www.transifex.com/django/django/language/et/)"
+"\n"
+"Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: et\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-10-03 15:22+0000\n"
 
 msgid "Afrikaans"
 msgstr "afrikaani"
@@ -168,7 +169,7 @@ msgid "Georgian"
 msgstr "gruusia"
 
 msgid "Kabyle"
-msgstr ""
+msgstr "Kabyle"
 
 msgid "Kazakh"
 msgstr "kasahhi"
@@ -477,7 +478,7 @@ msgstr "'%(value)s' väärtus peab olema kas Tõene või Väär."
 
 #, python-format
 msgid "'%(value)s' value must be either True, False, or None."
-msgstr ""
+msgstr "'%(value)s' väärtus peab olema kas True, False või None."
 
 msgid "Boolean (Either True or False)"
 msgstr "Tõeväärtus (Kas tõene või väär)"
@@ -616,7 +617,7 @@ msgid "'%(value)s' is not a valid UUID."
 msgstr "'%(value)s' ei ole korrektne UUID."
 
 msgid "Universally unique identifier"
-msgstr ""
+msgstr "Universaalne ainulaadne tuvastaja"
 
 msgid "File"
 msgstr "Fail"
@@ -1064,7 +1065,7 @@ msgstr "See ei ole korrektne IPv6 aadress."
 #, python-format
 msgctxt "String to return when truncating text"
 msgid "%(truncated_text)s…"
-msgstr ""
+msgstr "%(truncated_text)s…"
 
 msgid "or"
 msgstr "või"
@@ -1145,6 +1146,11 @@ msgid ""
 "If you're concerned about privacy, use alternatives like <a rel=\"noreferrer"
 "\" ...> for links to third-party sites."
 msgstr ""
+"Kui kasutate <meta name=\"referrer\" content=\"no-referrer\"> sildi või "
+"'Referrer-Policy: no-referrer' päise, palun eemaldage need. CSRF kaitse "
+"nõuab 'Referer' päist rangete viitamise kontrollide tegemiseks. Kui olete "
+"privaatsuse pärast mures, kasutage alternatiive nagu <a rel=\"noreferrer\" "
+"...> kolmandate isikute saitide linkide jaoks."
 
 msgid ""
 "You are seeing this message because this site requires a CSRF cookie when "
@@ -1169,7 +1175,7 @@ msgid "No year specified"
 msgstr "Aasta on valimata"
 
 msgid "Date out of range"
-msgstr ""
+msgstr "Kuupäev on vahemikust väljas"
 
 msgid "No month specified"
 msgstr "Kuu on valimata"
@@ -1223,16 +1229,19 @@ msgid "Index of %(directory)s"
 msgstr "%(directory)s sisuloend"
 
 msgid "Django: the Web framework for perfectionists with deadlines."
-msgstr ""
+msgstr "Django: veebiraamistik perfektsionistidele, kellel on tähtaeg."
 
 #, python-format
 msgid ""
 "View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
 "target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
 msgstr ""
+"Vaata <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">väljalaske teadete</a> jaoks Django "
+"%(version)s"
 
 msgid "The install worked successfully! Congratulations!"
-msgstr ""
+msgstr "Installeerimine õnnestus! Palju õnne!"
 
 #, python-format
 msgid ""
@@ -1249,16 +1258,16 @@ msgid "Django Documentation"
 msgstr "Django dokumentatsioon"
 
 msgid "Topics, references, &amp; how-to's"
-msgstr ""
+msgstr "Teemad, viited ja juhised"
 
 msgid "Tutorial: A Polling App"
-msgstr ""
+msgstr "Koolitus: küsitlusrakendus"
 
 msgid "Get started with Django"
-msgstr ""
+msgstr "Alustage Django kasutamist"
 
 msgid "Django Community"
-msgstr ""
+msgstr "Django kogukond"
 
 msgid "Connect, get help, or contribute"
-msgstr ""
+msgstr "Ühendage, saage abi või panustage"
