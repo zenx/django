@@ -11,14 +11,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-15 16:15+0100\n"
 "PO-Revision-Date: 2017-11-16 01:13+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
 "Language-Team: Spanish (Venezuela) (http://www.transifex.com/django/django/"
 "language/es_VE/)\n"
+"Language: es_VE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es_VE\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-10-03 15:21+0000\n"
 
 msgid "Afrikaans"
 msgstr "Afrikáans"
@@ -414,7 +415,7 @@ msgstr ""
 "permitidas son ' %(allowed_extensions)s'."
 
 msgid "Null characters are not allowed."
-msgstr ""
+msgstr "Los caracteres nulos no están permitidos."
 
 msgid "and"
 msgstr "y"
@@ -749,7 +750,7 @@ msgid "Please correct the duplicate values below."
 msgstr "Por favor, corrija los valores duplicados abajo."
 
 msgid "The inline value did not match the parent instance."
-msgstr ""
+msgstr "El valor en línea no coincidió con la instancia padre."
 
 msgid "Select a valid choice. That choice is not one of the available choices."
 msgstr ""
@@ -757,7 +758,7 @@ msgstr ""
 
 #, python-format
 msgid "\"%(pk)s\" is not a valid value."
-msgstr ""
+msgstr "\"%(pk)s\" no es un valor válido."
 
 #, python-format
 msgid ""
@@ -1129,6 +1130,12 @@ msgid ""
 "If you're concerned about privacy, use alternatives like <a rel=\"noreferrer"
 "\" ...> for links to third-party sites."
 msgstr ""
+"Si está utilizando la etiqueta <meta name=\"referrer\" content=\"no-"
+"referrer\"> o incluyendo el encabezado 'Referrer-Policy: no-referrer', por "
+"favor, quítelos. La protección CSRF requiere el encabezado 'Referer' para "
+"realizar una verificación estricta de referentes. Si le preocupa la "
+"privacidad, utilice alternativas como <a rel=\"noreferrer\" ...> para "
+"enlaces a sitios de terceros."
 
 msgid ""
 "You are seeing this message because this site requires a CSRF cookie when "
@@ -1153,7 +1160,7 @@ msgid "No year specified"
 msgstr "No se ha indicado el año"
 
 msgid "Date out of range"
-msgstr ""
+msgstr "Fecha fuera de rango"
 
 msgid "No month specified"
 msgstr "No se ha indicado el mes"
@@ -1207,16 +1214,19 @@ msgid "Index of %(directory)s"
 msgstr "Índice de %(directory)s"
 
 msgid "Django: the Web framework for perfectionists with deadlines."
-msgstr ""
+msgstr "Django: el framework web para perfeccionistas con plazos."
 
 #, python-format
 msgid ""
 "View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
 "target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
 msgstr ""
+"Ver <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">notas de la versión</a> para Django "
+"%(version)s"
 
 msgid "The install worked successfully! Congratulations!"
-msgstr ""
+msgstr "¡La instalación se realizó con éxito! ¡Felicidades!"
 
 #, python-format
 msgid ""
@@ -1225,21 +1235,25 @@ msgid ""
 "\">DEBUG=True</a> is in your settings file and you have not configured any "
 "URLs."
 msgstr ""
+"Está viendo esta página porque <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" rel=\"noopener\""
+">DEBUG=True</a> está en su archivo de configuración y no ha configurado "
+"ninguna URL."
 
 msgid "Django Documentation"
-msgstr ""
+msgstr "Documentación de Django"
 
 msgid "Topics, references, &amp; how-to's"
-msgstr ""
+msgstr "Temas, referencias y tutoriales"
 
 msgid "Tutorial: A Polling App"
-msgstr ""
+msgstr "Tutorial: Una aplicación de encuestas"
 
 msgid "Get started with Django"
-msgstr ""
+msgstr "Comience con Django"
 
 msgid "Django Community"
-msgstr ""
+msgstr "Comunidad de Django"
 
 msgid "Connect, get help, or contribute"
-msgstr ""
+msgstr "Conéctese, obtenga ayuda o contribuya"
