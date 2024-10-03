@@ -11,17 +11,18 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-19 16:49+0100\n"
 "PO-Revision-Date: 2017-09-19 16:40+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
-"Language-Team: Bengali (http://www.transifex.com/django/django/language/"
-"bn/)\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
+"Language-Team: Bengali (http://www.transifex.com/django/django/language/bn/)"
+"\n"
+"Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-10-03 16:25+0000\n"
 
 msgid "Administrative Documentation"
-msgstr ""
+msgstr "প্রশাসনিক ডকুমেন্টেশন"
 
 msgid "Home"
 msgstr "নীড়পাতা"
@@ -40,6 +41,8 @@ msgid ""
 "click the link and add it to your bookmarks. Now you can select the "
 "bookmarklet from any page in the site."
 msgstr ""
+"বুকমার্কলেট ইনস্টল করতে, লিংকটিকে আপনার বুকমার্কস টুলবারে টেনে আনুন বা ডান-ক্লিক করে বুকমার্কে এটি যোগ করুন। "
+"এখন আপনি সাইটের যেকোন পৃষ্ঠায় বুকমার্কলেটটি নির্বাচন করতে পারেন।"
 
 msgid "Documentation for this page"
 msgstr "এই পাতার সহায়িকা"
@@ -53,7 +56,7 @@ msgid "Tags"
 msgstr "ট্যাগগুলো"
 
 msgid "List of all the template tags and their functions."
-msgstr ""
+msgstr "সমস্ত টেমপ্লেট ট্যাগ এবং তাদের কার্যাবলী এর তালিকা।"
 
 msgid "Filters"
 msgstr "ফিল্টারগুলো"
@@ -62,6 +65,7 @@ msgid ""
 "Filters are actions which can be applied to variables in a template to alter "
 "the output."
 msgstr ""
+"ফিল্টার হল সেগুলি কার্যাবলী যা টেমপ্লেটে ভেরিয়েবলগুলিতে প্রয়োগ করা যেতে পারে আউটপুট পরিবর্তন করার জন্য।"
 
 msgid "Models"
 msgstr "মডেলগুলো"
@@ -71,6 +75,8 @@ msgid ""
 "associated fields. Each model has a list of fields which can be accessed as "
 "template variables"
 msgstr ""
+"মডেলগুলি সিস্টেমের সমস্ত অবজেক্ট এবং তাদের সাথে সংশ্লিষ্ট ফিল্ডের বর্ণনা। প্রতিটি মডেলে একটি ফিল্ডের তালিকা থাকে যা "
+"টেমপ্লেট ভেরিয়েবল হিসাবে প্রবেশ করা যায়।"
 
 msgid "Views"
 msgstr "ভিউগুলো"
@@ -80,9 +86,12 @@ msgid ""
 "template is used to generate the page and which objects are available to "
 "that template."
 msgstr ""
+"জনসাধারণের সাইটের প্রতিটি পৃষ্ঠা একটি ভিউ দ্বারা তৈরি হয়। ভিউটি নির্ধারণ করে কোন টেমপ্লেট পৃষ্ঠাটি তৈরির জন্য "
+"ব্যবহৃত হয় এবং কোন অবজেক্টগুলি সেই টেমপ্লেটের জন্য উপলব্ধ।"
 
 msgid "Tools for your browser to quickly access admin functionality."
 msgstr ""
+"আপনার ব্রাউজারের জন্য টুলস যা প্রশাসনিক কার্যকারিতায় দ্রুত অ্যাক্সেস দেয়।"
 
 msgid "Please install docutils"
 msgstr "দয়া করে docutils ইনস্টল করুন"
@@ -92,18 +101,20 @@ msgid ""
 "The admin documentation system requires Python's <a href=\"%(link)s"
 "\">docutils</a> library."
 msgstr ""
+"প্রশাসনিক ডকুমেন্টেশন সিস্টেমের জন্য পিটনের <a href=\"%(link)s\">ডক্যুটিলস</a> লাইব্রেরি প্রয়োজন।"
 
 #, python-format
 msgid ""
 "Please ask your administrators to install <a href=\"%(link)s\">docutils</a>."
 msgstr ""
+"অনুগ্রহ করে আপনার প্রশাসকদের <a href=\"%(link)s\">ডক্যুটিলস</a> ইনস্টল করতে বলুন।"
 
 #, python-format
 msgid "Model: %(name)s"
 msgstr "মডেল: %(name)s"
 
 msgid "Fields"
-msgstr ""
+msgstr "ক্ষেত্র"
 
 msgid "Field"
 msgstr "ফিল্ড"
@@ -115,16 +126,16 @@ msgid "Description"
 msgstr "বিবরন"
 
 msgid "Methods with arguments"
-msgstr ""
+msgstr "আর্গুমেন্ট সহ পদ্ধতি"
 
 msgid "Method"
-msgstr ""
+msgstr "পদ্ধতি"
 
 msgid "Arguments"
-msgstr ""
+msgstr "আর্গুমেন্টস"
 
 msgid "Back to Model documentation"
-msgstr ""
+msgstr "মডেল ডকুমেন্টেশনের দিকে ফিরে যান"
 
 msgid "Model documentation"
 msgstr "মডেল ডকুমেন্টেশন"
@@ -146,10 +157,10 @@ msgstr "টেমপ্লেট: \"%(name)s\""
 #. Translators: Search is not a verb here, it qualifies path (a search path)
 #, python-format
 msgid "Search path for template \"%(name)s\":"
-msgstr ""
+msgstr "টেমপ্লেটের জন্য অনুসন্ধান পথ \"%(name)s\":"
 
 msgid "(does not exist)"
-msgstr ""
+msgstr "(অস্তিত্বহীন)"
 
 msgid "Back to Documentation"
 msgstr "ডকুমেন্টেশনে ফেরত যান"
@@ -168,6 +179,7 @@ msgid ""
 "To use these filters, put <code>%(code)s</code> in your template before "
 "using the filter."
 msgstr ""
+"এই ফিল্টারগুলি ব্যবহার করতে, ফিল্টার ব্যবহারের আগে আপনার টেমপ্লেটে <code>%(code)s</code> দিন।"
 
 msgid "Template tags"
 msgstr "টেমপ্লেট ট্যাগ"
@@ -183,42 +195,43 @@ msgid ""
 "To use these tags, put <code>%(code)s</code> in your template before using "
 "the tag."
 msgstr ""
+"এই ট্যাগগুলি ব্যবহারের জন্য, আপনার টেমপ্লেটে ট্যাগ ব্যবহারের আগে <code>%(code)s</code> লিখুন।"
 
 #, python-format
 msgid "View: %(name)s"
 msgstr "ভিউ: %(name)s"
 
 msgid "Context:"
-msgstr ""
+msgstr "প্রেক্ষিত:"
 
 msgid "Templates:"
 msgstr "টেমপ্লেটসমূহ:"
 
 msgid "Back to View documentation"
-msgstr ""
+msgstr "ডকুমেন্টেশনে ফিরে যান"
 
 msgid "View documentation"
 msgstr "ভিউ ডকুমেন্টেশন"
 
 msgid "Jump to namespace"
-msgstr ""
+msgstr "নেমস্পেসে যান"
 
 msgid "Empty namespace"
 msgstr "ফাঁকা নেমস্পেস"
 
 #, python-format
 msgid "Views by namespace %(name)s"
-msgstr ""
+msgstr "নামস্পেস দ্বারা ভিউ %(name)s"
 
 msgid "Views by empty namespace"
-msgstr ""
+msgstr "নিষ্ক্রিয় নামস্থান দ্বারা দৃশ্য"
 
 #, python-format
 msgid ""
 "\n"
 "    View function: <code>%(full_name)s</code>. Name: <code>%(url_name)s</"
 "code>.\n"
-msgstr ""
+msgstr "ভিউ ফাংশন: <code>%(full_name)s</code>. নাম: <code>%(url_name)s</code>."
 
 msgid "tag:"
 msgstr "ট্যাগঃ"

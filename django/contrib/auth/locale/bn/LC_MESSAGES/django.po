@@ -9,14 +9,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-24 13:46+0200\n"
 "PO-Revision-Date: 2017-09-24 14:24+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
-"Language-Team: Bengali (http://www.transifex.com/django/django/language/"
-"bn/)\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
+"Language-Team: Bengali (http://www.transifex.com/django/django/language/bn/)"
+"\n"
+"Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-10-03 16:25+0000\n"
 
 msgid "Personal info"
 msgstr "ব্যক্তিগত তথ্য"
@@ -29,7 +30,7 @@ msgstr "গুরুত্বপূর্ণ তারিখ"
 
 #, python-format
 msgid "%(name)s object with primary key %(key)r does not exist."
-msgstr ""
+msgstr "%(name)s অবজেক্টটির প্রাইমারি কি %(key)r বিদ্যমান নেই।"
 
 msgid "Password changed successfully."
 msgstr "পাসওয়ার্ড বদল সফল হয়েছে।"
@@ -39,7 +40,7 @@ msgid "Change password: %s"
 msgstr "পাসওয়ার্ড বদলানঃ %s"
 
 msgid "Authentication and Authorization"
-msgstr ""
+msgstr "সত্যায়ন এবং অনুমোদন"
 
 msgid "password"
 msgstr "পাসওয়ার্ড"
@@ -63,24 +64,28 @@ msgid "Password confirmation"
 msgstr "পাসওয়ার্ড নিশ্চিত করুন"
 
 msgid "Enter the same password as before, for verification."
-msgstr ""
+msgstr "যাচনার জন্য পূর্বের পাসওয়ার্ডটি আবার প্রবেশ করুন।"
 
 msgid ""
 "Raw passwords are not stored, so there is no way to see this user's "
 "password, but you can change the password using <a href=\"{}\">this form</a>."
 msgstr ""
+"কাঁচা পাসওয়ার্ড সংরক্ষিত হয় না, তাই এই ব্যবহারকারীর পাসওয়ার্ড দেখা সম্ভব নয়, তবে আপনি <a href=\"{}\""
+">এই ফর্ম</a> ব্যবহার করে পাসওয়ার্ড পরিবর্তন করতে পারেন।"
 
 #, python-format
 msgid ""
 "Please enter a correct %(username)s and password. Note that both fields may "
 "be case-sensitive."
 msgstr ""
+"দয়াকরে সঠিক %(username)s এবং পাসওয়ার্ড প্রবেশ করুন। লক্ষ্য করুন যে উভয় ক্ষেত্রই ক্ষেত্রে সংবেদনশীল হতে"
+" পারে।"
 
 msgid "This account is inactive."
 msgstr "এই একাউন্টটি কার্যকর নয়।"
 
 msgid "Email"
-msgstr ""
+msgstr "ইমেইল"
 
 msgid "New password"
 msgstr "নতুন পাসওয়ার্ড"
@@ -111,22 +116,22 @@ msgid "hash"
 msgstr "হ্যাশ"
 
 msgid "variety"
-msgstr ""
+msgstr "বিভিন্নতা"
 
 msgid "version"
-msgstr ""
+msgstr "সংস্করণ"
 
 msgid "memory cost"
-msgstr ""
+msgstr "মেমরি খরচ"
 
 msgid "time cost"
-msgstr ""
+msgstr "সময় খরচ"
 
 msgid "parallelism"
-msgstr ""
+msgstr "প্যারালেলিজম"
 
 msgid "work factor"
-msgstr ""
+msgstr "কাজের ফ্যাক্টর"
 
 msgid "checksum"
 msgstr "চেকসাম"
@@ -135,7 +140,7 @@ msgid "name"
 msgstr "নাম"
 
 msgid "content type"
-msgstr ""
+msgstr "বিষয়বস্তু প্রকার"
 
 msgid "codename"
 msgstr "কোডনাম"
@@ -164,6 +169,8 @@ msgid ""
 "The groups this user belongs to. A user will get all permissions granted to "
 "each of their groups."
 msgstr ""
+"এই ব্যবহারকারী যেসব গ্রুপের অন্তর্ভুক্ত, সেগুলি। একজন ব্যবহারকারী তাদের প্রতিটি গ্রুপ দ্বারা প্রদত্ত সমস্ত "
+"অনুমতি পাবে।"
 
 msgid "user permissions"
 msgstr "সদস্যের অনুমোদন সমূহ"
@@ -175,7 +182,7 @@ msgid "username"
 msgstr "সদস্যনাম"
 
 msgid "Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only."
-msgstr ""
+msgstr "আবশ্যক। ১৫০ অক্ষর বা তার কম। অক্ষর, সংখ্যা এবং @/./+/-/_ মাত্র।"
 
 msgid "A user with that username already exists."
 msgstr "এই সদস্যনামে একজন সদস্য আছেন।"
@@ -219,47 +226,49 @@ msgid ""
 msgid_plural ""
 "This password is too short. It must contain at least %(min_length)d "
 "characters."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "এই পাসওয়ার্ড খুব ছোট। এতে অন্তত %(min_length)d অক্ষর থাকতে হবে।"
 
 #, python-format
 msgid "Your password must contain at least %(min_length)d character."
 msgid_plural "Your password must contain at least %(min_length)d characters."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "আপনার পাসওয়ার্ডে অন্তত %(min_length)d অক্ষর থাকতে হবে।"
 
 #, python-format
 msgid "The password is too similar to the %(verbose_name)s."
-msgstr ""
+msgstr "পাসওয়ার্ডটি %(verbose_name)s এর খুব অনুরূপ।"
 
 msgid "Your password can't be too similar to your other personal information."
-msgstr ""
+msgstr "আপনার পাসওয়ার্ড আপনার অন্য ব্যক্তিগত তথ্যের খুব অনুরূপ হতে পারে না।"
 
 msgid "This password is too common."
-msgstr ""
+msgstr "এই পাসওয়ার্ড খুব সাধারণ।"
 
 msgid "Your password can't be a commonly used password."
-msgstr ""
+msgstr "আপনার পাসওয়ার্ড একটি সাধারণ ব্যবহৃত পাসওয়ার্ড হতে পারে না।"
 
 msgid "This password is entirely numeric."
-msgstr ""
+msgstr "এই পাসওয়ার্ড সম্পূর্ণরূপে সংখ্যা।"
 
 msgid "Your password can't be entirely numeric."
-msgstr ""
+msgstr "আপনার পাসওয়ার্ড সম্পূর্ণরূপে সংখ্যা হতে পারে না।"
 
 #, python-format
 msgid "Password reset on %(site_name)s"
-msgstr ""
+msgstr "%(site_name)s এ পাসওয়ার্ড পুনরায় সেট করুন"
 
 msgid ""
 "Enter a valid username. This value may contain only English letters, "
 "numbers, and @/./+/-/_ characters."
 msgstr ""
+"একটি বৈধ ব্যবহারকারীর নাম প্রবেশ করুন। এই মানটি কেবল ইংরেজি অক্ষর, সংখ্যা এবং @/./+/-/_ অক্ষরগুলির "
+"অন্তর্ভুক্ত করতে পারে।"
 
 msgid ""
 "Enter a valid username. This value may contain only letters, numbers, and "
 "@/./+/-/_ characters."
 msgstr ""
+"একটি বৈধ ব্যবহারকারীর নাম প্রবেশ করুন। এই মানটি কেবল অক্ষর, সংখ্যা এবং @/./+/-/_ অক্ষরগুলির অন্তর্ভুক্"
+"ত করতে পারে।"
 
 msgid "Logged out"
 msgstr "প্রস্থান সম্পন্ন"
@@ -268,7 +277,7 @@ msgid "Password reset"
 msgstr "পাসওয়ার্ড রিসেট"
 
 msgid "Password reset sent"
-msgstr ""
+msgstr "পাসওয়ার্ড পুনরায় সেট করা হয়েছে"
 
 msgid "Enter new password"
 msgstr "নতুন পাসওয়ার্ড দিন"

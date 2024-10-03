@@ -11,14 +11,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-15 16:15+0100\n"
 "PO-Revision-Date: 2017-11-16 01:13+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
-"Language-Team: Bengali (http://www.transifex.com/django/django/language/"
-"bn/)\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
+"Language-Team: Bengali (http://www.transifex.com/django/django/language/bn/)"
+"\n"
+"Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-10-03 16:25+0000\n"
 
 msgid "Afrikaans"
 msgstr "আফ্রিকার অন্যতম সরকারি ভাষা"
@@ -27,7 +28,7 @@ msgid "Arabic"
 msgstr "আরবী"
 
 msgid "Asturian"
-msgstr ""
+msgstr "অস্তুরিয়ান"
 
 msgid "Azerbaijani"
 msgstr "আজারবাইজানি"
@@ -63,7 +64,7 @@ msgid "German"
 msgstr "জার্মান"
 
 msgid "Lower Sorbian"
-msgstr ""
+msgstr "নিচের স্লাভিয়ান"
 
 msgid "Greek"
 msgstr "গ্রিক"
@@ -72,7 +73,7 @@ msgid "English"
 msgstr "ইংলিশ"
 
 msgid "Australian English"
-msgstr ""
+msgstr "অস্ট্রেলীয় ইংরেজি"
 
 msgid "British English"
 msgstr "বৃটিশ ইংলিশ"
@@ -87,7 +88,7 @@ msgid "Argentinian Spanish"
 msgstr "আর্জেন্টিনিয়ান স্প্যানিশ"
 
 msgid "Colombian Spanish"
-msgstr ""
+msgstr "কোলম্বিয়ান স্প্যানিশ"
 
 msgid "Mexican Spanish"
 msgstr "মেক্সিকান স্প্যানিশ"
@@ -120,7 +121,7 @@ msgid "Irish"
 msgstr "আইরিশ"
 
 msgid "Scottish Gaelic"
-msgstr ""
+msgstr "স্কটিশ গাইলিক"
 
 msgid "Galician"
 msgstr "গ্যালিসিয়ান"
@@ -135,19 +136,19 @@ msgid "Croatian"
 msgstr "ক্রোয়েশিয়ান"
 
 msgid "Upper Sorbian"
-msgstr ""
+msgstr "উপরের স্লাভিয়ান"
 
 msgid "Hungarian"
 msgstr "হাঙ্গেরিয়ান"
 
 msgid "Interlingua"
-msgstr ""
+msgstr "ইন্টারলিঙ্গুয়া"
 
 msgid "Indonesian"
 msgstr "ইন্দোনেশিয়ান"
 
 msgid "Ido"
-msgstr ""
+msgstr "আইডো"
 
 msgid "Icelandic"
 msgstr "আইসল্যান্ডিক"
@@ -192,13 +193,13 @@ msgid "Mongolian"
 msgstr "মঙ্গোলিয়ান"
 
 msgid "Marathi"
-msgstr ""
+msgstr "মারাঠি"
 
 msgid "Burmese"
 msgstr "বার্মিজ"
 
 msgid "Norwegian Bokmål"
-msgstr ""
+msgstr "নরওয়েজিয়ান বোকমাল"
 
 msgid "Nepali"
 msgstr "নেপালি"
@@ -267,7 +268,7 @@ msgid "Tatar"
 msgstr "তাতারদেশীয়"
 
 msgid "Udmurt"
-msgstr ""
+msgstr "উডমার্ট"
 
 msgid "Ukrainian"
 msgstr "ইউক্রেনিয়ান"
@@ -285,25 +286,25 @@ msgid "Traditional Chinese"
 msgstr "প্রচলিত চাইনীজ"
 
 msgid "Messages"
-msgstr ""
+msgstr "বার্তাসমূহ"
 
 msgid "Site Maps"
-msgstr ""
+msgstr "সাইট মানচিত্র"
 
 msgid "Static Files"
-msgstr ""
+msgstr "স্থিত ফাইল"
 
 msgid "Syndication"
-msgstr ""
+msgstr "সিন্ডিকেশন"
 
 msgid "That page number is not an integer"
-msgstr ""
+msgstr "এটি একটি প্রাকৃতিক সংখ্যা নয়"
 
 msgid "That page number is less than 1"
-msgstr ""
+msgstr "এটি একটি সংখ্যা ১ এর চেয়ে কম"
 
 msgid "That page contains no results"
-msgstr ""
+msgstr "এই পৃষ্ঠা কোনও ফলাফল ধারণ করছে না"
 
 msgid "Enter a valid value."
 msgstr "একটি বৈধ মান দিন।"
@@ -312,7 +313,7 @@ msgid "Enter a valid URL."
 msgstr "বৈধ URL দিন"
 
 msgid "Enter a valid integer."
-msgstr ""
+msgstr "একটি বৈধ পূর্ণ সংখ্যা প্রবেশ করান।"
 
 msgid "Enter a valid email address."
 msgstr "একটি বৈধ ইমেইল ঠিকানা লিখুন."
@@ -328,6 +329,7 @@ msgid ""
 "Enter a valid 'slug' consisting of Unicode letters, numbers, underscores, or "
 "hyphens."
 msgstr ""
+"একটি বৈধ 'স্লাগ' প্রবেশ করুন যা ইউনিকোড অক্ষর, সংখ্যা, আন্ডারস্কোর বা হাইফেন এ তৈরি।"
 
 msgid "Enter a valid IPv4 address."
 msgstr "একটি বৈধ IPv4 ঠিকানা দিন।"
@@ -361,7 +363,7 @@ msgid_plural ""
 "Ensure this value has at least %(limit_value)d characters (it has "
 "%(show_value)d)."
 msgstr[0] ""
-msgstr[1] ""
+"এই মানটি অন্তত %(limit_value)d অক্ষর ধারণ করে তা নিশ্চিত করুন (এতে %(show_value)d)।"
 
 #, python-format
 msgid ""
@@ -371,47 +373,46 @@ msgid_plural ""
 "Ensure this value has at most %(limit_value)d characters (it has "
 "%(show_value)d)."
 msgstr[0] ""
-msgstr[1] ""
+"এটি সর্বাধিক %(limit_value)d অক্ষর ধারণ করে তা নিশ্চিত করুন (এতে %(show_value)d)।"
 
 #, python-format
 msgid "Ensure that there are no more than %(max)s digit in total."
 msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "মোটের চেয়ে বেশি %(max)s সংখ্যা থাকবে না তা নিশ্চিত করুন।"
 
 #, python-format
 msgid "Ensure that there are no more than %(max)s decimal place."
 msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(max)s দশমিক স্থান অতিক্রম করবে না তা নিশ্চিত করুন।"
 
 #, python-format
 msgid ""
 "Ensure that there are no more than %(max)s digit before the decimal point."
 msgid_plural ""
 "Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ডিসিমাল পয়েন্টের আগে %(max)s সংখ্যার বেশি থাকবে না তা নিশ্চিত করুন।"
 
 #, python-format
 msgid ""
 "File extension '%(extension)s' is not allowed. Allowed extensions are: "
 "'%(allowed_extensions)s'."
 msgstr ""
+"ফাইলের এক্সটেনশন '%(extension)s' অনুমোদিত নয়। অনুমোদিত এক্সটেনশনগুলি: "
+"'%(allowed_extensions)s'।"
 
 msgid "Null characters are not allowed."
-msgstr ""
+msgstr "শূন্য অক্ষর অনুমোদিত নয়।"
 
 msgid "and"
 msgstr "এবং"
 
 #, python-format
 msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr ""
+msgstr "%(field_labels)s সহ %(model_name)s ইতিমধ্যে বিদ্যমান।"
 
 #, python-format
 msgid "Value %(value)r is not a valid choice."
-msgstr ""
+msgstr "মান %(value)r একটি বৈধ পছন্দ নয়।"
 
 msgid "This field cannot be null."
 msgstr "এর মান null হতে পারবে না।"
@@ -429,6 +430,7 @@ msgstr "%(field_label)s সহ %(model_name)s আরেকটি রয়েছে
 msgid ""
 "%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
 msgstr ""
+"%(date_field_label)s %(lookup_type)s এর জন্য %(field_label)s অনন্য হতে হবে।"
 
 #, python-format
 msgid "Field of type: %(field_type)s"
@@ -439,14 +441,14 @@ msgstr "ইন্টিজার"
 
 #, python-format
 msgid "'%(value)s' value must be an integer."
-msgstr ""
+msgstr "'%(value)s' মানটি একটি পূর্ণসংখ্যা হতে হবে।"
 
 msgid "Big (8 byte) integer"
 msgstr "বিগ (৮ বাইট) ইন্টিজার"
 
 #, python-format
 msgid "'%(value)s' value must be either True or False."
-msgstr ""
+msgstr "'%(value)s' মানটি বা True অথবা False হতে হবে।"
 
 msgid "Boolean (Either True or False)"
 msgstr "বুলিয়ান (হয় True অথবা False)"
@@ -463,12 +465,14 @@ msgid ""
 "'%(value)s' value has an invalid date format. It must be in YYYY-MM-DD "
 "format."
 msgstr ""
+"'%(value)s' মানের তারিখের ফরম্যাট শুদ্ধ নয়। এটি YYYY-MM-DD ফরম্যাটে থাকতে হবে।"
 
 #, python-format
 msgid ""
 "'%(value)s' value has the correct format (YYYY-MM-DD) but it is an invalid "
 "date."
 msgstr ""
+"'%(value)s' মানের সঠিক ফরম্যাট (YYYY-MM-DD) রয়েছে তবে এটি একটি অবৈধ তারিখ।"
 
 msgid "Date (without time)"
 msgstr "তারিখ (সময় বাদে)"
@@ -478,19 +482,23 @@ msgid ""
 "'%(value)s' value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
 "uuuuuu]][TZ] format."
 msgstr ""
+"'%(value)s' মানের অসঙ্গত ফরম্যাট রয়েছে। এটি YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ] ফরম্যাটে "
+"থাকতে হবে।"
 
 #, python-format
 msgid ""
 "'%(value)s' value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
 "[TZ]) but it is an invalid date/time."
 msgstr ""
+"'%(value)s' মানের সঠিক ফরম্যাট (YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ]) রয়েছে তবে এটি একটি "
+"অবৈধ তারিখ/সময়।"
 
 msgid "Date (with time)"
 msgstr "তারিখ (সময় সহ)"
 
 #, python-format
 msgid "'%(value)s' value must be a decimal number."
-msgstr ""
+msgstr "'%(value)s' মানটি একটি দশমিক সংখ্যা হতে হবে।"
 
 msgid "Decimal number"
 msgstr "দশমিক সংখ্যা"
@@ -500,9 +508,11 @@ msgid ""
 "'%(value)s' value has an invalid format. It must be in [DD] [HH:[MM:]]ss[."
 "uuuuuu] format."
 msgstr ""
+"'%(value)s' মানের একটি অসঙ্গত ফরম্যাট রয়েছে। এটি [DD] [HH:[MM:]]ss[.uuuuuu] ফরম্যাটে থাকতে "
+"হবে।"
 
 msgid "Duration"
-msgstr ""
+msgstr "সময়কাল"
 
 msgid "Email address"
 msgstr "ইমেইল ঠিকানা"
@@ -512,7 +522,7 @@ msgstr "ফাইল পথ"
 
 #, python-format
 msgid "'%(value)s' value must be a float."
-msgstr ""
+msgstr "'%(value)s' মানটি একটি ফ্লোট হতে হবে।"
 
 msgid "Floating point number"
 msgstr "ফ্লোটিং পয়েন্ট সংখ্যা"
@@ -525,7 +535,7 @@ msgstr "আইপি ঠিকানা"
 
 #, python-format
 msgid "'%(value)s' value must be either None, True or False."
-msgstr ""
+msgstr "'%(value)s' মানটি None, True অথবা False এর মধ্যে একটি হতে হবে।"
 
 msgid "Boolean (Either True, False or None)"
 msgstr "বুলিয়ান (হয়  True, False অথবা None)"
@@ -551,12 +561,14 @@ msgid ""
 "'%(value)s' value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
 "format."
 msgstr ""
+"'%(value)s' মানের একটি অসঙ্গত ফরম্যাট রয়েছে। এটি HH:MM[:ss[.uuuuuu]] ফরম্যাটে থাকতে হবে।"
 
 #, python-format
 msgid ""
 "'%(value)s' value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
 "invalid time."
 msgstr ""
+"'%(value)s' মানের সঠিক ফরম্যাট (HH:MM[:ss[.uuuuuu]]) রয়েছে তবে এটি একটি অসঙ্গত সময়।"
 
 msgid "Time"
 msgstr "সময়"
@@ -569,7 +581,7 @@ msgstr "র বাইনারি ডাটা"
 
 #, python-format
 msgid "'%(value)s' is not a valid UUID."
-msgstr ""
+msgstr "'%(value)s' একটি বৈধ UUID নয়।"
 
 msgid "File"
 msgstr "ফাইল"
@@ -579,7 +591,7 @@ msgstr "ইমেজ"
 
 #, python-format
 msgid "%(model)s instance with %(field)s %(value)r does not exist."
-msgstr ""
+msgstr "%(field)s %(value)r সহ %(model)s উদাহরণ বিদ্যমান নেই।"
 
 msgid "Foreign Key (type determined by related field)"
 msgstr "ফরেন কি (টাইপ রিলেটেড ফিল্ড দ্বারা নির্ণীত হবে)"
@@ -589,11 +601,11 @@ msgstr "ওয়ান-টু-ওয়ান রিলেশানশিপ"
 
 #, python-format
 msgid "%(from)s-%(to)s relationship"
-msgstr ""
+msgstr "%(from)s-%(to)s সম্পর্ক"
 
 #, python-format
 msgid "%(from)s-%(to)s relationships"
-msgstr ""
+msgstr "%(from)s-%(to)s সম্পর্কগুলো"
 
 msgid "Many-to-many relationship"
 msgstr "ম্যানি-টু-ম্যানি রিলেশানশিপ"
@@ -602,7 +614,7 @@ msgstr "ম্যানি-টু-ম্যানি রিলেশানশি
 #. characters will prevent the default label_suffix to be appended to the
 #. label
 msgid ":?.!"
-msgstr ""
+msgstr ":?.!"
 
 msgid "This field is required."
 msgstr "এটি আবশ্যক।"
@@ -623,7 +635,7 @@ msgid "Enter a valid date/time."
 msgstr "বৈধ তারিখ/সময় দিন।"
 
 msgid "Enter a valid duration."
-msgstr ""
+msgstr "একটি বৈধ সময়কাল প্রবেশ করান।"
 
 msgid "No file was submitted. Check the encoding type on the form."
 msgstr "কোন ফাইল দেয়া হয়নি। ফর্মের এনকোডিং ঠিক আছে কিনা দেখুন।"
@@ -639,7 +651,7 @@ msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
 msgid_plural ""
 "Ensure this filename has at most %(max)d characters (it has %(length)d)."
 msgstr[0] ""
-msgstr[1] ""
+"এই ফাইলের নামটির সর্বাধিক %(max)d অক্ষর থাকতে হবে (এতে %(length)d রয়েছে)।"
 
 msgid "Please either submit a file or check the clear checkbox, not both."
 msgstr ""
@@ -660,33 +672,32 @@ msgid "Enter a list of values."
 msgstr "কয়েকটি মানের তালিকা দিন।"
 
 msgid "Enter a complete value."
-msgstr ""
+msgstr "একটি সম্পূর্ণ মান প্রবেশ করুন।"
 
 msgid "Enter a valid UUID."
-msgstr ""
+msgstr "একটি বৈধ UUID প্রবেশ করুন।"
 
+# Translators: This is the default suffix added to form field labels
 #. Translators: This is the default suffix added to form field labels
 msgid ":"
-msgstr ""
+msgstr ":"
 
 #, python-format
 msgid "(Hidden field %(name)s) %(error)s"
-msgstr ""
+msgstr "(গোপন ক্ষেত্র %(name)s) %(error)s"
 
 msgid "ManagementForm data is missing or has been tampered with"
-msgstr ""
+msgstr "ম্যানেজমেন্টফর্ম তথ্য অনুপস্থিত বা পরিবর্তিত হয়েছে"
 
 #, python-format
 msgid "Please submit %d or fewer forms."
 msgid_plural "Please submit %d or fewer forms."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "দয়া করে %d বা তার কম ফর্ম জমা দিন।"
 
 #, python-format
 msgid "Please submit %d or more forms."
 msgid_plural "Please submit %d or more forms."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "দয়া করে %d বা তার বেশি ফর্ম জমা দিন।"
 
 msgid "Order"
 msgstr "ক্রম"
@@ -696,36 +707,41 @@ msgstr "মুছুন"
 
 #, python-format
 msgid "Please correct the duplicate data for %(field)s."
-msgstr ""
+msgstr "দয়া করে %(field)s এর জন্য পুনরাবৃত্ত তথ্য ঠিক করুন।"
 
 #, python-format
 msgid "Please correct the duplicate data for %(field)s, which must be unique."
 msgstr ""
+"দয়া করে %(field)s এর জন্য উত্তরাধিকারী তথ্য ঠিক করুন, যা অনন্য হতে হবে।"
 
 #, python-format
 msgid ""
 "Please correct the duplicate data for %(field_name)s which must be unique "
 "for the %(lookup)s in %(date_field)s."
 msgstr ""
+"দয়া করে %(date_field)s-এ %(lookup)s এর জন্য যেটা অনন্য হতে হবে %(field_name)s এর জন্য "
+"পুনরাবৃত্তি তথ্য ঠিক করুন।"
 
 msgid "Please correct the duplicate values below."
-msgstr ""
+msgstr "অনুগ্রহ করে নিচের পুনরাবৃত্ত মানগুলি ঠিক করুন।"
 
 msgid "The inline value did not match the parent instance."
-msgstr ""
+msgstr "ইনলাইন মানটি মূল উদাহরণের সাথে মেলে নি।"
 
 msgid "Select a valid choice. That choice is not one of the available choices."
 msgstr "এটি বৈধ নয়। অনুগ্রহ করে আরেকটি সিলেক্ট করুন।"
 
 #, python-format
 msgid "\"%(pk)s\" is not a valid value."
-msgstr ""
+msgstr "\"%(pk)s\" একটি বৈধ মান নয়।"
 
 #, python-format
 msgid ""
 "%(datetime)s couldn't be interpreted in time zone %(current_timezone)s; it "
 "may be ambiguous or it may not exist."
 msgstr ""
+"%(datetime)s  বানান সময় অঞ্চল %(current_timezone)s এ ব্যাখ্যা করা যায়নি; এটি অস্পষ্ট হতে পারে"
+" অথবা এটি থাকতে নাও পারে।"
 
 msgid "Clear"
 msgstr "পরিষ্কার করুন"
@@ -1003,7 +1019,7 @@ msgid "December"
 msgstr "ডিসেম্বর"
 
 msgid "This is not a valid IPv6 address."
-msgstr ""
+msgstr "এটি একটি বৈধ IPv6 ঠিকানা নয়।"
 
 #, python-format
 msgctxt "String to return when truncating text"
@@ -1020,47 +1036,41 @@ msgstr ","
 #, python-format
 msgid "%d year"
 msgid_plural "%d years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d বছর"
 
 #, python-format
 msgid "%d month"
 msgid_plural "%d months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d মাস"
 
 #, python-format
 msgid "%d week"
 msgid_plural "%d weeks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d সপ্তাহ"
 
 #, python-format
 msgid "%d day"
 msgid_plural "%d days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d দিন"
 
 #, python-format
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d ঘণ্টা"
 
 #, python-format
 msgid "%d minute"
 msgid_plural "%d minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d মিনিট"
 
 msgid "0 minutes"
 msgstr "0 মিনিট"
 
 msgid "Forbidden"
-msgstr ""
+msgstr "নিষিদ্ধ"
 
 msgid "CSRF verification failed. Request aborted."
-msgstr ""
+msgstr "CSRF যাচাইকরণ ব্যর্থ হয়েছে। অনুরোধ বাতিল করা হয়েছে।"
 
 msgid ""
 "You are seeing this message because this HTTPS site requires a 'Referer "
@@ -1068,12 +1078,18 @@ msgid ""
 "required for security reasons, to ensure that your browser is not being "
 "hijacked by third parties."
 msgstr ""
+"আপনি এই বার্তা দেখতে পাচ্ছেন কারণ এই HTTPS সাইটটি আপনার ওয়েব ব্রাউজার দ্বারা একটি 'Referer "
+"header' পাঠানোর প্রয়োজন, কিন্তু কিছুই পাঠানো হয়নি। নিরাপত্তার কারণে এই হেডারটি প্রয়োজন, যাতে নিশ্চিত করা যায় "
+"যে আপনার ব্রাউজারটি তৃতীয় পক্ষ দ্বারা হাইজ্যাক হচ্ছে না।"
 
 msgid ""
 "If you have configured your browser to disable 'Referer' headers, please re-"
 "enable them, at least for this site, or for HTTPS connections, or for 'same-"
 "origin' requests."
 msgstr ""
+"যদি আপনি আপনার ব্রাউজারকে 'Referer' হেডারগুলি অক্ষম করতে কনফিগার করেছেন, তবে দয়া করে এগুলি পুনরায় সক্"
+"ষম করুন, অন্তত এই সাইটের জন্য, অথবা HTTPS সংযোগগুলির জন্য, অথবা 'same-origin' অনুরোধগুলির "
+"জন্য।"
 
 msgid ""
 "If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
@@ -1082,26 +1098,35 @@ msgid ""
 "If you're concerned about privacy, use alternatives like <a rel=\"noreferrer"
 "\" ...> for links to third-party sites."
 msgstr ""
+"যদি আপনি <meta name=\"\"referrer\"\" content=\"\"no-referrer\"\"> ট্যাগটি ব্যবহার "
+"করছেন বা 'Referrer-Policy: no-referrer' হেডারটি সামিল করছেন, তবে দয়া করে সেগুলি সরান। CSRF "
+"সুরক্ষার জন্য কঠোর রেফারার পরীক্ষা করতে 'Referer' হেডারটি প্রয়োজন। আপনি যদি গোপনীয়তা সম্পর্কে উদ্বিগ্ন "
+"হন তবে তৃতীয় পক্ষের সাইটের জন্য লিঙ্কগুলির জন্য <a rel=\"\"noreferrer\"\" ...> এর মতো "
+"বিকল্পগুলি ব্যবহার করুন।"
 
 msgid ""
 "You are seeing this message because this site requires a CSRF cookie when "
 "submitting forms. This cookie is required for security reasons, to ensure "
 "that your browser is not being hijacked by third parties."
 msgstr ""
+"আপনি এই বার্তা দেখতে পাচ্ছেন কারণ এই সাইটটি ফর্ম জমা দেওয়ার সময় একটি CSRF কুকি প্রয়োজন। নিরাপত্তার কারণে"
+", এই কুকিটি প্রয়োজন, যাতে নিশ্চিত করা যায় যে আপনার ব্রাউজারটি তৃতীয় পক্ষ দ্বারা হাইজ্যাক হচ্ছে না।"
 
 msgid ""
 "If you have configured your browser to disable cookies, please re-enable "
 "them, at least for this site, or for 'same-origin' requests."
 msgstr ""
+"যদি আপনি আপনার ব্রাউজারকে কুকিগুলি অক্ষম করতে কনফিগার করেছেন, তবে দয়া করে এগুলি পুনরায় সক্ষম করুন, অন্"
+"তত এই সাইটের জন্য, অথবা 'same-origin' অনুরোধগুলির জন্য।"
 
 msgid "More information is available with DEBUG=True."
-msgstr ""
+msgstr "DEBUG=True সহ আরও তথ্য উপলব্ধ।"
 
 msgid "No year specified"
 msgstr "কোন বছর উল্লেখ করা হয়নি"
 
 msgid "Date out of range"
-msgstr ""
+msgstr "তারিখ পরিসরের বাইরে"
 
 msgid "No month specified"
 msgstr "কোন মাস উল্লেখ করা হয়নি"
@@ -1121,25 +1146,26 @@ msgid ""
 "Future %(verbose_name_plural)s not available because %(class_name)s."
 "allow_future is False."
 msgstr ""
+"ভবিষ্যৎ %(verbose_name_plural)s উপলব্ধ নয় কারণ %(class_name)s.allow_future মিথ্যা।"
 
 #, python-format
 msgid "Invalid date string '%(datestr)s' given format '%(format)s'"
-msgstr ""
+msgstr "বৈধ তারিখের স্ট্রিং '%(datestr)s' দেওয়া ফরম্যাট '%(format)s'"
 
 #, python-format
 msgid "No %(verbose_name)s found matching the query"
 msgstr "কুয়েরি ম্যাচ করে এমন কোন %(verbose_name)s পাওয়া যায় নি"
 
 msgid "Page is not 'last', nor can it be converted to an int."
-msgstr ""
+msgstr "পৃষ্ঠাটি 'শেষ' নয়, বা এটি একটি int-এ রূপান্তর করা যেতে পারে না।"
 
 #, python-format
 msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr ""
+msgstr "অবৈধ পৃষ্ঠা (%(page_number)s): %(message)s"
 
 #, python-format
 msgid "Empty list and '%(class_name)s.allow_empty' is False."
-msgstr ""
+msgstr "শূন্য তালিকা এবং '%(class_name)s.allow_empty' মিথ্যা।"
 
 msgid "Directory indexes are not allowed here."
 msgstr "ডিরেক্টরি ইনডেক্স অনুমোদিত নয়"
@@ -1153,16 +1179,18 @@ msgid "Index of %(directory)s"
 msgstr "%(directory)s এর ইনডেক্স"
 
 msgid "Django: the Web framework for perfectionists with deadlines."
-msgstr ""
+msgstr "ডজাঙ্গো: সময়সীমার সাথে পরিপূর্ণতাবাদীদের জন্য ওয়েব ফ্রেমওয়ার্ক।"
 
 #, python-format
 msgid ""
 "View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
 "target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
 msgstr ""
+"ডজাঙ্গো %(version)s-এর জন্য <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/releases/\" target=\"_blank\" rel=\"noopener\">রিলিজ নোটগুলি</a> দেখুন"
 
 msgid "The install worked successfully! Congratulations!"
-msgstr ""
+msgstr "স্থাপনাটি সফলভাবে কাজ করেছে! অভিনন্দন!"
 
 #, python-format
 msgid ""
@@ -1171,21 +1199,24 @@ msgid ""
 "\">DEBUG=True</a> is in your settings file and you have not configured any "
 "URLs."
 msgstr ""
+"আপনি এই পৃষ্ঠা দেখছেন কারণ <a href=\"https://docs.djangoproject.com/en/%(version)s/"
+"ref/settings/#debug\" target=\"_blank\" rel=\"noopener\">DEBUG=True</a> আপনার "
+"সেটিংস ফাইলে রয়েছে এবং আপনি কোন URL কনফিগার করেননি।"
 
 msgid "Django Documentation"
-msgstr ""
+msgstr "ডজাঙ্গো ডকুমেন্টেশন"
 
 msgid "Topics, references, &amp; how-to's"
-msgstr ""
+msgstr "বিষয়, রেফারেন্স, এবং কিভাবে করবেন"
 
 msgid "Tutorial: A Polling App"
-msgstr ""
+msgstr "টিউটোরিয়াল: একটি পোলিং অ্যাপ"
 
 msgid "Get started with Django"
-msgstr ""
+msgstr "ডজাঙ্গোর সাথে শুরু করুন"
 
 msgid "Django Community"
-msgstr ""
+msgstr "ডজাঙ্গো সম্প্রদায়"
 
 msgid "Connect, get help, or contribute"
-msgstr ""
+msgstr "সংযোগ স্থাপন করুন, সাহায্য নিন, অথবা অবদান রাখুন"

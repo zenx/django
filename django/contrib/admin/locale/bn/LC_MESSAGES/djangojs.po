@@ -10,14 +10,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-17 23:12+0200\n"
 "PO-Revision-Date: 2017-09-19 16:41+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
-"Language-Team: Bengali (http://www.transifex.com/django/django/language/"
-"bn/)\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
+"Language-Team: Bengali (http://www.transifex.com/django/django/language/bn/)"
+"\n"
+"Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Revisiondate: 2024-10-03 16:25+0000\n"
 
 #, javascript-format
 msgid "Available %s"
@@ -28,10 +29,12 @@ msgid ""
 "This is the list of available %s. You may choose some by selecting them in "
 "the box below and then clicking the \"Choose\" arrow between the two boxes."
 msgstr ""
+"এটি উপলব্ধ %s-এর একটি তালিকা। আপনি নিচের বাক্সে সেগুলি নির্বাচন করে এবং দুইটি বাক্সের মধ্যে \"চয়ন করুন\" "
+"তীরটি ক্লিক করে কিছু নির্বাচন করতে পারেন।"
 
 #, javascript-format
 msgid "Type into this box to filter down the list of available %s."
-msgstr ""
+msgstr "এই বাক্সে টাইপ করুন যাতে উপলব্ধ %s-এর তালিকাটি ফিল্টার করতে পারেন।"
 
 msgid "Filter"
 msgstr "ফিল্টার"
@@ -58,35 +61,42 @@ msgid ""
 "This is the list of chosen %s. You may remove some by selecting them in the "
 "box below and then clicking the \"Remove\" arrow between the two boxes."
 msgstr ""
+"এটি নির্বাচিত %s-এর একটি তালিকা। আপনি নিচের বাক্সে সেগুলি নির্বাচন করে এবং দুইটি বাক্সের মধ্যে \"বর্তমান বাতিল "
+"করুন\" তীরটি ক্লিক করে কিছু মুছে ফেলতে পারেন।"
 
 msgid "Remove all"
 msgstr "সব মুছে ফেলুন"
 
 #, javascript-format
 msgid "Click to remove all chosen %s at once."
-msgstr ""
+msgstr "একসাথে সমস্ত নির্বাচিত %s মুছে ফেলতে ক্লিক করুন।"
 
 msgid "%(sel)s of %(cnt)s selected"
 msgid_plural "%(sel)s of %(cnt)s selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(sel)s এর মধ্যে %(cnt)s নির্বাচিত"
 
 msgid ""
 "You have unsaved changes on individual editable fields. If you run an "
 "action, your unsaved changes will be lost."
 msgstr ""
+"আপনার নির্দিষ্ট সম্পাদনযোগ্য ক্ষেত্রগুলিতে অ-সংরক্ষিত পরিবর্তন রয়েছে। আপনি যদি একটি ক্রিয়া কার্যকর করেন তবে "
+"আপনার অ-সংরক্ষিত পরিবর্তন হারিয়ে যাবে।"
 
 msgid ""
 "You have selected an action, but you haven't saved your changes to "
 "individual fields yet. Please click OK to save. You'll need to re-run the "
 "action."
 msgstr ""
+"আপনি একটি ক্রিয়া নির্বাচন করেছেন, কিন্তু আপনি এখনও নির্দিষ্ট ক্ষেত্রগুলিতে আপনার পরিবর্তনগুলি সংরক্ষণ করেননি। "
+"দয়া করে সংরক্ষণ করতে OK ক্লিক করুন। আপনাকে ক্রিয়াটি পুনরায় চালাতে হবে।"
 
 msgid ""
 "You have selected an action, and you haven't made any changes on individual "
 "fields. You're probably looking for the Go button rather than the Save "
 "button."
 msgstr ""
+"আপনি একটি ক্রিয়া নির্বাচন করেছেন, এবং আপনি নির্দিষ্ট ক্ষেত্রগুলিতে কোন পরিবর্তন করেননি। আপনি হয়তো সংরক্ষণ "
+"বোতামের পরিবর্তে এগিয়ে যাওয়া বোতামের সন্ধান করছেন।"
 
 #, javascript-format
 msgid "Note: You are %s hour ahead of server time."
@@ -104,7 +114,7 @@ msgid "Now"
 msgstr "এখন"
 
 msgid "Choose a Time"
-msgstr ""
+msgstr "একটি সময় নির্বাচন করুন"
 
 msgid "Choose a time"
 msgstr "সময় নির্বাচন করুন"
@@ -119,7 +129,7 @@ msgid "Noon"
 msgstr "দুপুর"
 
 msgid "6 p.m."
-msgstr ""
+msgstr "৬টা রাত"
 
 msgid "Cancel"
 msgstr "বাতিল"
@@ -128,7 +138,7 @@ msgid "Today"
 msgstr "আজ"
 
 msgid "Choose a Date"
-msgstr ""
+msgstr "একটি তারিখ নির্বাচন করুন"
 
 msgid "Yesterday"
 msgstr "গতকাল"
@@ -137,68 +147,68 @@ msgid "Tomorrow"
 msgstr "আগামীকাল"
 
 msgid "January"
-msgstr ""
+msgstr "জানুয়ারি"
 
 msgid "February"
-msgstr ""
+msgstr "ফেব্রুয়ারি"
 
 msgid "March"
-msgstr ""
+msgstr "মার্চ"
 
 msgid "April"
-msgstr ""
+msgstr "এপ্রিল"
 
 msgid "May"
-msgstr ""
+msgstr "মে"
 
 msgid "June"
-msgstr ""
+msgstr "জুন"
 
 msgid "July"
-msgstr ""
+msgstr "জুলাই"
 
 msgid "August"
-msgstr ""
+msgstr "আগস্ট"
 
 msgid "September"
-msgstr ""
+msgstr "সেপ্টেম্বর"
 
 msgid "October"
-msgstr ""
+msgstr "অক্টোবর"
 
 msgid "November"
-msgstr ""
+msgstr "নভেম্বর"
 
 msgid "December"
-msgstr ""
+msgstr "ডিসেম্বর"
 
 msgctxt "one letter Sunday"
 msgid "S"
-msgstr ""
+msgstr "রবিবার"
 
 msgctxt "one letter Monday"
 msgid "M"
-msgstr ""
+msgstr "সোমবার"
 
 msgctxt "one letter Tuesday"
 msgid "T"
-msgstr ""
+msgstr "মঙ্গলবার"
 
 msgctxt "one letter Wednesday"
 msgid "W"
-msgstr ""
+msgstr "বুধবার"
 
 msgctxt "one letter Thursday"
 msgid "T"
-msgstr ""
+msgstr "বৃহস্পতিবার"
 
 msgctxt "one letter Friday"
 msgid "F"
-msgstr ""
+msgstr "শুক্রবার"
 
 msgctxt "one letter Saturday"
 msgid "S"
-msgstr ""
+msgstr "শনিবার"
 
 msgid "Show"
 msgstr "দেখান"
