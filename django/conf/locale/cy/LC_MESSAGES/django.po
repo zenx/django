@@ -9,14 +9,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-15 16:15+0100\n"
 "PO-Revision-Date: 2017-11-16 01:13+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
 "Language-Team: Welsh (http://www.transifex.com/django/django/language/cy/)\n"
+"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cy\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != "
 "11) ? 2 : 3;\n"
+"Revisiondate: 2024-10-03 16:35+0000\n"
 
 msgid "Afrikaans"
 msgstr "Affricaneg"
@@ -61,7 +62,7 @@ msgid "German"
 msgstr "Almaeneg"
 
 msgid "Lower Sorbian"
-msgstr ""
+msgstr "Lower Sorbian"
 
 msgid "Greek"
 msgstr "Groegedd"
@@ -85,7 +86,7 @@ msgid "Argentinian Spanish"
 msgstr "Sbaeneg Ariannin"
 
 msgid "Colombian Spanish"
-msgstr ""
+msgstr "Sbaeneg Columbia"
 
 msgid "Mexican Spanish"
 msgstr "Sbaeneg Mecsico"
@@ -118,7 +119,7 @@ msgid "Irish"
 msgstr "Gwyddeleg"
 
 msgid "Scottish Gaelic"
-msgstr ""
+msgstr "Gàidhlig na h-Alba"
 
 msgid "Galician"
 msgstr "Galisieg"
@@ -133,7 +134,7 @@ msgid "Croatian"
 msgstr "Croasieg"
 
 msgid "Upper Sorbian"
-msgstr ""
+msgstr "Hornjoserbsce"
 
 msgid "Hungarian"
 msgstr "Hwngareg"
@@ -196,7 +197,7 @@ msgid "Burmese"
 msgstr "Byrmaneg"
 
 msgid "Norwegian Bokmål"
-msgstr ""
+msgstr "Bokmål norsk"
 
 msgid "Nepali"
 msgstr "Nepaleg"
@@ -283,7 +284,7 @@ msgid "Traditional Chinese"
 msgstr "Tseinëeg Traddodiadol"
 
 msgid "Messages"
-msgstr ""
+msgstr "Negeseuys"
 
 msgid "Site Maps"
 msgstr "Mapiau Safle"
@@ -295,13 +296,13 @@ msgid "Syndication"
 msgstr "Syndicetiad"
 
 msgid "That page number is not an integer"
-msgstr ""
+msgstr "Nid yw'r rhif tudalen hwn yn gyfan."
 
 msgid "That page number is less than 1"
-msgstr ""
+msgstr "Nid yw'r rhif tudalen hwn yn llai na 1."
 
 msgid "That page contains no results"
-msgstr ""
+msgstr "Nid yw'r dudalen hon yn cynnwys unrhyw ganlyniadau."
 
 msgid "Enter a valid value."
 msgstr "Rhowch werth dilys."
@@ -326,6 +327,8 @@ msgid ""
 "Enter a valid 'slug' consisting of Unicode letters, numbers, underscores, or "
 "hyphens."
 msgstr ""
+"Rhowch 'slug' dilys sy'n cynnwys llythyrau Unicode, rhifau, danlinellau, neu "
+"gromlinau."
 
 msgid "Enter a valid IPv4 address."
 msgstr "Rhowch gyfeiriad IPv4 dilys."
@@ -423,9 +426,11 @@ msgid ""
 "File extension '%(extension)s' is not allowed. Allowed extensions are: "
 "'%(allowed_extensions)s'."
 msgstr ""
+"Nid yw'r estyniad ffeil '%(extension)s' yn cael ei ganiatáu. Mae'r "
+"estyniadau caniataol yn: '%(allowed_extensions)s'."
 
 msgid "Null characters are not allowed."
-msgstr ""
+msgstr "Nid yw cymeriadau nul yn cael eu caniatáu."
 
 msgid "and"
 msgstr "a"
@@ -448,12 +453,16 @@ msgstr "Ni all y maes hwn fod yn wag."
 msgid "%(model_name)s with this %(field_label)s already exists."
 msgstr "Mae %(model_name)s gyda'r %(field_label)s hwn yn bodoli'n barod."
 
+# Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
+# Eg: "Title must be unique for pub_date year"
 #. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
 #. Eg: "Title must be unique for pub_date year"
 #, python-format
 msgid ""
 "%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
 msgstr ""
+"Mae'n rhaid i %(field_label)s fod yn unigryw ar gyfer %(date_field_label)s "
+"%(lookup_type)s."
 
 #, python-format
 msgid "Field of type: %(field_type)s"
@@ -533,9 +542,11 @@ msgid ""
 "'%(value)s' value has an invalid format. It must be in [DD] [HH:[MM:]]ss[."
 "uuuuuu] format."
 msgstr ""
+"Mae gwerth '%(value)s' yn fformat annilys. Mae'n rhaid iddo fod yn fformat "
+"[DD] [HH:[MM:]]ss[.uuuuuu]."
 
 msgid "Duration"
-msgstr ""
+msgstr "Hyd¬"
 
 msgid "Email address"
 msgstr "Cyfeiriad ebost"
@@ -606,7 +617,7 @@ msgstr "Data deuol crai"
 
 #, python-format
 msgid "'%(value)s' is not a valid UUID."
-msgstr ""
+msgstr "Nid yw '%(value)s' yn UUID dilys."
 
 msgid "File"
 msgstr "Ffeil"
@@ -616,7 +627,7 @@ msgstr "Delwedd"
 
 #, python-format
 msgid "%(model)s instance with %(field)s %(value)r does not exist."
-msgstr ""
+msgstr "Nid yw enghraifft %(model)s gyda %(field)s %(value)r yn bodoli."
 
 msgid "Foreign Key (type determined by related field)"
 msgstr "Allwedd Estron (math yn ddibynol ar y maes cysylltiedig)"
@@ -626,11 +637,11 @@ msgstr "Perthynas un-i-un"
 
 #, python-format
 msgid "%(from)s-%(to)s relationship"
-msgstr ""
+msgstr "Rhwydwaith %(from)s-%(to)s"
 
 #, python-format
 msgid "%(from)s-%(to)s relationships"
-msgstr ""
+msgstr "Rhwydweithiau %(from)s-%(to)s"
 
 msgid "Many-to-many relationship"
 msgstr "Perthynas llawer-i-lawer"
@@ -660,7 +671,7 @@ msgid "Enter a valid date/time."
 msgstr "Rhowch ddyddiad/amser dilys."
 
 msgid "Enter a valid duration."
-msgstr ""
+msgstr "Rhowch hyd dilys."
 
 msgid "No file was submitted. Check the encoding type on the form."
 msgstr "Ni anfonwyd ffeil.  Gwiriwch math yr amgodiad ar y ffurflen."
@@ -707,7 +718,7 @@ msgid "Enter a complete value."
 msgstr "Rhowch werth cyflawn."
 
 msgid "Enter a valid UUID."
-msgstr ""
+msgstr "Rhowch UUID dilys."
 
 #. Translators: This is the default suffix added to form field labels
 msgid ":"
@@ -763,7 +774,7 @@ msgid "Please correct the duplicate values below."
 msgstr "Cywirwch y gwerthoedd dyblyg isod."
 
 msgid "The inline value did not match the parent instance."
-msgstr ""
+msgstr "Nid yw'r gwerth mewn-llinyn yn cyfateb i'r enghraifft rhiant."
 
 msgid "Select a valid choice. That choice is not one of the available choices."
 msgstr ""
@@ -772,7 +783,7 @@ msgstr ""
 
 #, python-format
 msgid "\"%(pk)s\" is not a valid value."
-msgstr ""
+msgstr "\"%(pk)s\" nid yw'n werth dilys."
 
 #, python-format
 msgid ""
@@ -1157,6 +1168,11 @@ msgid ""
 "If you're concerned about privacy, use alternatives like <a rel=\"noreferrer"
 "\" ...> for links to third-party sites."
 msgstr ""
+"Os ydych yn defnyddio'r tag <meta name=\"referrer\" content=\"no-referrer\"> "
+"neu'n cynnwys yr header 'Referrer-Policy: no-referrer', os gwelwch yn dda ei "
+"ddileu. Mae'r diogelwch CSRF yn gofyn am y header 'Referer' i wneud gwirio "
+"cadarnhaol. Os ydych yn pryderu am breifatrwydd, defnyddiwch ddulliau eraill "
+"megis <a rel=\"noreferrer\" ...> ar gyfer dolenni i safleoedd trydydd parti."
 
 msgid ""
 "You are seeing this message because this site requires a CSRF cookie when "
@@ -1181,7 +1197,7 @@ msgid "No year specified"
 msgstr "Dim blwyddyn wedi’i bennu"
 
 msgid "Date out of range"
-msgstr ""
+msgstr "Dyddiad y tu allan i'r ystod."
 
 msgid "No month specified"
 msgstr "Dim mis wedi’i bennu"
@@ -1236,16 +1252,19 @@ msgid "Index of %(directory)s"
 msgstr "Mynegai %(directory)s"
 
 msgid "Django: the Web framework for perfectionists with deadlines."
-msgstr ""
+msgstr "Django: y ffrâm we ar gyfer perffeithwyr gyda dyddiadau cau."
 
 #, python-format
 msgid ""
 "View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
 "target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
 msgstr ""
+"Gweld <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">nodiadau rhyddhau</a> ar gyfer Django "
+"%(version)s"
 
 msgid "The install worked successfully! Congratulations!"
-msgstr ""
+msgstr "Cwblhawyd y gosod yn llwyddiannus! Llongyfarchiadau!"
 
 #, python-format
 msgid ""
@@ -1254,21 +1273,25 @@ msgid ""
 "\">DEBUG=True</a> is in your settings file and you have not configured any "
 "URLs."
 msgstr ""
+"Rydych yn gweld y dudalen hon oherwydd bod <a href=\"https://docs."
+"djangoproject.com/en/%(version)s/ref/settings/#debug\" target=\"_blank\" rel="
+"\"noopener\">DEBUG=True</a> yn eich ffeil gosodiadau ac nad ydych wedi "
+"cyfrestru unrhyw URLau."
 
 msgid "Django Documentation"
-msgstr ""
+msgstr "Dogfennaeth Django"
 
 msgid "Topics, references, &amp; how-to's"
-msgstr ""
+msgstr "Pynciau, cyfeirnodau, &amp; sut i wneud."
 
 msgid "Tutorial: A Polling App"
-msgstr ""
+msgstr "Tiwtorial: Ap Pôl"
 
 msgid "Get started with Django"
-msgstr ""
+msgstr "Dechrau gyda Django"
 
 msgid "Django Community"
-msgstr ""
+msgstr "Cymuned Django"
 
 msgid "Connect, get help, or contribute"
-msgstr ""
+msgstr "Cysylltwch, derbyn help, neu gyfrannu"

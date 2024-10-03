@@ -10,14 +10,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-19 16:49+0100\n"
 "PO-Revision-Date: 2017-09-23 18:54+0000\n"
-"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
 "Language-Team: Welsh (http://www.transifex.com/django/django/language/cy/)\n"
+"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cy\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != "
 "11) ? 2 : 3;\n"
+"Revisiondate: 2024-10-03 16:34+0000\n"
 
 #, python-format
 msgid "Successfully deleted %(count)d %(items)s."
@@ -65,10 +66,10 @@ msgid "This year"
 msgstr "Eleni"
 
 msgid "No date"
-msgstr ""
+msgstr "Dim dyddiad"
 
 msgid "Has date"
-msgstr ""
+msgstr "Mae dyddiad wedi’i gynnwys"
 
 #, python-format
 msgid ""
@@ -92,10 +93,10 @@ msgid "action time"
 msgstr "amser y weithred"
 
 msgid "user"
-msgstr ""
+msgstr "defnyddiwr"
 
 msgid "content type"
-msgstr ""
+msgstr "math cynnwys"
 
 msgid "object id"
 msgstr "id gwrthrych"
@@ -134,25 +135,25 @@ msgstr "Gwrthrych LogEntry"
 
 #, python-brace-format
 msgid "Added {name} \"{object}\"."
-msgstr ""
+msgstr "Wedi’i ychwanegu {name} \"{object}\"."
 
 msgid "Added."
-msgstr ""
+msgstr "Wedi’i ychwanegu."
 
 msgid "and"
 msgstr "a"
 
 #, python-brace-format
 msgid "Changed {fields} for {name} \"{object}\"."
-msgstr ""
+msgstr "Wedi newid {fields} ar gyfer {name} \"{object}\"."
 
 #, python-brace-format
 msgid "Changed {fields}."
-msgstr ""
+msgstr "Wedi newid {fields}."
 
 #, python-brace-format
 msgid "Deleted {name} \"{object}\"."
-msgstr ""
+msgstr "Wedi dileu {name} \"{object}\"."
 
 msgid "No fields changed."
 msgstr "Ni newidwyd unrhwy feysydd."
@@ -162,37 +163,45 @@ msgstr "Dim"
 
 msgid ""
 "Hold down \"Control\", or \"Command\" on a Mac, to select more than one."
-msgstr ""
+msgstr "Dal i lawr \"Control\", neu \"Command\" ar Mac, i ddewis mwy nag un."
 
 #, python-brace-format
 msgid ""
 "The {name} \"{obj}\" was added successfully. You may edit it again below."
 msgstr ""
+"Y {name} \"{obj}\" oedd wedi’i ychwanegu’n llwyddiannus. Gallwch ei addasu "
+"eto isod."
 
 #, python-brace-format
 msgid ""
 "The {name} \"{obj}\" was added successfully. You may add another {name} "
 "below."
 msgstr ""
+"Y {name} \"{obj}\" oedd wedi’i ychwanegu’n llwyddiannus. Gallwch ychwanegu "
+"{name} arall isod."
 
 #, python-brace-format
 msgid "The {name} \"{obj}\" was added successfully."
-msgstr ""
+msgstr "Y {name} \"{obj}\" oedd wedi’i ychwanegu’n llwyddiannus."
 
 #, python-brace-format
 msgid ""
 "The {name} \"{obj}\" was changed successfully. You may edit it again below."
 msgstr ""
+"Y {name} \"{obj}\" oedd wedi newid yn llwyddiannus. Gallwch ei addasu eto "
+"isod."
 
 #, python-brace-format
 msgid ""
 "The {name} \"{obj}\" was changed successfully. You may add another {name} "
 "below."
 msgstr ""
+"Y {name} \"{obj}\" oedd wedi newid yn llwyddiannus. Gallwch ychwanegu {name} "
+"arall isod."
 
 #, python-brace-format
 msgid "The {name} \"{obj}\" was changed successfully."
-msgstr ""
+msgstr "Y {name} \"{obj}\" oedd wedi newid yn llwyddiannus."
 
 msgid ""
 "Items must be selected in order to perform actions on them. No items have "
@@ -209,7 +218,7 @@ msgstr "Dilëwyd %(name)s \"%(obj)s\" yn llwyddiannus."
 
 #, python-format
 msgid "%(name)s with ID \"%(key)s\" doesn't exist. Perhaps it was deleted?"
-msgstr ""
+msgstr "%(name)s gyda ID \"%(key)s\" sydd ddim yn bod. Efallai y’i dilewyd?"
 
 #, python-format
 msgid "Add %s"
@@ -345,7 +354,7 @@ msgid "Welcome,"
 msgstr "Croeso,"
 
 msgid "View site"
-msgstr ""
+msgstr "Gweld y safle"
 
 msgid "Documentation"
 msgstr "Dogfennaeth"
@@ -402,18 +411,20 @@ msgid ""
 "Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
 "All of the following related items will be deleted:"
 msgstr ""
+"Ydych chi'n siŵr eich bod am ddileu'r %(object_name)s \"%(escaped_object)s\""
+"? Bydd yr eitemau cysylltiedig canlynol i gyd yn cael eu dileu:"
 
 msgid "Objects"
-msgstr ""
+msgstr "Eitemau"
 
 msgid "Yes, I'm sure"
 msgstr "Ydw, rwy'n sicr"
 
 msgid "No, take me back"
-msgstr ""
+msgstr "Na, dychwelyd i mi"
 
 msgid "Delete multiple objects"
-msgstr ""
+msgstr "Dileu eitemau lluosog"
 
 #, python-format
 msgid ""
@@ -421,6 +432,9 @@ msgid ""
 "objects, but your account doesn't have permission to delete the following "
 "types of objects:"
 msgstr ""
+"Mae dileu’r %(objects_name)s a ddewiswyd yn arwain at ddileu eitemau "
+"cysylltiedig, ond does gan eich cyfrif ddim permis i ddileu’r typeau "
+"canlynol o eitemau:"
 
 #, python-format
 msgid ""
@@ -449,7 +463,7 @@ msgid " By %(filter_title)s "
 msgstr "Wrth %(filter_title)s"
 
 msgid "Summary"
-msgstr ""
+msgstr "Crynodeb"
 
 #, python-format
 msgid "Models in the %(name)s application"
@@ -462,10 +476,10 @@ msgid "You don't have permission to edit anything."
 msgstr "Does gennych ddim hawl i olygu unrhywbeth."
 
 msgid "Recent actions"
-msgstr ""
+msgstr "Camau diweddar"
 
 msgid "My actions"
-msgstr ""
+msgstr "Fy nheithiau"
 
 msgid "None available"
 msgstr "Dim ar gael"
@@ -487,6 +501,9 @@ msgid ""
 "You are authenticated as %(username)s, but are not authorized to access this "
 "page. Would you like to login to a different account?"
 msgstr ""
+"Rydych wedi’ch dilysu fel %(username)s, ond nid ydych wedi cael caniatâd i "
+"gael gafael ar y dudalen hon. A fyddech chi’n hoffi mewngofnodi i gyfrif "
+"gwahanol?"
 
 msgid "Forgotten your password or username?"
 msgstr "Anghofioch eich cyfrinair neu enw defnyddiwr?"
@@ -514,19 +531,19 @@ msgid "Save"
 msgstr "Cadw"
 
 msgid "Popup closing..."
-msgstr ""
+msgstr "Poced yn cau..."
 
 #, python-format
 msgid "Change selected %(model)s"
-msgstr ""
+msgstr "Newid %(model)s a ddewiswyd"
 
 #, python-format
 msgid "Add another %(model)s"
-msgstr ""
+msgstr "Ychwanegu %(model)s arall"
 
 #, python-format
 msgid "Delete selected %(model)s"
-msgstr ""
+msgstr "Dileu %(model)s a ddewiswyd"
 
 msgid "Search"
 msgstr "Chwilio"
@@ -606,6 +623,9 @@ msgid ""
 "We've emailed you instructions for setting your password, if an account "
 "exists with the email you entered. You should receive them shortly."
 msgstr ""
+"Rydyn ni wedi e-bostio i chi gyfarwyddiadau ar gyfer gosod eich cyfrinair, "
+"os oes cyfrif yn bodoli gyda’r e-bost rydych wedi’i gyflwyno. Dylech eu "
+"derbyn yn fuan."
 
 msgid ""
 "If you don't receive an email, please make sure you've entered the address "
