@@ -18,8 +18,8 @@ msgstr ""
 
 #: media/js/translate.js:1
 msgid "this is to be translated"
-msgstr "esto tiene que ser traducido"
+msgstr "esto se tiene que traducir"
 
 
 msgid "Choose a time"
-msgstr "Elige una hora"
+msgstr "Selecciona una hora"

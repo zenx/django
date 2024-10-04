@@ -37,7 +37,7 @@ msgstr "Mapa de cadenas a cadenas/nulos"
 
 #, python-format
 msgid "The value of \"%(key)s\" is not a string or null."
-msgstr "El valor de \"%(key)s\" no es ni una cadena ni un nulo"
+msgstr "El valor de \"%(key)s\" no es ni una cadena ni un nulo."
 
 msgid "A JSON object"
 msgstr "Un objeto JSON"
@@ -46,10 +46,10 @@ msgid "Value must be valid JSON."
 msgstr "El valor debe ser un JSON válido."
 
 msgid "Could not load JSON data."
-msgstr "No se pududieron cargar los datos JSON."
+msgstr "No se pudieron cargar los datos JSON."
 
 msgid "Input must be a JSON dictionary."
-msgstr "La entrada debe ser un diccionario JSON"
+msgstr "La entrada debe ser un diccionario JSON."
 
 #, python-format
 msgid "'%(value)s' value must be valid JSON."
@@ -59,7 +59,7 @@ msgid "Enter two valid values."
 msgstr "Introduzca dos valores válidos."
 
 msgid "The start of the range must not exceed the end of the range."
-msgstr "El comienzo del rango no puede exceder su final."
+msgstr "El inicio del rango no puede exceder el final del rango."
 
 msgid "Enter two whole numbers."
 msgstr "Ingrese dos números enteros."
@@ -107,17 +107,17 @@ msgstr "Faltan algunas claves: %(keys)s"
 
 #, python-format
 msgid "Some unknown keys were provided: %(keys)s"
-msgstr "Se facilitaron algunas claves desconocidas: %(keys)s"
+msgstr "Se proporcionaron algunas claves desconocidas: %(keys)s"
 
 #, python-format
 msgid ""
 "Ensure that this range is completely less than or equal to %(limit_value)s."
-msgstr "Asegúrese de que este rango es menor o igual que %(limit_value)s."
+msgstr "Asegúrese de que este rango sea completamente menor o igual que %(limit_value)s."
 
 #, python-format
 msgid ""
 "Ensure that this range is completely greater than or equal to "
 "%(limit_value)s."
 msgstr ""
-"Asegúrese de que este rango es efectivamente mayor o igual que "
+"Asegúrese de que este rango sea efectivamente mayor o igual que "
 "%(limit_value)s."
