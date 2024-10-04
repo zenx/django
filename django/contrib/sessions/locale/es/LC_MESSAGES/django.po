@@ -1,3 +1,4 @@
+```
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
@@ -25,7 +26,7 @@ msgid "session key"
 msgstr "clave de sesión"
 
 msgid "session data"
-msgstr "datos de sesión"
+msgstr "datos de la sesión"
 
 msgid "expire date"
 msgstr "fecha de caducidad"
@@ -35,3 +36,4 @@ msgstr "sesión"
 
 msgid "sessions"
 msgstr "sesiones"
+```

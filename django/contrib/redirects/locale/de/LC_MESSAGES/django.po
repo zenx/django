@@ -1,3 +1,4 @@
+```
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
@@ -30,8 +31,8 @@ msgid ""
 "This should be an absolute path, excluding the domain name. Example: '/"
 "events/search/'."
 msgstr ""
-"Hier sollte ein absoluter Pfad stehen, ohne den Domainnamen. Beispiel: „/"
-"events/search/“."
+"Hier sollte ein absoluter Pfad angegeben werden, ohne den Domainnamen. "
+"Beispiel: '/events/search/'."
 
 msgid "redirect to"
 msgstr "Umleitung nach"
@@ -40,11 +41,12 @@ msgid ""
 "This can be either an absolute path (as above) or a full URL starting with "
 "'http://'."
 msgstr ""
-"Hier muss entweder ein absoluter Pfad oder eine komplette URL, mit http:// "
-"am Anfang, stehen."
+"Hier muss entweder ein absoluter Pfad (wie oben) oder eine vollständige URL "
+"angegeben werden, die mit 'http://' beginnt."
 
 msgid "redirect"
 msgstr "Umleitung"
 
 msgid "redirects"
 msgstr "Umleitungen"
+```

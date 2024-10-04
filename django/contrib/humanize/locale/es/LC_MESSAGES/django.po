@@ -1,14 +1,4 @@
-# This file is distributed under the same license as the Django package.
-#
-# Translators:
-# Antoni Aloy <aaloy@apsl.net>, 2012
-# Ernesto Avilés Vázquez <whippiii@gmail.com>, 2014
-# Ignacio José Lizarán Rus <ilizaran@gmail.com>, 2019
-# Jannis Leidel <jannis@leidel.info>, 2011
-# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2011
-# Luigy, 2019
-# ntrrgc <ntrrgc@gmail.com>, 2014
-# Veronicabh <vero.blazher@gmail.com>, 2015
+```po
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
@@ -86,31 +76,31 @@ msgstr "{}º"
 msgid "%(value).1f million"
 msgid_plural "%(value).1f million"
 msgstr[0] "%(value).1f millón"
-msgstr[1] "%(value).1f millón"
+msgstr[1] "%(value).1f millones"
 
 #, python-format
 msgid "%(value)s million"
 msgid_plural "%(value)s million"
-msgstr[0] "%(value)s millon"
+msgstr[0] "%(value)s millón"
 msgstr[1] "%(value)s millones"
 
 #, python-format
 msgid "%(value).1f billion"
 msgid_plural "%(value).1f billion"
-msgstr[0] "%(value).1f millardo"
-msgstr[1] "%(value).1f millardos"
+msgstr[0] "%(value).1f mil millones"
+msgstr[1] "%(value).1f mil millones"
 
 #, python-format
 msgid "%(value)s billion"
 msgid_plural "%(value)s billion"
-msgstr[0] "%(value)s millardo"
-msgstr[1] "%(value)s millardos"
+msgstr[0] "%(value)s mil millones"
+msgstr[1] "%(value)s mil millones"
 
 #, python-format
 msgid "%(value).1f trillion"
 msgid_plural "%(value).1f trillion"
 msgstr[0] "%(value).1f billón"
-msgstr[1] "%(value).1f billón"
+msgstr[1] "%(value).1f billones"
 
 #, python-format
 msgid "%(value)s trillion"
@@ -127,7 +117,7 @@ msgstr[1] "%(value).1f billardos"
 #, python-format
 msgid "%(value)s quadrillion"
 msgid_plural "%(value)s quadrillion"
-msgstr[0] "%(value)s billardos"
+msgstr[0] "%(value)s billardo"
 msgstr[1] "%(value)s billardos"
 
 #, python-format
@@ -198,9 +188,10 @@ msgstr[1] "%(value).1f quintillardos"
 
 #, python-format
 msgid "%(value)s decillion"
+``````po
 msgid_plural "%(value)s decillion"
-msgstr[0] "%(value)s quintillardo"
-msgstr[1] "%(value)s quintillardos"
+msgstr[0] "%(value)s decillón"
+msgstr[1] "%(value)s decillones"
 
 #, python-format
 msgid "%(value).1f googol"
@@ -211,8 +202,8 @@ msgstr[1] "%(value).1f googol"
 #, python-format
 msgid "%(value)s googol"
 msgid_plural "%(value)s googol"
-msgstr[0] " %(value)s  googol"
-msgstr[1] " %(value)s  googol"
+msgstr[0] "%(value)s googol"
+msgstr[1] "%(value)s googol"
 
 msgid "one"
 msgstr "uno"
@@ -399,3 +390,4 @@ msgid "%d minute"
 msgid_plural "%d minutes"
 msgstr[0] "%d minuto"
 msgstr[1] "%d minutos"
+```msgstr[1] "%d minutos"
