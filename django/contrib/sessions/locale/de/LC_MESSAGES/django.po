@@ -17,16 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Sessions"
-msgstr "Sessions"
+msgstr "Sitzungen"
 
 msgid "session key"
-msgstr "Sitzungs-ID"
+msgstr "Sitzungsschlüssel"
 
 msgid "session data"
 msgstr "Sitzungsdaten"
 
 msgid "expire date"
-msgstr "Verfallsdatum"
+msgstr "Ablaufdatum"
 
 msgid "session"
 msgstr "Sitzung"
