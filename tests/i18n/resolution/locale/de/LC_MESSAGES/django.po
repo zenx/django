@@ -18,8 +18,8 @@ msgstr ""
 
 #: models.py:3
 msgid "Time"
-msgstr "Zeit (APP)"
+msgstr "Zeit"
 
 #: models.py:5
 msgid "Date/time"
-msgstr "Datum/Zeit (APP)"
+msgstr "Datum/Zeit"

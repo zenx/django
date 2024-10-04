@@ -18,11 +18,11 @@ msgstr ""
 
 #: models.py:3
 msgid "Time"
-msgstr "Zeit (LOCALE_PATHS)"
+msgstr "Zeit"
 
 #: models.py:5
 msgid "Date/time"
-msgstr "Datum/Zeit (LOCALE_PATHS)"
+msgstr "Datum/Zeit"
 
 #: models.py:7
 msgctxt "month name"
@@ -32,46 +32,46 @@ msgstr "Mai"
 #: models.py:9
 msgctxt "verb"
 msgid "May"
-msgstr "Kann"
+msgstr "Darf"
 
 #: models.py:11
 msgctxt "search"
 msgid "%d result"
 msgid_plural "%d results"
-msgstr[0] "%d Resultat"
-msgstr[1] "%d Resultate"
+msgstr[0] "%d Ergebnis"
+msgstr[1] "%d Ergebnisse"
 
 #: models.py:11
 msgid "%d good result"
 msgid_plural "%d good results"
-msgstr[0] "%d gutes Resultat"
-msgstr[1] "%d guten Resultate"
+msgstr[0] "%d gutes Ergebnis"
+msgstr[1] "%d gute Ergebnisse"
 
 #: models.py:11
 msgid "good result"
 msgid_plural "good results"
-msgstr[0] "gutes Resultat"
-msgstr[1] "guten Resultate"
+msgstr[0] "gutes Ergebnis"
+msgstr[1] "gute Ergebnisse"
 
 #: models.py:11
 msgctxt "Exclamation"
 msgid "%d good result"
 msgid_plural "%d good results"
-msgstr[0] "%d gutes Resultat!"
-msgstr[1] "%d guten Resultate!"
+msgstr[0] "%d gutes Ergebnis!"
+msgstr[1] "%d gute Ergebnisse!"
 
 #: models.py:11
 msgid "Hi %(name)s, %(num)d good result"
 msgid_plural "Hi %(name)s, %(num)d good results"
-msgstr[0] "Hallo %(name)s, %(num)d gutes Resultat"
-msgstr[1] "Hallo %(name)s, %(num)d guten Resultate"
+msgstr[0] "Hallo %(name)s, %(num)d gutes Ergebnis"
+msgstr[1] "Hallo %(name)s, %(num)d gute Ergebnisse"
 
 #: models.py:11
 msgctxt "Greeting"
 msgid "Hi %(name)s, %(num)d good result"
 msgid_plural "Hi %(name)s, %(num)d good results"
-msgstr[0] "Willkommen %(name)s, %(num)d gutes Resultat"
-msgstr[1] "Willkommen %(name)s, %(num)d guten Resultate"
+msgstr[0] "Willkommen %(name)s, %(num)d gutes Ergebnis"
+msgstr[1] "Willkommen %(name)s, %(num)d gute Ergebnisse"
 
 #: models.py:13
 #, python-format
@@ -96,9 +96,8 @@ msgstr[1] "%(number)s Super-Ergebnisse"
 msgctxt "other super search"
 msgid "%(number)s super result"
 msgid_plural "%(number)s super results"
-msgstr[0] "%(number)s anderen Super-Ergebnis"
-msgstr[1] "%(number)s andere Super-Ergebnisse"
-
+msgstr[0] "%(number)s anderes Super-Ergebnis"
+msgstr[1] "%(number)s andere Super-Ergebnisse"```
 #: models.py:21
 msgctxt "comment count"
 msgid "There are %(num_comments)s comments"
@@ -112,25 +111,26 @@ msgstr "Andere: Es gibt %(num_comments)s Kommentare"
 #: tests.py:213
 msgid "{} good result"
 msgid_plural "{} good results"
-msgstr[0] "{} gutes Resultat"
-msgstr[1] "{} guten Resultate"
+msgstr[0] "{} gutes Ergebnis"
+msgstr[1] "{} gute Ergebnisse"
 
 #: tests.py:214
 msgctxt "Exclamation"
 msgid "{} good result"
 msgid_plural "{} good results"
-msgstr[0] "{} gutes Resultat!"
-msgstr[1] "{} guten Resultate!"
+msgstr[0] "{} gutes Ergebnis!"
+msgstr[1] "{} gute Ergebnisse!"
 
 #: tests.py:226
 msgid "Hi {name}, {num} good result"
 msgid_plural "Hi {name}, {num} good results"
-msgstr[0] "Hallo {name}, {num} gutes Resultat"
-msgstr[1] "Hallo {name}, {num} guten Resultate"
+msgstr[0] "Hallo {name}, {num} gutes Ergebnis"
+msgstr[1] "Hallo {name}, {num} gute Ergebnisse"
 
 #: tests.py:230
 msgctxt "Greeting"
 msgid "Hi {name}, {num} good result"
 msgid_plural "Hi {name}, {num} good results"
-msgstr[0] "Willkommen {name}, {num} gutes Resultat"
-msgstr[1] "Willkommen {name}, {num} guten Resultate"
+msgstr[0] "Willkommen {name}, {num} gutes Ergebnis"
+msgstr[1] "Willkommen {name}, {num} gute Ergebnisse"
+```

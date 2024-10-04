@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Sites"
-msgstr "Websites"
+msgstr "Seiten"
 
 msgid "The domain name cannot contain any spaces or tabs."
 msgstr "Der Domainname darf keine Leerzeichen oder Tabs enthalten."
@@ -30,7 +30,7 @@ msgid "display name"
 msgstr "Anzeigename"
 
 msgid "site"
-msgstr "Website"
+msgstr "Seite"
 
 msgid "sites"
-msgstr "Websites"
+msgstr "Seiten"
