@@ -52,22 +52,22 @@ msgid "'%(value)s' value must be valid JSON."
 msgstr "„%(value)s“ Wert muss gültiges JSON sein."
 
 msgid "Enter two valid values."
-msgstr "Bitte zwei gültige Werte eingeben."
+msgstr "Bitte geben Sie zwei gültige Werte ein."
 
 msgid "The start of the range must not exceed the end of the range."
-msgstr "Der Anfang des Wertbereichs darf nicht das Ende überschreiten."
+msgstr "Der Anfang des Wertebereichs darf das Ende nicht überschreiten."
 
 msgid "Enter two whole numbers."
-msgstr "Bitte zwei ganze Zahlen eingeben."
+msgstr "Bitte geben Sie zwei ganze Zahlen ein."
 
 msgid "Enter two numbers."
-msgstr "Bitte zwei Zahlen eingeben."
+msgstr "Bitte geben Sie zwei Zahlen ein."
 
 msgid "Enter two valid date/times."
-msgstr "Bitte zwei gültige Datum/Uhrzeit-Werte eingeben."
+msgstr "Bitte geben Sie zwei gültige Datum/Uhrzeit-Werte ein."
 
 msgid "Enter two valid dates."
-msgstr "Bitte zwei gültige Kalenderdaten eingeben."
+msgstr "Bitte geben Sie zwei gültige Kalenderdaten ein."
 
 #, python-format
 msgid ""
@@ -99,19 +99,19 @@ msgstr[1] ""
 
 #, python-format
 msgid "Some keys were missing: %(keys)s"
-msgstr "Einige Werte fehlen: %(keys)s"
+msgstr "Einige Schlüssel fehlen: %(keys)s"
 
 #, python-format
 msgid "Some unknown keys were provided: %(keys)s"
-msgstr "Einige unbekannte Werte wurden eingegeben: %(keys)s"
+msgstr "Einige unbekannte Schlüssel wurden bereitgestellt: %(keys)s"
 
 #, python-format
 msgid ""
 "Ensure that this range is completely less than or equal to %(limit_value)s."
-msgstr "Der Wertebereich muss kleiner oder gleich zu %(limit_value)s sein."
+msgstr "Stellen Sie sicher, dass dieser Bereich vollständig kleiner oder gleich %(limit_value)s ist."
 
 #, python-format
 msgid ""
 "Ensure that this range is completely greater than or equal to "
 "%(limit_value)s."
-msgstr "Der Wertebereich muss größer oder gleich zu %(limit_value)s sein."
+msgstr "Stellen Sie sicher, dass dieser Bereich vollständig größer oder gleich %(limit_value)s ist."

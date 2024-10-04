@@ -18,13 +18,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Redirects"
-msgstr "Umleitungen"
+msgstr "Weiterleitungen"
 
 msgid "site"
 msgstr "Website"
 
 msgid "redirect from"
-msgstr "Umleitung von"
+msgstr "Weiterleitung von"
 
 msgid ""
 "This should be an absolute path, excluding the domain name. Example: '/"
@@ -34,7 +34,7 @@ msgstr ""
 "events/search/“."
 
 msgid "redirect to"
-msgstr "Umleitung nach"
+msgstr "Weiterleitung nach"
 
 msgid ""
 "This can be either an absolute path (as above) or a full URL starting with "
@@ -44,7 +44,7 @@ msgstr ""
 "am Anfang, stehen."
 
 msgid "redirect"
-msgstr "Umleitung"
+msgstr "Weiterleitung"
 
 msgid "redirects"
-msgstr "Umleitungen"
+msgstr "Weiterleitungen"

@@ -21,7 +21,7 @@ msgid "Content Types"
 msgstr "Inhaltstypen"
 
 msgid "python model class name"
-msgstr "Python Modell-Klassenname"
+msgstr "Python-Modellklassenname"
 
 msgid "content type"
 msgstr "Inhaltstyp"
@@ -31,12 +31,12 @@ msgstr "Inhaltstypen"
 
 #, python-format
 msgid "Content type %(ct_id)s object has no associated model"
-msgstr "Objekt des Inhaltstyps %(ct_id)s hat kein dazugehöriges Modell"
+msgstr "Objekt des Inhaltstyps %(ct_id)s hat kein zugehöriges Modell"
 
 #, python-format
 msgid "Content type %(ct_id)s object %(obj_id)s doesn't exist"
-msgstr "Objekt %(obj_id)s des Inhaltstyps %(ct_id)s ist nicht vorhanden"
+msgstr "Objekt %(obj_id)s des Inhaltstyps %(ct_id)s existiert nicht"
 
 #, python-format
 msgid "%(ct_name)s objects don't have a get_absolute_url() method"
-msgstr " %(ct_name)s Objekte haben keine get_absolute_url ()-Methode"
+msgstr "%(ct_name)s Objekte haben keine get_absolute_url()-Methode"
