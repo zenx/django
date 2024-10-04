@@ -1,3 +1,4 @@
+```po
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
@@ -21,15 +22,15 @@ msgid "Advanced options"
 msgstr "Erweiterte Optionen"
 
 msgid "Flat Pages"
-msgstr "Flat Pages"
+msgstr "Statische Seiten"
 
 msgid "URL"
-msgstr "Adresse (URL)"
+msgstr "URL"
 
 msgid ""
 "Example: '/about/contact/'. Make sure to have leading and trailing slashes."
 msgstr ""
-"Beispiel: „/about/contact/“. Wichtig: Am Anfang und Ende muss ein / stehen."
+"Beispiel: „/about/contact/“. Achten Sie darauf, dass ein / am Anfang und Ende steht."
 
 msgid ""
 "This value must contain only letters, numbers, dots, underscores, dashes, "
@@ -39,7 +40,7 @@ msgstr ""
 "Bindestriche, Schrägstriche und Tilden enthalten."
 
 msgid "URL is missing a leading slash."
-msgstr "Der URL fehlt ein vorangestellter Schrägstrich."
+msgstr "Der URL fehlt ein führender Schrägstrich."
 
 msgid "URL is missing a trailing slash."
 msgstr "Der URL fehlt ein abschließender Schrägstrich."
@@ -47,7 +48,7 @@ msgstr "Der URL fehlt ein abschließender Schrägstrich."
 #, python-format
 msgid "Flatpage with url %(url)s already exists for site %(site)s"
 msgstr ""
-"Flatpage mit der URL %(url)s ist für die Website %(site)s bereits vorhanden"
+"Die Flatpage mit der URL %(url)s existiert bereits für die Website %(site)s."
 
 msgid "title"
 msgstr "Titel"
@@ -59,28 +60,29 @@ msgid "enable comments"
 msgstr "Kommentare aktivieren"
 
 msgid "template name"
-msgstr "Name des Templates"
+msgstr "Template-Name"
 
 msgid ""
 "Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
 "will use 'flatpages/default.html'."
 msgstr ""
-"Beispiel: „flatpages/contact_page.html“. Wenn dieses Feld nicht gesetzt ist, "
-"wird standardmäßig „flatpages/default.html“ benutzt."
+"Beispiel: „flatpages/contact_page.html“. Wenn dieses Feld nicht ausgefüllt ist, "
+"verwendet das System standardmäßig „flatpages/default.html“."
 
 msgid "registration required"
 msgstr "Registrierung erforderlich"
 
 msgid "If this is checked, only logged-in users will be able to view the page."
 msgstr ""
-"Wenn hier ein Haken gesetzt ist, können nur angemeldete Benutzer die Seite "
+"Wenn dies aktiviert ist, können nur angemeldete Benutzer die Seite "
 "sehen."
 
 msgid "sites"
 msgstr "Websites"
 
 msgid "flat page"
-msgstr "Flat Page"
+msgstr "Statische Seite"
 
 msgid "flat pages"
-msgstr "Flat Pages"
+msgstr "Statische Seiten"
+```

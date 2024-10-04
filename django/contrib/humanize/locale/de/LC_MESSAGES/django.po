@@ -1,3 +1,4 @@
+```po
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
@@ -19,7 +20,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Humanize"
-msgstr "Humanize"
+msgstr "Humanisieren"
 
 #. Translators: Ordinal format for 11 (11th), 12 (12th), and 13 (13th).
 msgctxt "ordinal 11, 12, 13"
@@ -198,6 +199,7 @@ msgstr[1] "%(value)s Quintilliarden"
 
 #, python-format
 msgid "%(value).1f googol"
+``````po
 msgid_plural "%(value).1f googol"
 msgstr[0] "%(value).1f Sedezilliarde"
 msgstr[1] "%(value).1f Sedezilliarden"
@@ -393,3 +395,4 @@ msgid "%d minute"
 msgid_plural "%d minutes"
 msgstr[0] "%d Minute"
 msgstr[1] "%d Minuten"
+```

@@ -1,3 +1,4 @@
+```po
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
@@ -25,7 +26,7 @@ msgstr "Mai"
 #: models.py:9
 msgctxt "verb"
 msgid "May"
-msgstr "Kann"
+msgstr "Darfs"
 
 #: models.py:11
 msgid "%s item"
@@ -37,8 +38,9 @@ msgstr[1] "%s Elemente"
 msgctxt "search"
 msgid "%s result"
 msgid_plural "%s results"
-msgstr[0] "%s Resultat"
-msgstr[1] "%s Resultate"
+msgstr[0] "%s Ergebnis"
+msgstr[1] "%s Ergebnisse"
 
 msgid "Image"
 msgstr "Bild"
+```
