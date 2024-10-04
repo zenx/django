@@ -1,3 +1,4 @@
+```
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
@@ -26,7 +27,7 @@ msgid "Advanced options"
 msgstr "Opciones avanzadas"
 
 msgid "Flat Pages"
-msgstr "Páginas estáticas"
+msgstr "Páginas planas"
 
 msgid "URL"
 msgstr "URL"
@@ -34,30 +35,30 @@ msgstr "URL"
 msgid ""
 "Example: '/about/contact/'. Make sure to have leading and trailing slashes."
 msgstr ""
-"Ejemplo: '/about/contact/'. Asegúrese de que pone barras al principio y al "
+"Ejemplo: '/about/contact/'. Asegúrese de tener barras al principio y al "
 "final."
 
 msgid ""
 "This value must contain only letters, numbers, dots, underscores, dashes, "
 "slashes or tildes."
 msgstr ""
-"Este valor solo puede contener letras, números, puntos, guiones bajos o "
-"medios, barras o tildes."
+"Este valor solo puede contener letras, números, puntos, guiones bajos, "
+"guiones, barras o tildes."
 
 msgid "Example: '/about/contact'. Make sure to have a leading slash."
 msgstr ""
-"Ejemplo: '/about/contact'. Asegúrese de que pone una barra oblicua al "
+"Ejemplo: '/about/contact'. Asegúrese de tener una barra oblicua al "
 "principio."
 
 msgid "URL is missing a leading slash."
-msgstr "A la URL le falta la barra inicial."
+msgstr "La URL le falta la barra inicial."
 
 msgid "URL is missing a trailing slash."
-msgstr "A la URL le falta la barra final."
+msgstr "La URL le falta la barra final."
 
 #, python-format
 msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr " En el sitio %(site)s ya hay un Flatpage con la url %(url)s"
+msgstr "Ya existe un Flatpage con la URL %(url)s para el sitio %(site)s."
 
 msgid "title"
 msgstr "título"
@@ -79,16 +80,17 @@ msgstr ""
 "usará 'flatpages/default.html'."
 
 msgid "registration required"
-msgstr "debe estar registrado"
+msgstr "registro requerido"
 
 msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr "Si está marcado, sólo los usuarios registrados podrán ver la página."
+msgstr "Si esto está marcado, solo los usuarios registrados podrán ver la página."
 
 msgid "sites"
 msgstr "sitios"
 
 msgid "flat page"
-msgstr "página estática"
+msgstr "página plana"
 
 msgid "flat pages"
-msgstr "páginas estáticas"
+msgstr "páginas planas"
+```
