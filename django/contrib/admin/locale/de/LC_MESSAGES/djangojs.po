@@ -1,3 +1,4 @@
+```
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
@@ -27,14 +28,15 @@ msgid ""
 "This is the list of available %s. You may choose some by selecting them in "
 "the box below and then clicking the \"Choose\" arrow between the two boxes."
 msgstr ""
-"Dies ist die Liste der verfügbaren %s. Einfach im unten stehenden Feld "
-"markieren und mithilfe des \"Auswählen\"-Pfeils auswählen."
+"Dies ist die Liste der verfügbaren %s. Sie können einige auswählen, indem "
+"Sie sie im unten stehenden Feld markieren und dann auf den \"Auswählen\"-Pfeil "
+"zwischen den beiden Feldern klicken."
 
 #, javascript-format
 msgid "Type into this box to filter down the list of available %s."
 msgstr ""
-"Durch Eingabe in diesem Feld lässt sich die Liste der verfügbaren %s "
-"eingrenzen."
+"Durch Eingabe in dieses Feld können Sie die Liste der verfügbaren %s "
+"einschränken."
 
 msgid "Filter"
 msgstr "Filter"
@@ -44,7 +46,7 @@ msgstr "Alle auswählen"
 
 #, javascript-format
 msgid "Click to choose all %s at once."
-msgstr "Klicken, um alle %s auf einmal auszuwählen."
+msgstr "Klicken Sie, um alle %s auf einmal auszuwählen."
 
 msgid "Choose"
 msgstr "Auswählen"
@@ -61,15 +63,16 @@ msgid ""
 "This is the list of chosen %s. You may remove some by selecting them in the "
 "box below and then clicking the \"Remove\" arrow between the two boxes."
 msgstr ""
-"Dies ist die Liste der ausgewählten %s. Einfach im unten stehenden Feld "
-"markieren und mithilfe des \"Entfernen\"-Pfeils wieder entfernen."
+"Dies ist die Liste der ausgewählten %s. Sie können einige entfernen, indem "
+"Sie sie im unten stehenden Feld markieren und dann auf den \"Entfernen\"-Pfeil "
+"zwischen den beiden Feldern klicken."
 
 msgid "Remove all"
 msgstr "Alle entfernen"
 
 #, javascript-format
 msgid "Click to remove all chosen %s at once."
-msgstr "Klicken, um alle ausgewählten %s auf einmal zu entfernen."
+msgstr "Klicken Sie, um alle ausgewählten %s auf einmal zu entfernen."
 
 msgid "%(sel)s of %(cnt)s selected"
 msgid_plural "%(sel)s of %(cnt)s selected"
@@ -80,39 +83,38 @@ msgid ""
 "You have unsaved changes on individual editable fields. If you run an "
 "action, your unsaved changes will be lost."
 msgstr ""
-"Sie haben Änderungen an bearbeitbaren Feldern vorgenommen und nicht "
-"gespeichert. Wollen Sie die Aktion trotzdem ausführen und Ihre Änderungen "
-"verwerfen?"
+"Sie haben ungespeicherte Änderungen an einzelnen bearbeitbaren Feldern vorgenommen. "
+"Wenn Sie eine Aktion ausführen, gehen Ihre ungespeicherten Änderungen verloren."
 
 msgid ""
 "You have selected an action, but you haven't saved your changes to "
 "individual fields yet. Please click OK to save. You'll need to re-run the "
 "action."
 msgstr ""
-"Sie haben eine Aktion ausgewählt, aber ihre vorgenommenen Änderungen nicht "
-"gespeichert. Klicken Sie OK, um dennoch zu speichern. Danach müssen Sie die "
-"Aktion erneut ausführen."
+"Sie haben eine Aktion ausgewählt, aber Ihre Änderungen an einzelnen Feldern "
+"noch nicht gespeichert. Bitte klicken Sie auf OK, um zu speichern. Danach müssen "
+"Sie die Aktion erneut ausführen."
 
 msgid ""
 "You have selected an action, and you haven't made any changes on individual "
 "fields. You're probably looking for the Go button rather than the Save "
 "button."
 msgstr ""
-"Sie haben eine Aktion ausgewählt, aber keine Änderungen an bearbeitbaren "
-"Feldern vorgenommen. Sie wollten wahrscheinlich auf \"Ausführen\" und nicht "
-"auf \"Speichern\" klicken."
+"Sie haben eine Aktion ausgewählt, aber keine Änderungen an den bearbeitbaren "
+"Feldern vorgenommen. Sie suchen wahrscheinlich den \"Ausführen\"-Button und nicht "
+"den \"Speichern\"-Button."
 
 #, javascript-format
 msgid "Note: You are %s hour ahead of server time."
 msgid_plural "Note: You are %s hours ahead of server time."
-msgstr[0] "Achtung: Sie sind %s Stunde der Serverzeit vorraus."
-msgstr[1] "Achtung: Sie sind %s Stunden der Serverzeit vorraus."
+msgstr[0] "Hinweis: Sie sind %s Stunde der Serverzeit voraus."
+msgstr[1] "Hinweis: Sie sind %s Stunden der Serverzeit voraus."
 
 #, javascript-format
 msgid "Note: You are %s hour behind server time."
 msgid_plural "Note: You are %s hours behind server time."
-msgstr[0] "Achtung: Sie sind %s Stunde hinter der Serverzeit."
-msgstr[1] "Achtung: Sie sind %s Stunden hinter der Serverzeit."
+msgstr[0] "Hinweis: Sie sind %s Stunde hinter der Serverzeit."
+msgstr[1] "Hinweis: Sie sind %s Stunden hinter der Serverzeit."
 
 msgid "Now"
 msgstr "Jetzt"
@@ -197,8 +199,7 @@ msgstr "Mo"
 msgctxt "one letter Tuesday"
 msgid "T"
 msgstr "Di"
-
-msgctxt "one letter Wednesday"
+```msgctxt "one letter Wednesday"
 msgid "W"
 msgstr "Mi"
 
@@ -215,7 +216,7 @@ msgid "S"
 msgstr "Sa"
 
 msgid "Show"
-msgstr "Einblenden"
+msgstr "Anzeigen"
 
 msgid "Hide"
 msgstr "Ausblenden"

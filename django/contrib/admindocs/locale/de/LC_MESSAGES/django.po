@@ -19,10 +19,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Administrative Documentation"
-msgstr "Administrative Dokumentation"
+msgstr "Administrationsdokumentation"
 
 msgid "Home"
-msgstr "Start"
+msgstr "Startseite"
 
 msgid "Documentation"
 msgstr "Dokumentation"
@@ -38,10 +38,10 @@ msgid ""
 "click the link and add it to your bookmarks. Now you can select the "
 "bookmarklet from any page in the site."
 msgstr ""
-"Um die Bookmarklets zu installieren, muss dieser Link in die Browser-"
-"Werkzeugleiste gezogen werden oder mittels rechter Maustaste in den "
-"Bookmarks gespeichert werden. Danach können die Bookmarklets von jeder Seite "
-"aufgerufen werden."
+"Um die Bookmarklets zu installieren, ziehen Sie den Link in Ihre Lesezeichen-"
+"Leiste oder klicken Sie mit der rechten Maustaste auf den Link und fügen Sie "
+"es zu Ihren Lesezeichen hinzu. Jetzt können Sie das Bookmarklet von jeder "
+"Seite der Website auswählen."
 
 msgid "Documentation for this page"
 msgstr "Dokumentation für diese Seite"
@@ -50,14 +50,14 @@ msgid ""
 "Jumps you from any page to the documentation for the view that generates "
 "that page."
 msgstr ""
-"Springt von jeder Seite zu der Dokumentation für den View, der diese Seite "
+"Springt von jeder Seite zur Dokumentation für den View, der diese Seite "
 "erzeugt."
 
 msgid "Tags"
 msgstr "Tags"
 
 msgid "List of all the template tags and their functions."
-msgstr "Alle Template-Tags und deren Funktionen auflisten."
+msgstr "Liste aller Template-Tags und deren Funktionen."
 
 msgid "Filters"
 msgstr "Filter"
@@ -66,8 +66,8 @@ msgid ""
 "Filters are actions which can be applied to variables in a template to alter "
 "the output."
 msgstr ""
-"Filter sind Aktionen, die in Templates auf Variablen angewendet werden "
-"können, um deren Ausgabe zu verändern."
+"Filter sind Aktionen, die auf Variablen in einem Template angewendet werden "
+"können, um die Ausgabe zu verändern."
 
 msgid "Models"
 msgstr "Modelle"
@@ -77,9 +77,9 @@ msgid ""
 "associated fields. Each model has a list of fields which can be accessed as "
 "template variables"
 msgstr ""
-"Modelle sind Beschreibungen aller Objekte und ihrer Felder, die sich im "
-"System befinden. Jedes Model hat eine Reihe von Feldern, auf in Form von "
-"Templatevariablen zugegriffen werden kann."
+"Modelle sind Beschreibungen aller Objekte im System und ihrer zugehörigen "
+"Felder. Jedes Modell hat eine Liste von Feldern, auf die als Template-"
+"Variablen zugegriffen werden kann."
 
 msgid "Views"
 msgstr "Views"
@@ -89,36 +89,36 @@ msgid ""
 "template is used to generate the page and which objects are available to "
 "that template."
 msgstr ""
-"Jede öffentliche Seite wird durch einen View generiert. Dieser View "
-"definiert, welches Template genutzt wird, um die Seite zu generieren und "
-"welche Objekte in dem jeweiligen Template zur Verfügung stehen."
+"Jede öffentliche Seite wird durch einen View generiert. Der View "
+"definiert, welches Template verwendet wird, um die Seite zu generieren, und "
+"welche Objekte in diesem Template zur Verfügung stehen."
 
 msgid "Tools for your browser to quickly access admin functionality."
 msgstr ""
-"Hilfsfunktionen für den Browser, um schnell auf den Administrationsbereich "
-"zugreifen zu können."
+"Werkzeuge für Ihren Browser, um schnell auf die Administrationsfunktionen "
+"zuzugreifen."
 
 msgid "Please install docutils"
-msgstr "Bitte docutils installieren."
+msgstr "Bitte installieren Sie docutils."
 
 #, python-format
 msgid ""
 "The admin documentation system requires Python's <a href=\"%(link)s"
 "\">docutils</a> library."
 msgstr ""
-"Das Admin-Dokumentationssystem erfordert die Python-Bibliothek <a href="
+"Das Admin-Dokumentationssystem benötigt die Python-Bibliothek <a href="
 "\"%(link)s\">docutils</a>."
 
 #, python-format
 msgid ""
 "Please ask your administrators to install <a href=\"%(link)s\">docutils</a>."
 msgstr ""
-"Bitte durch den/die Administrator/in <a href=\"%(link)s\">docutils</a> "
-"installieren lassen."
+"Bitte bitten Sie Ihre Administratoren, <a href=\"%(link)s\">docutils</a> "
+"zu installieren."
 
 #, python-format
 msgid "Model: %(name)s"
-msgstr "Model: %(name)s"
+msgstr "Modell: %(name)s"
 
 msgid "Fields"
 msgstr "Felder"
@@ -127,13 +127,13 @@ msgid "Field"
 msgstr "Feld"
 
 msgid "Type"
-msgstr "Klasse"
+msgstr "Typ"
 
 msgid "Description"
 msgstr "Beschreibung"
 
 msgid "Methods with arguments"
-msgstr "Methode mit Argumenten"
+msgstr "Methoden mit Argumenten"
 
 msgid "Method"
 msgstr "Methode"
@@ -142,13 +142,13 @@ msgid "Arguments"
 msgstr "Argumente"
 
 msgid "Back to Model documentation"
-msgstr "Zurück zur Model-Dokumentation"
+msgstr "Zurück zur Modellsdokumentation"
 
 msgid "Model documentation"
-msgstr "Model-Dokumentation"
+msgstr "Modellsdokumentation"
 
 msgid "Model groups"
-msgstr "Model-Gruppen"
+msgstr "Modellgruppen"
 
 msgid "Templates"
 msgstr "Templates"
@@ -164,7 +164,7 @@ msgstr "Template: \"%(name)s\""
 #. Translators: Search is not a verb here, it qualifies path (a search path)
 #, python-format
 msgid "Search path for template \"%(name)s\":"
-msgstr "Suchpfade für Template „%(name)s“"
+msgstr "Suchpfad für Template „%(name)s“"
 
 msgid "(does not exist)"
 msgstr "(existiert nicht)"
@@ -179,15 +179,15 @@ msgid "Template filter documentation"
 msgstr "Template-Filter-Dokumentation"
 
 msgid "Built-in filters"
-msgstr "Mitgelieferte Filter"
+msgstr "Eingebaute Filter"
 
 #, python-format
 msgid ""
 "To use these filters, put <code>%(code)s</code> in your template before "
 "using the filter."
 msgstr ""
-"Um diese Filter zu nutzen, muss sich <code>%(code)s</code> vor Aufruf des "
-"Filters im Template befinden."
+"Um diese Filter zu verwenden, fügen Sie <code>%(code)s</code> in Ihr "
+"Template ein, bevor Sie den Filter anwenden."
 
 msgid "Template tags"
 msgstr "Template-Tags"
@@ -196,14 +196,12 @@ msgid "Template tag documentation"
 msgstr "Template-Tag-Dokumentation"
 
 msgid "Built-in tags"
-msgstr "Mitgelieferte Tags"
-
-#, python-format
+msgstr "Eingebaute Tags"#, python-format
 msgid ""
 "To use these tags, put <code>%(code)s</code> in your template before using "
 "the tag."
 msgstr ""
-"Um diese Tags zu nutzen, muss sich <code>%(code)s</code> vor Aufruf des Tags "
+"Um diese Tags zu nutzen, muss sich <code>%(code)s</code> vor dem Aufruf des Tags "
 "im Template befinden."
 
 #, python-format
@@ -220,7 +218,7 @@ msgid "Back to View documentation"
 msgstr "Zurück zur View-Dokumentation"
 
 msgid "View documentation"
-msgstr "View Dokumentation"
+msgstr "View-Dokumentation"
 
 msgid "Jump to namespace"
 msgstr "Zu Namespace springen"
@@ -230,7 +228,7 @@ msgstr "Leerer Namespace"
 
 #, python-format
 msgid "Views by namespace %(name)s"
-msgstr "Views in Namespace %(name)s"
+msgstr "Views im Namespace %(name)s"
 
 msgid "Views by empty namespace"
 msgstr "Views ohne Namespace"
@@ -260,18 +258,18 @@ msgstr "Anwendung %(app_label)r nicht gefunden"
 
 #, python-format
 msgid "Model %(model_name)r not found in app %(app_label)r"
-msgstr "Modell %(model_name)r wurde nicht in Anwendung %(app_label)r gefunden"
+msgstr "Modell %(model_name)r wurde in Anwendung %(app_label)r nicht gefunden"
 
 msgid "model:"
 msgstr "Modell:"
 
 #, python-format
 msgid "the related `%(app_label)s.%(data_type)s` object"
-msgstr "Das verknüpfte `%(app_label)s.%(data_type)s` Objekt"
+msgstr "Das zugehörige `%(app_label)s.%(data_type)s`-Objekt"
 
 #, python-format
 msgid "related `%(app_label)s.%(object_name)s` objects"
-msgstr "verknüpfte `%(app_label)s.%(object_name)s` Objekte"
+msgstr "verwandte `%(app_label)s.%(object_name)s`-Objekte"
 
 #, python-format
 msgid "all %s"
@@ -283,4 +281,4 @@ msgstr "Anzahl von %s"
 
 #, python-format
 msgid "%s does not appear to be a urlpattern object"
-msgstr "%s ist scheinbar kein urlpattern-Objekt"
+msgstr "%s scheint kein urlpattern-Objekt zu sein"
