@@ -42,7 +42,7 @@ msgid ""
 "This can be either an absolute path (as above) or a full URL starting with "
 "'http://'."
 msgstr ""
-"Esto puede ser bien una ruta absoluta (como antes) o una URL completa que "
+"Esto puede ser una ruta absoluta (como la anterior) o una URL completa que "
 "empiece con 'http://'."
 
 msgid "redirect"
