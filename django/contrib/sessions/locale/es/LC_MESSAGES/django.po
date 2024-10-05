@@ -28,7 +28,7 @@ msgid "session data"
 msgstr "datos de sesión"
 
 msgid "expire date"
-msgstr "fecha de caducidad"
+msgstr "fecha de expiración"
 
 msgid "session"
 msgstr "sesión"
