@@ -37,7 +37,7 @@ msgstr "Fechas importantes"
 
 #, python-format
 msgid "%(name)s object with primary key %(key)r does not exist."
-msgstr "el objeto %(name)s con clave primaria %(key)r no existe."
+msgstr "El objeto %(name)s con clave primaria %(key)r no existe."
 
 msgid "Password changed successfully."
 msgstr "La contraseña se ha cambiado con éxito."
@@ -56,10 +56,10 @@ msgid "last login"
 msgstr "último inicio de sesión"
 
 msgid "No password set."
-msgstr "No se ha establecido la clave."
+msgstr "No se ha establecido ninguna contraseña."
 
 msgid "Invalid password format or unknown hashing algorithm."
-msgstr "Formato de clave incorrecto o algoritmo de hash desconocido."
+msgstr "Formato de contraseña incorrecto o algoritmo de hash desconocido."
 
 msgid "The two password fields didn't match."
 msgstr "Los dos campos de contraseña no coinciden."
@@ -68,25 +68,25 @@ msgid "Password"
 msgstr "Contraseña"
 
 msgid "Password confirmation"
-msgstr "Contraseña (confirmación)"
+msgstr "Confirmación de contraseña"
 
 msgid "Enter the same password as before, for verification."
-msgstr "Para verificar, introduzca la misma contraseña anterior."
+msgstr "Para verificar, introduzca la misma contraseña que antes."
 
 msgid ""
 "Raw passwords are not stored, so there is no way to see this user's "
 "password, but you can change the password using <a href=\"{}\">this form</a>."
 msgstr ""
-"Las contraseñas sin procesar no se almacenan, por lo que no hay forma de ver "
+"Las contraseñas en texto plano no se almacenan, por lo que no hay forma de ver "
 "la contraseña de este usuario, pero puedes cambiar la contraseña usando <a "
-"href=\"{}\">este formulario</a>"
+"href=\"{}\">este formulario</a>."
 
 #, python-format
 msgid ""
 "Please enter a correct %(username)s and password. Note that both fields may "
 "be case-sensitive."
 msgstr ""
-"Por favor, introduzca un %(username)s y clave correctos. Observe que ambos "
+"Por favor, introduzca un %(username)s y una contraseña correctos. Observe que ambos "
 "campos pueden ser sensibles a mayúsculas."
 
 msgid "This account is inactive."
@@ -96,14 +96,11 @@ msgid "Email"
 msgstr "Correo electrónico"
 
 msgid "New password"
-msgstr "Contraseña nueva"
-
-msgid "New password confirmation"
-msgstr "Contraseña nueva (confirmación)"
+msgstr "Nueva contraseña"msgid "New password confirmation"
+msgstr "Confirmación de nueva contraseña"
 
 msgid "Your old password was entered incorrectly. Please enter it again."
-msgstr ""
-"Su contraseña antigua es incorrecta. Por favor, vuelva a introducirla. "
+msgstr "Su contraseña antigua se introdujo incorrectamente. Por favor, introdúzcala de nuevo."
 
 msgid "Old password"
 msgstr "Contraseña antigua"
@@ -121,7 +118,7 @@ msgid "salt"
 msgstr "sal"
 
 msgid "hash"
-msgstr "función resumen"
+msgstr "función hash"
 
 msgid "variety"
 msgstr "variedad"
@@ -130,19 +127,19 @@ msgid "version"
 msgstr "versión"
 
 msgid "memory cost"
-msgstr "coste de memoria"
+msgstr "costo de memoria"
 
 msgid "time cost"
-msgstr "coste de tiempo"
+msgstr "costo de tiempo"
 
 msgid "parallelism"
 msgstr "paralelismo"
 
 msgid "work factor"
-msgstr "factor trabajo"
+msgstr "factor de trabajo"
 
 msgid "checksum"
-msgstr "suma de verificación"
+msgstr "suma de comprobación"
 
 msgid "name"
 msgstr "nombre"
@@ -151,7 +148,7 @@ msgid "content type"
 msgstr "tipo de contenido"
 
 msgid "codename"
-msgstr "nombre en código"
+msgstr "nombre en clave"
 
 msgid "permission"
 msgstr "permiso"
@@ -166,21 +163,21 @@ msgid "groups"
 msgstr "grupos"
 
 msgid "superuser status"
-msgstr "es superusuario"
+msgstr "estado de superusuario"
 
 msgid ""
 "Designates that this user has all permissions without explicitly assigning "
 "them."
 msgstr ""
-"Indica que este usuario tiene todos los permisos sin asignárselos "
+"Indica que este usuario tiene todos los permisos sin necesidad de asignárselos "
 "explícitamente."
 
 msgid ""
 "The groups this user belongs to. A user will get all permissions granted to "
 "each of their groups."
 msgstr ""
-"Los grupos a los que pertenece este usuario. Un usuario tendrá todos los "
-"permisos asignados a cada uno de sus grupos."
+"Los grupos a los que pertenece este usuario. Un usuario obtendrá todos los "
+"permisos otorgados a cada uno de sus grupos."
 
 msgid "user permissions"
 msgstr "permisos de usuario"
@@ -193,13 +190,10 @@ msgstr "nombre de usuario"
 
 msgid "Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only."
 msgstr ""
-"Requerido. 150 carácteres como máximo. Únicamente letras, dígitos y @/./+/-/"
-"_ "
+"Requerido. 150 caracteres como máximo. Solo letras, dígitos y @/./+/-/_."
 
 msgid "A user with that username already exists."
-msgstr "Ya existe un usuario con este nombre."
-
-msgid "first name"
+msgstr "Ya existe un usuario con ese nombre de usuario."msgid "first name"
 msgstr "nombre"
 
 msgid "last name"
@@ -209,10 +203,10 @@ msgid "email address"
 msgstr "dirección de correo electrónico"
 
 msgid "staff status"
-msgstr "es staff"
+msgstr "es personal"
 
 msgid "Designates whether the user can log into this admin site."
-msgstr "Indica si el usuario puede entrar en este sitio de administración."
+msgstr "Indica si el usuario puede iniciar sesión en este sitio de administración."
 
 msgid "active"
 msgstr "activo"
@@ -259,13 +253,13 @@ msgstr "La contraseña es demasiado similar a la de %(verbose_name)s."
 
 msgid "Your password can't be too similar to your other personal information."
 msgstr ""
-"Su contraseña no puede asemejarse tanto a su otra información personal."
+"Su contraseña no puede ser demasiado similar a su otra información personal."
 
 msgid "This password is too common."
 msgstr "Esta contraseña es demasiado común."
 
 msgid "Your password can't be a commonly used password."
-msgstr "Su contraseña no puede ser una clave utilizada comunmente."
+msgstr "Su contraseña no puede ser una contraseña utilizada comúnmente."
 
 msgid "This password is entirely numeric."
 msgstr "Esta contraseña es completamente numérica."
@@ -275,42 +269,41 @@ msgstr "Su contraseña no puede ser completamente numérica."
 
 #, python-format
 msgid "Password reset on %(site_name)s"
-msgstr "Contraseña restablecida en %(site_name)s"
+msgstr "Restablecimiento de contraseña en %(site_name)s"
 
 msgid ""
 "Enter a valid username. This value may contain only English letters, "
 "numbers, and @/./+/-/_ characters."
 msgstr ""
-"Introduza un nombre de usuario válido. Este valor puede contener únicamente "
-"letras inglesas, números y los caracteres @/./+/-/_ "
+"Ingrese un nombre de usuario válido. Este valor puede contener únicamente "
+"letras en inglés, números y los caracteres @/./+/-/_."
 
 msgid ""
 "Enter a valid username. This value may contain only letters, numbers, and "
 "@/./+/-/_ characters."
 msgstr ""
-"Introduza un nombre de usuario válido. Este valor puede contener únicamente "
-"letras, números y los caracteres @/./+/-/_ "
+"Ingrese un nombre de usuario válido. Este valor puede contener únicamente "
+"letras, números y los caracteres @/./+/-/_."
 
 msgid "Logged out"
-msgstr "Sesión terminada"
+msgstr "Sesión cerrada"
 
 msgid "Password reset"
-msgstr "Restablecer contraseña"
+msgstr "Restablecimiento de contraseña"
 
-msgid "Password reset sent"
-msgstr "Restablecimiento de contraseña enviado"
+msgid "Password reset sent"msgstr "Restablecimiento de contraseña enviado"
 
 msgid "Enter new password"
-msgstr "Escriba la nueva contraseña"
+msgstr "Introduzca la nueva contraseña"
 
 msgid "Password reset unsuccessful"
-msgstr "Restablecimiento de contraseñas fallido"
+msgstr "El restablecimiento de la contraseña ha fallado"
 
 msgid "Password reset complete"
 msgstr "Restablecimiento de contraseña completado"
 
 msgid "Password change"
-msgstr "Cambiar contraseña"
+msgstr "Cambio de contraseña"
 
 msgid "Password change successful"
-msgstr "Contraseña cambiada correctamente"
+msgstr "Contraseña cambiada con éxito"

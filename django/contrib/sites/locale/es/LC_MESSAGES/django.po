@@ -24,7 +24,7 @@ msgid "Sites"
 msgstr "Sitios"
 
 msgid "The domain name cannot contain any spaces or tabs."
-msgstr "El nombre de dominio no puede contener espacios ni tabulaciones"
+msgstr "El nombre de dominio no puede contener espacios ni tabulaciones."
 
 msgid "domain name"
 msgstr "nombre de dominio"
